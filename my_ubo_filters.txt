@@ -135,3 +135,65 @@ www.gadgetsnow.com##header
 epaper.timesgroup.com##div.card.desktop-only > .nav-digitalmenu-mob.navbar
 epaper.timesgroup.com##div.card.desktop-only > .nav-tab-mob
 
+! 2023-10-02 https://www.wionews.com
+www.wionews.com##.ads-placeholder-internal
+www.wionews.com##.ads-box-d90-m300
+www.wionews.com##.social-icon-mob.social-icon
+www.wionews.com##.social-icon
+www.wionews.com###footer
+www.wionews.com##.article-share-data
+www.wionews.com##.img-share-twt
+www.wionews.com##.my-2.now.trending.trending-recommended
+www.wionews.com##.now.trending.thumb-cre
+www.wionews.com##.article-registration-form
+
+! 2023-10-02 https://www.techspot.com
+www.techspot.com##.trust-feat
+
+! 2023-10-02 https://www.wionews.com
+www.wionews.com##.logo-container
+
+! 2023-10-02 https://www.indiatvnews.com
+www.indiatvnews.com##.pull-right.social-top
+www.indiatvnews.com##.pull-right.social
+www.indiatvnews.com###credential_picker_container
+www.indiatvnews.com##.pull-right.follow-google
+www.indiatvnews.com###footer
+www.indiatvnews.com##.row.social
+www.indiatvnews.com##.subscribe_follow
+www.indiatvnews.com##.graph-social.v_social
+
+! 2023-10-02 https://www.indiatoday.in
+www.indiatoday.in##.recommended__widget
+www.indiatoday.in##.is__expend.mainfooter
+www.indiatoday.in##.sharing
+www.indiatoday.in##.whtspp_share
+www.indiatoday.in##.story__recommended__chunk
+www.indiatoday.in##.topmenu
+www.indiatoday.in##.authtwitterdark
+www.indiatoday.in##.mhide.rhs__section
+
+! 2023-10-02 https://aniwave.to
+aniwave.to##.socials
+
+! 2023-10-02 https://bharat.republicworld.com
+bharat.republicworld.com##.letterSpacing0px.font-roboto.footerSection
+bharat.republicworld.com##.padbtm100.padtop50.section1200
+bharat.republicworld.com###storyShareContainer
+bharat.republicworld.com##.mrgntop15.font-roboto.watch-livetv.r-logo
+bharat.republicworld.com##.font-roboto.youtube-subscribe.r-logo
+bharat.republicworld.com##.padtop20.follow-us
+
+! 2023-10-02 https://www.republicworld.com
+www.republicworld.com###banner-cube-pe
+www.republicworld.com##.share-social-media.flex
+www.republicworld.com##.letterSpacing0px.font-roboto.footerSection
+www.republicworld.com##.padtop20.follow-us
+www.republicworld.com##.mrgntop15.font-roboto.watch-livetv.r-logo
+www.republicworld.com##.font-roboto.youtube-subscribe.r-logo
+www.republicworld.com##.rightpane
+www.republicworld.com###fixednav > .flex > .padtop10.flexJustifyBetween.font-roboto.flex.section1200 > div.mrgntbauto.flex > div.mrgntbauto > a.flex > .switch-wrapper
+www.republicworld.com##div.padbtm10
+www.republicworld.com##.ads-decorator
+www.republicworld.com##.mrgnbtm20.storycomments
+
