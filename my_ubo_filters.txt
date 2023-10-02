@@ -1,0 +1,133 @@
+! Title: my_ubo_filters
+! Description: My custom list of filters taken from various sources
+! Homepage: https://gist.github.com/devashishkatoriya/782def126a91301557dc6f8a9019be91
+
+!------------------------------------------------
+! Additional Filter Lists
+!------------------------------------------------
+! Easylist (Optimized) - https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
+! Easylist w/o element hiding rules - https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt
+! Easyprivacy (Optimized) - https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+
+! Adguard Base filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+! Adguard Tracking Protection filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+! Adguard Social Media filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
+! Filter unblocking search ads & self-promotion (Optimized) - https://filters.adtidy.org/extension/ublock/filters/10_optimized.txt  
+! Adguard Mobile Filters (Optimized) - https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+! Adguard Annoyances filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+! Adguard SDNS Filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/15_optimized.txt
+! Adguard URL Tracking Filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/17_optimized.txt
+! Adguard Cookie Notices filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/18_optimized.txt
+! Adguard Popups filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/19_optimized.txt
+! Adguard Mobile App Banners filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/20_optimized.txt
+! Adguard Other Annoyances filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/21_optimized.txt
+! Adguard Widgets filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/22_optimized.txt
+! Adguard CNAME original trackers list - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt
+
+! Block 3p fonts - https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+! Browse sites w/o Logging In - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+! Bypass Paywalls Clean filters - https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+! ClearURLs for uBo (unofficial) - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+! Actually Legitimate URL Shortener Tool - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+
+!------------------------------------------------
+! MY CUSTOM FILTERS
+!------------------------------------------------
+! https://d3ward.github.io/toolz/adblock.html fix for firebox based browsers
+!@@*$redirect-rule
+
+! Spoof detectadblock.com adblocker detection 
+@@||detectadblock.com/*.js$~third-party
+
+! Spoof thehindu.com adblocker detection
+thehindu.com#?#.tp-modal:has(> div.tp-iframe-wrapper > iframe[id^="offer"][src*="/offer/show?"])
+thehindu.com#?#.tp-modal:has(> div.tp-iframe-wrapper > iframe[id^="offer_"][src*="/cacheableShow?aid="][src*="offerId=fakeOfferId"][src$="widget=template"])
+thehindu.com#$#.tp-backdrop { display: none!important; }
+thehindu.com#$#body.tp-modal-open { overflow: auto !important;height: auto !important; }
+thehindu.com##div[class*="covid"][class*="Cube"]
+thehindu.com##+js(set, window.Adblock, false)
+thehindu.com##+js(set, window.isNonSubcribed, false)
+
+! 2023-09-30 https://www.thehindu.com
+www.thehindu.com###credential_picker_container
+www.thehindu.com##.flexdfpad.dfp-ad
+www.thehindu.com###artmeterpvcr
+www.thehindu.com##.app-icon
+
+! thehindu.com bypass paywall
+||piano.io/xbuilder/experience/execute$xhr,3p
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1523lt8/videos_not_playing_on_wionewscom/
+@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=wionews.com
+wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
+
+! 2023-09-30 https://epaper.timesgroup.com - Bypass 3 mins time limit to read times of india epaper
+epaper.timesgroup.com##.myoverlaySubscribeAlert.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 2023-09-30 https://www.speedtest.net
+www.speedtest.net###zdcFloatingBtn
+www.speedtest.net##.lower-content-view
+www.speedtest.net##.footer
+www.speedtest.net##.lowerboard-content
+www.speedtest.net##.nav-menu
+www.speedtest.net##.eot-box-wrapper.pure-u-1
+
+! 2023-09-30 https://www.news18.com
+www.news18.com##.ss_wrp
+www.news18.com##.cn_widget
+www.news18.com##.DisplayIcon.bell_wrpapper
+www.news18.com##.nhsocial
+www.news18.com##.trandingTopics
+www.news18.com##.lnlapp
+www.news18.com##.common-footer
+www.news18.com##.article_bnow
+www.news18.com##.video_carouselwrp
+www.news18.com##.right
+www.news18.com##.articleshare-new
+www.news18.com##.rhs_ad
+
+! 2023-09-30 https://www.gadgetsnow.com
+www.gadgetsnow.com##.nextASwidget
+
+! 2023-09-30 https://www.newslaundry.com
+www.newslaundry.com###floating-pod-button
+
+! 2023-09-30 https://www.thehindu.com
+www.thehindu.com###credential_picker_container
+www.thehindu.com##.flexdfpad.dfp-ad
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1523lt8/videos_not_playing_on_wionewscom/
+@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=wionews.com
+wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
+
+! 2023-10-01 https://zeenews.india.com
+zeenews.india.com##.lang-select
+zeenews.india.com##.category-slider
+zeenews.india.com##.article_share
+zeenews.india.com##.zeeft-sticky
+
+! 2023-10-01 https://www.techspot.com
+www.techspot.com##.header-top
+www.techspot.com##.social-column
+www.techspot.com##footer
+www.techspot.com##.sidebar
+www.techspot.com##.b-loaded.entered.b-lazy.subDriveRevBot
+
+! 2023-10-01 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###header-masthead
+timesofindia.indiatimes.com###minitv_v3_container
+timesofindia.indiatimes.com##.main-sociable
+timesofindia.indiatimes.com##.showoldflow.prime-inline-widget
+timesofindia.indiatimes.com##.social_header.socialfooter
+timesofindia.indiatimes.com##.article_rhs
+timesofindia.indiatimes.com##.share
+timesofindia.indiatimes.com##.sidebar
+
+! 2023-10-01 https://www.gadgetsnow.com
+www.gadgetsnow.com###credential_picker_container
+www.gadgetsnow.com##header
+
+! 2023-10-01 https://epaper.timesgroup.com
+epaper.timesgroup.com##div.card.desktop-only > .nav-digitalmenu-mob.navbar
+epaper.timesgroup.com##div.card.desktop-only > .nav-tab-mob
+
