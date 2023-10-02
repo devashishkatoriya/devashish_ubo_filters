@@ -1,6 +1,9 @@
 ! Title: my_ubo_filters
 ! Description: My custom list of filters taken from various sources
+! Expires: 4 days
+! Last modified: Mon, 02 Oct 2023 12:00:00 +0530
 ! Homepage: https://gist.github.com/devashishkatoriya/782def126a91301557dc6f8a9019be91
+! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/my_ubo_filters.txt
 
 !------------------------------------------------
 ! Additional Filter Lists
@@ -8,6 +11,7 @@
 ! Easylist (Optimized) - https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
 ! Easylist w/o element hiding rules - https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt
 ! Easyprivacy (Optimized) - https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+! pp_servers - https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/pp_servers.txt
 
 ! Adguard Base filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 ! Adguard Tracking Protection filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
