@@ -3,6 +3,7 @@
 ! Expires: 2 days
 ! Last modified: Fri, 01 Sep 2023 07:35:28 +0000
 ! Homepage: https://gist.github.com/devashishkatoriya/4ff529f0d5a06c7be2f575c0fbfffd45
+! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/pp_servers.txt
 
 /^https?:\/\/.*\/easylist\/[0-9]{5}/
 /^https:\/\/x?1337x\.(?:[0-9a-z]{3,9}\.)?[a-z]{2,4}\/(?:css\/)?(?:images\/)?[0-9a-zA-Z]+\.(?:gif|jpe?g|png)/$image,first-party,domain=1337x.*|1337x.g3g.*|x1337x.*|unblockit.*
