@@ -197,3 +197,40 @@ www.republicworld.com##div.padbtm10
 www.republicworld.com##.ads-decorator
 www.republicworld.com##.mrgnbtm20.storycomments
 
+! 2023-10-02 https://bharat.republicworld.com
+bharat.republicworld.com###mainheader > .flex > .padtop10.flexJustifyBetween.font-roboto.flex.section1200 > div.mrgntbauto.flex > .mrgntbauto.flex > div > a.flex
+
+! 2023-10-02 https://www.news18.com
+www.news18.com##.email
+
+! 2023-10-03 https://economictimes.indiatimes.com
+economictimes.indiatimes.com##.short.stickyBand
+economictimes.indiatimes.com###scrollTop
+economictimes.indiatimes.com##.sideBar
+economictimes.indiatimes.com##.wa_channel_bnr
+economictimes.indiatimes.com##.custom_ad
+economictimes.indiatimes.com##.external_widget.primeSWrapper
+economictimes.indiatimes.com##.disclamerText
+economictimes.indiatimes.com##.top_f_us.hdr_spcl_ofr
+economictimes.indiatimes.com##.subScribe.dib
+economictimes.indiatimes.com##footer
+economictimes.indiatimes.com##.band
+
+! 2023-10-03 https://www.irctc.co.in
+www.irctc.co.in###askDishaSdk
+
+! 2023-10-03 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###credential_picker_container
+
+! 2023-10-05 https://latifistreams.com
+latifistreams.com##.column2
+
+! 2023-10-05 https://links.modlinkz.xyz
+links.modlinkz.xyz##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
+
+! 2023-10-05 https://www.theregister.com
+www.theregister.com##.sharing_box
+
+! 2023-10-05 https://www.news18.com
+www.news18.com###credential_picker_container
+
