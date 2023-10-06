@@ -2,7 +2,7 @@
 ! Description: My custom list of filters taken from various sources
 ! Expires: 4 days
 ! Last modified: Mon, 02 Oct 2023 12:00:00 +0530
-! Homepage: https://github.com/devashishkatoriya/devashish_ubo_filters/tree/main
+! Homepage: https://gist.github.com/devashishkatoriya/782def126a91301557dc6f8a9019be91
 ! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/my_ubo_filters.txt
 
 !------------------------------------------------
@@ -192,13 +192,9 @@ www.republicworld.com##.padtop20.follow-us
 www.republicworld.com##.mrgntop15.font-roboto.watch-livetv.r-logo
 www.republicworld.com##.font-roboto.youtube-subscribe.r-logo
 www.republicworld.com##.rightpane
-www.republicworld.com###fixednav > .flex > .padtop10.flexJustifyBetween.font-roboto.flex.section1200 > div.mrgntbauto.flex > div.mrgntbauto > a.flex > .switch-wrapper
 www.republicworld.com##div.padbtm10
 www.republicworld.com##.ads-decorator
 www.republicworld.com##.mrgnbtm20.storycomments
-
-! 2023-10-02 https://bharat.republicworld.com
-bharat.republicworld.com###mainheader > .flex > .padtop10.flexJustifyBetween.font-roboto.flex.section1200 > div.mrgntbauto.flex > .mrgntbauto.flex > div > a.flex
 
 ! 2023-10-02 https://www.news18.com
 www.news18.com##.email
@@ -233,4 +229,15 @@ www.theregister.com##.sharing_box
 
 ! 2023-10-05 https://www.news18.com
 www.news18.com###credential_picker_container
+
+! 2023-10-06 https://www.firstpost.com
+www.firstpost.com###credential_picker_container
+www.firstpost.com##.social-div
+www.firstpost.com##.horizontal-share
+www.firstpost.com##.footer
+
+! 2023-10-06 https://allthatsinteresting.com
+allthatsinteresting.com##.pbh_inline
+allthatsinteresting.com##.main-footer
+allthatsinteresting.com##.social-row.row
 
