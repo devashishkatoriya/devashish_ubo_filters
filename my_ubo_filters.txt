@@ -241,3 +241,18 @@ allthatsinteresting.com##.pbh_inline
 allthatsinteresting.com##.main-footer
 allthatsinteresting.com##.social-row.row
 
+! 2023-10-07 https://www.news18.com
+www.news18.com##.videoSocial
+
+! 2023-10-07 https://www.myjewishlearning.com
+www.myjewishlearning.com##.m-ad__full
+www.myjewishlearning.com###ad-move-to-content
+
+! 2023-10-07 https://www.news18.com
+www.news18.com##.social_ping
+
+! 2023-10-08 https://epaper.timesgroup.com
+epaper.timesgroup.com###nav-bar
+epaper.timesgroup.com##.head-ax
+epaper.timesgroup.com###nav-desktop > .card.desktop-only
+
