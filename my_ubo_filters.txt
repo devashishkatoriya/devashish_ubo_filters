@@ -118,7 +118,7 @@ www.techspot.com##.sidebar
 www.techspot.com##.b-loaded.entered.b-lazy.subDriveRevBot
 
 ! 2023-10-01 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com###header-masthead
+!timesofindia.indiatimes.com###header-masthead
 timesofindia.indiatimes.com###minitv_v3_container
 timesofindia.indiatimes.com##.main-sociable
 timesofindia.indiatimes.com##.showoldflow.prime-inline-widget
@@ -255,4 +255,12 @@ www.news18.com##.social_ping
 epaper.timesgroup.com###nav-bar
 epaper.timesgroup.com##.head-ax
 epaper.timesgroup.com###nav-desktop > .card.desktop-only
+
+! 2023-10-09 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###widget-two
+timesofindia.indiatimes.com##.tpwidget-inline
+timesofindia.indiatimes.com##.icon_share_wrap
+timesofindia.indiatimes.com##.lhsSticky
+timesofindia.indiatimes.com##.visualstoriesas_wrapper
+timesofindia.indiatimes.com##.articletrendinglistwrapper
 
