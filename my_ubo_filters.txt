@@ -265,5 +265,5 @@ timesofindia.indiatimes.com##.visualstoriesas_wrapper
 timesofindia.indiatimes.com##.articletrendinglistwrapper
 timesofindia.indiatimes.com##.animate__faster.animate__slideInUp.animate__animated.storiesContainer
 timesofindia.indiatimes.com##.react-share__ShareButton
-
+timesofindia.indiatimes.com##.plan_details
 
