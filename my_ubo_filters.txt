@@ -2,7 +2,7 @@
 ! Description: My custom list of filters taken from various sources
 ! Expires: 4 days
 ! Last modified: Mon, 02 Oct 2023 12:00:00 +0530
-! Homepage: https://github.com/devashishkatoriya/devashish_ubo_filters/tree/main
+! Homepage: https://gist.github.com/devashishkatoriya/782def126a91301557dc6f8a9019be91
 ! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/my_ubo_filters.txt
 
 !------------------------------------------------
@@ -269,4 +269,53 @@ timesofindia.indiatimes.com##.plan_details
 
 ! 2023-10-10 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.css-zhoox4
+
+! 2023-10-13 https://hindupost.in
+hindupost.in##.td-post-sharing-style1.td-ps-notext.td-ps-bg.tdb-block.td-post-sharing
+hindupost.in##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_150.vc_column
+hindupost.in##.td-scroll-up-visible.td-hide-scroll-up-on-mob.td-scroll-up
+hindupost.in##.td-post-sharing-style5.td-ps-bar.td-ps-notext.td-ps-bg.tdb-block.td-post-sharing
+
+! 2023-10-13 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.header-ad
+
+! 2023-10-13 https://www.hindustantimes.com
+www.hindustantimes.com###divTrendingTopic
+www.hindustantimes.com###divDontMiss
+www.hindustantimes.com##.rgtAdSection
+www.hindustantimes.com##.shareSticky
+www.hindustantimes.com##.new__socialIcons
+www.hindustantimes.com##.googleFollow
+www.hindustantimes.com##.hdrSubcribe
+
+! 2023-10-15 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.notiBoxWrap
+
+! 2023-10-12 https://www.thehindu.com
+www.thehindu.com##.readinapp-mob.read-in-app.btn
+
+! 2023-10-12 https://m.timesofindia.com
+m.timesofindia.com###widget-tp-sticky
+
+! 2023-10-13 https://www.speedtest.net
+www.speedtest.net##.mobile-during-test-banner
+www.speedtest.net##.nav-mobile-controls
+www.speedtest.net##.mobile-eot-banner
+
+! 2023-10-14 https://epaper.timesgroup.com
+epaper.timesgroup.com##.row.bg-white.justify-content-center
+epaper.timesgroup.com##.row.sticky-switch-view
+epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
+
+! 2023-10-14 https://www.hindustantimes.com
+www.hindustantimes.com##.wAppJoinUs
+www.hindustantimes.com##.dHide.openAppButton
+www.hindustantimes.com###scorecard__widget__box__cube
+www.hindustantimes.com##.shareSticky
+www.hindustantimes.com##.googleFollow
+www.hindustantimes.com##.followHT
+www.hindustantimes.com##.detail > .mb10.mt10
+
+! 2023-10-14 https://www.gadgetsnow.com
+www.gadgetsnow.com##.atfbox
 
