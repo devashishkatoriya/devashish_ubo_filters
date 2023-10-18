@@ -1,7 +1,7 @@
 ! Title: my_ubo_filters
 ! Description: My custom list of filters taken from various sources
-! Expires: 4 days
-! Last modified: Mon, 02 Oct 2023 12:00:00 +0530
+! Expires: 4 hours
+! Last__modified: Mon, 02 Oct 2023 12:00:00 +0530
 ! Homepage: https://gist.github.com/devashishkatoriya/782def126a91301557dc6f8a9019be91
 ! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/my_ubo_filters.txt
 
@@ -318,4 +318,17 @@ www.hindustantimes.com##.detail > .mb10.mt10
 
 ! 2023-10-14 https://www.gadgetsnow.com
 www.gadgetsnow.com##.atfbox
+
+! 2023-10-15 https://aniwave.to
+aniwave.to##.bsharing
+
+! 2023-10-15 https://myanimelist.net
+myanimelist.net##.ga-impression.ga-click.btn-mal-service
+myanimelist.net###tbl-next-up
+myanimelist.net##.footer-link-icon-block
+myanimelist.net##.trc-content-hybrid.alternating-thumbnails-a.trc_rbox
+
+! 2023-10-15 https://www.wionews.com
+www.wionews.com##.recommended_widget
+www.wionews.com##.social-icon-circle
 
