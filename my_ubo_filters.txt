@@ -28,6 +28,8 @@
 ! Adguard Widgets filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/22_optimized.txt
 ! Adguard CNAME original trackers list - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt
 
+! Hagezi's Normal Blocklist - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
+
 ! Block 3p fonts - https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 ! Browse sites w/o Logging In - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 ! Bypass Paywalls Clean filters - https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
