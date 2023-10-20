@@ -334,3 +334,67 @@ myanimelist.net##.trc-content-hybrid.alternating-thumbnails-a.trc_rbox
 www.wionews.com##.recommended_widget
 www.wionews.com##.social-icon-circle
 
+! 2023-10-12 https://www.thehindu.com
+www.thehindu.com##.readinapp-mob.read-in-app.btn
+
+! 2023-10-12 https://m.timesofindia.com
+m.timesofindia.com###widget-tp-sticky
+
+! 2023-10-13 https://www.speedtest.net
+www.speedtest.net##.mobile-during-test-banner
+www.speedtest.net##.nav-mobile-controls
+www.speedtest.net##.mobile-eot-banner
+
+! 2023-10-14 https://epaper.timesgroup.com
+epaper.timesgroup.com##.row.bg-white.justify-content-center
+epaper.timesgroup.com##.row.sticky-switch-view
+epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
+
+! 2023-10-14 https://www.hindustantimes.com
+www.hindustantimes.com##.wAppJoinUs
+www.hindustantimes.com##.dHide.openAppButton
+www.hindustantimes.com###scorecard__widget__box__cube
+www.hindustantimes.com##.shareSticky
+www.hindustantimes.com##.googleFollow
+www.hindustantimes.com##.followHT
+www.hindustantimes.com##.detail > .mb10.mt10
+
+! 2023-10-14 https://www.gadgetsnow.com
+www.gadgetsnow.com##.atfbox
+
+! 2023-10-16 https://m.timesofindia.com
+m.timesofindia.com###social-prime
+
+! 2023-10-16 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###widget-tp-sticky
+
+! 2023-10-17 https://www.businesstoday.in
+www.businesstoday.in##.stoybday-ad
+www.businesstoday.in##.inner-ad-section
+www.businesstoday.in##.story__top__ad
+www.businesstoday.in##.ad_pg_btm_hid.ad_pg_btm
+www.businesstoday.in##.social_share.whatsappshare.whticonm.whatsapp_share
+www.businesstoday.in##.rhs-fixwhtsapp
+www.businesstoday.in##.ad_pg_btm
+www.businesstoday.in##.main-banner
+www.businesstoday.in##.share-social-icons
+www.businesstoday.in##.story_bottom_social_icon
+www.businesstoday.in###taboola-below-article-thumbnails
+www.businesstoday.in##.ad-300X250-body
+www.businesstoday.in##.social
+www.businesstoday.in##.daily-news-letter
+www.businesstoday.in###webpush-onsite
+www.businesstoday.in##.mrk_ad_wrp
+www.businesstoday.in###taboola-below-homepage-thumbnails
+
+! 2023-10-18 https://myanimelist.net
+myanimelist.net##.ga-impression.ga-click.btn-mal-service
+myanimelist.net##.anime-detail-sns.icon-block.js-sns-icon-container
+myanimelist.net###taboola-below-article-thumbnails-sp-anime
+
+! 2023-10-18 https://aniwave.to
+aniwave.to##.bsharing
+
+! 2023-10-18 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.mobile-socialshare-top
+
