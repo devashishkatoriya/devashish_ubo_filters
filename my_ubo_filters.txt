@@ -409,3 +409,6 @@ cryptokinews.com###secondary
 ! 2023-10-20 https://www.irctc.co.in
 www.irctc.co.in###disha-placeholder-card
 www.irctc.co.in###nlpCubeBox200X200
+
+! 2023-10-20 https://www.techspot.com
+www.techspot.com##.social-share-svg
