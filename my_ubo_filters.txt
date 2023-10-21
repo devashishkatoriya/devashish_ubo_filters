@@ -1,7 +1,6 @@
 ! Title: my_ubo_filters
 ! Description: My custom list of filters taken from various sources
-! Expires: 4 hours
-! Last__modified: Mon, 02 Oct 2023 12:00:00 +0530
+! Expires: 3 hours
 ! Homepage: https://github.com/devashishkatoriya/devashish_ubo_filters/tree/main
 ! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/my_ubo_filters.txt
 
@@ -398,3 +397,15 @@ aniwave.to##.bsharing
 ! 2023-10-18 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.mobile-socialshare-top
 
+! 2023-10-20 https://www.apkmirror.com
+www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+
+! 2023-10-20 https://aniwave.to
+aniwave.to##.st-inline-share-buttons
+
+! 2023-10-20 https://cryptokinews.com
+cryptokinews.com###secondary
+
+! 2023-10-20 https://www.irctc.co.in
+www.irctc.co.in###disha-placeholder-card
+www.irctc.co.in###nlpCubeBox200X200
