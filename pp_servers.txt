@@ -1,8 +1,12 @@
+[Adblock Plus 2.0]
+! Version: 
 ! Title: pp_servers
+! Last modified: 
+! Expires: 3 hours (update frequency)
+! Homepage: https://github.com/devashishkatoriya/devashish_ubo_filters/tree/main
+!
+
 ! Description: List of popup servers taken from ubo filters
-! Expires: 2 days
-! Last modified: Fri, 01 Sep 2023 07:35:28 +0000
-! Homepage: https://gist.github.com/devashishkatoriya/4ff529f0d5a06c7be2f575c0fbfffd45
 ! Link to this filter list: https://raw.githubusercontent.com/devashishkatoriya/devashish_ubo_filters/main/pp_servers.txt
 
 /^https?:\/\/.*\/easylist\/[0-9]{5}/
