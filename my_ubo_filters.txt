@@ -417,3 +417,11 @@ www.irctc.co.in###nlpCubeBox200X200
 
 ! 2023-10-20 https://www.techspot.com
 www.techspot.com##.social-share-svg
+
+! 2023-10-20 https://m.timesofindia.com
+m.timesofindia.com###share_clone_brief
+m.timesofindia.com###floatingopenappBriefs
+
+! 2023-10-21 https://in.ign.com
+in.ign.com##.full.sharer
+
