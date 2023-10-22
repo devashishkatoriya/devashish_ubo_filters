@@ -76,7 +76,6 @@ epaper.timesgroup.com##.myoverlaySubscribeAlert.ReactModal__Overlay--after-open.
 
 ! 2023-09-30 https://www.speedtest.net
 www.speedtest.net###zdcFloatingBtn
-www.speedtest.net##.lower-content-view
 www.speedtest.net##.footer
 www.speedtest.net##.lowerboard-content
 www.speedtest.net##.nav-menu
