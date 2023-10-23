@@ -427,4 +427,13 @@ in.ign.com##.full.sharer
 ! Bypass economist.com paywall
 www.economist.com$script
 
+! 2023-10-22 https://crichdplayer.com
+crichdplayer.com##.nopadding.hidden-xs.col-sm-12.col-md-3
+
+! 2023-10-22 https://myanimelist.net
+myanimelist.net##.icon-block.js-sns-icon-container
+
+! 2023-10-23 https://arstechnica.com
+arstechnica.com##.bx-creative
+
 
