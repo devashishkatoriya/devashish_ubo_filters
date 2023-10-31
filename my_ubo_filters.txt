@@ -453,4 +453,26 @@ www.vox.com##.c-article-footer-cta.c-article-footer
 www.irctc.co.in###div-gpt-ad-1695628181945-0
 www.irctc.co.in###dod
 
+! 2023-10-24 https://www.timesnownews.com
+www.timesnownews.com##[href^="https://www.linkedin.com/sharing/share-offsite/"]
+www.timesnownews.com##[href^="https://www.facebook.com/sharer/sharer.php"]
+www.timesnownews.com##[href^="https://twitter.com/intent/tweet"]
+
+! 2023-10-29 https://www.news18.com
+www.news18.com##.newftrshare_fixed.newftrshare
+www.news18.com##.joinUs_Wasp
+www.news18.com##.vshre
+www.news18.com##.DisplayIcon.instlsapp_fxd
+www.news18.com##.shareNlocation
+www.news18.com##.whatsapp_strip
+www.news18.com##.DynamicBottomBar
+www.news18.com##.ss_widget_Wrp
+www.news18.com###taboola-mid-article-thumbnails
+www.news18.com##.stky-ad-footer
+www.news18.com##.socalWrap
+www.news18.com##.feed_social
+
+! 2023-10-29 https://apnews.com
+apnews.com###usntA40Toggle
+
 
