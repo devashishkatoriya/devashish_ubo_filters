@@ -475,4 +475,15 @@ www.news18.com##.feed_social
 ! 2023-10-29 https://apnews.com
 apnews.com###usntA40Toggle
 
+! 2023-11-01 https://liveinsure.in
+liveinsure.in###sticky-ad
+liveinsure.in##.adsbyadop
+
+! 2023-11-01 https://katmoviehd.dev
+katmoviehd.dev##.meta-share
+
+! 2023-11-01 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[id^="readAlso_"]
+timesofindia.indiatimes.com##[id^="readNextColumnVariant_"]
+
 
