@@ -486,4 +486,37 @@ katmoviehd.dev##.meta-share
 timesofindia.indiatimes.com##[id^="readAlso_"]
 timesofindia.indiatimes.com##[id^="readNextColumnVariant_"]
 
+! 2023-11-03 https://crichd.tv
+crichd.tv##.nopadding.hidden-xs.col-sm-12.col-md-3
+
+! 2023-11-03 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.ggn_social
+timesofindia.indiatimes.com##[href^="https://wa.me/"]
+timesofindia.indiatimes.com##[href^="http://www.facebook.com/sharer.php"]
+timesofindia.indiatimes.com##[href^="http://twitter.com/share"]
+timesofindia.indiatimes.com##[href^="http://www.linkedin.com/shareArticle"]
+timesofindia.indiatimes.com##.topshareicon
+
+! 2023-11-02 https://www.wionews.com
+www.wionews.com##.ad_fixed
+www.wionews.com##.ads-box-970x90
+
+! 2023-11-02 https://www.news18.com
+www.news18.com##.add_section
+www.news18.com##.PGsocialBox
+www.news18.com##.pht-artcl-shr2
+
+! 2023-11-02 https://m.timesofindia.com
+m.timesofindia.com##.getapp.track
+
+! 2023-11-02 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.mobile-socialshare-bottom
+
+! 2023-11-02 https://m.timesofindia.com
+m.timesofindia.com##.social-icons.socialcont.id_social
+m.timesofindia.com##.newfooter
+
+! 2023-11-03 https://www.news18.com
+www.news18.com##.nav_social
+
 
