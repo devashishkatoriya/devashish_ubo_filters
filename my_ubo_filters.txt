@@ -437,9 +437,7 @@ myanimelist.net##.icon-block.js-sns-icon-container
 arstechnica.com##.bx-creative
 
 ! 2023-10-26 https://cryptokinews.com
-cryptokinews.com###div-gpt-ad-1691426621663-0
-cryptokinews.com###div-gpt-ad-1691426820024-0
-cryptokinews.com###div-gpt-ad-1691426621663-1
+cryptokinews.com##[id^="div-gpt-ad"]
 
 ! 2023-10-26 https://www.vox.com
 www.vox.com##.contribute-banner.visible.c-breaking-news
@@ -450,7 +448,7 @@ www.vox.com##.c-social-buttons
 www.vox.com##.c-article-footer-cta.c-article-footer
 
 ! 2023-10-26 https://www.irctc.co.in
-www.irctc.co.in###div-gpt-ad-1695628181945-0
+www.irctc.co.in##[id^="div-gpt-ad"]
 www.irctc.co.in###dod
 
 ! 2023-10-24 https://www.timesnownews.com
@@ -525,5 +523,4 @@ m.timesofindia.com##[id^="readAlso_"]
 m.timesofindia.com##[id^="readNextColumnVariant_"]
 m.timesofindia.com##.leadmedia.id-r-component.clearfix
 m.timesofindia.com##.iplcricketwidget
-
 
