@@ -519,4 +519,11 @@ m.timesofindia.com##.newfooter
 ! 2023-11-03 https://www.news18.com
 www.news18.com##.nav_social
 
+! 2023-11-05 https://m.timesofindia.com
+m.timesofindia.com##[href^="https://timesofindia.onelink.me/mjFd/"]
+m.timesofindia.com##[id^="readAlso_"]
+m.timesofindia.com##[id^="readNextColumnVariant_"]
+m.timesofindia.com##.leadmedia.id-r-component.clearfix
+m.timesofindia.com##.iplcricketwidget
+
 
