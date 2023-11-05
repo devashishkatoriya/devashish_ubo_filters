@@ -524,3 +524,33 @@ m.timesofindia.com##[id^="readNextColumnVariant_"]
 m.timesofindia.com##.leadmedia.id-r-component.clearfix
 m.timesofindia.com##.iplcricketwidget
 
+! 2023-11-05 https://www.hindustantimes.com
+www.hindustantimes.com##.amp-push-notification
+www.hindustantimes.com##.shareArticle
+www.hindustantimes.com###amp-web-p
+www.hindustantimes.com##.openAppButton
+
+! 2023-11-05 https://www.indiatoday.in
+www.indiatoday.in##.amp-ad
+www.indiatoday.in##.amp-izooto-sub
+www.indiatoday.in##.stkywhatsapp
+www.indiatoday.in##.whtother
+www.indiatoday.in##.footer__socialshare
+www.indiatoday.in###tab-link-wrapper-plugin
+www.indiatoday.in##.custom-amp-ad
+www.indiatoday.in##.ads__container
+www.indiatoday.in##.footernav
+www.indiatoday.in##[href="https://www.whatsapp.com/channel/0029Va2AnW3JENxxg7OuJv00"]
+www.indiatoday.in##.is-sticky.sana_popout
+www.indiatoday.in##[href^="whatsapp://send"]
+www.indiatoday.in##.tapBoxCls
+
+! 2023-11-05 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.iplcricketwidget
+
+! 2023-11-05 https://m.timesofindia.com
+m.timesofindia.com###toipfooter
+m.timesofindia.com##[href="https://timesofindia.onelink.me/efRt/GetAppUSHomepage"]
+m.timesofindia.com##.articleshowVs
+m.timesofindia.com##.mob-share-button
+
