@@ -554,3 +554,6 @@ m.timesofindia.com##[href="https://timesofindia.onelink.me/efRt/GetAppUSHomepage
 m.timesofindia.com##.articleshowVs
 m.timesofindia.com##.mob-share-button
 
+! 2023-11-05 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###toipfooter
+
