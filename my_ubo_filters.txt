@@ -557,3 +557,34 @@ m.timesofindia.com##.mob-share-button
 ! 2023-11-05 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###toipfooter
 
+! 2023-11-07 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.contentwrapper.footer_wrapper
+
+! 2023-11-07 https://epaper.indiatimes.com
+epaper.indiatimes.com##.other-publications.epaper-header
+
+! 2023-11-07 https://pcsupport.lenovo.com
+pcsupport.lenovo.com###lena-bot-window
+pcsupport.lenovo.com###confirmit-feedback
+
+! 2023-11-12 https://www.theregister.com
+www.theregister.com##.adun
+
+! 2023-11-12 https://gizmodo.com
+gizmodo.com##.js_modal_exit_intent
+gizmodo.com##.js_related-stories-inset
+gizmodo.com##.share-tools-v2.share-tools-buttons-top
+gizmodo.com##.connatix-main-container
+
+! 2023-11-12 https://arstechnica.com
+arstechnica.com##.xrail
+arstechnica.com##aside.ad_wrapper
+
+! 2023-11-20 https://www.hindustantimes.com
+www.hindustantimes.com###credential_picker_container
+www.hindustantimes.com##footer
+www.hindustantimes.com##.footer__ht__links
+www.hindustantimes.com###click2Top
+
+! 2023-11-20 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.trending_sliderContent
