@@ -593,9 +593,6 @@ timesofindia.indiatimes.com##.trending_sliderContent
 www.news18.com##.center_add
 www.news18.com##.influential_leader
 
-! Removes youtube logo - Comment if you want to retain top left Youtube logo when playing a video
-www.youtube.com###logo > .ytd-topbar-logo-renderer.style-scope.yt-simple-endpoint
-
 ! 2023-11-27 https://tech.unblockedgames.world
 tech.unblockedgames.world##[id^="div-gpt-ad-"]
 
