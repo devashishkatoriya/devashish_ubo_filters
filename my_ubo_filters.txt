@@ -588,3 +588,57 @@ www.hindustantimes.com###click2Top
 
 ! 2023-11-20 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.trending_sliderContent
+
+! 2023-11-21 https://www.news18.com
+www.news18.com##.center_add
+www.news18.com##.influential_leader
+
+! Removes youtube logo - Comment if you want to retain top left Youtube logo when playing a video
+www.youtube.com###logo > .ytd-topbar-logo-renderer.style-scope.yt-simple-endpoint
+
+! 2023-11-27 https://tech.unblockedgames.world
+tech.unblockedgames.world##[id^="div-gpt-ad-"]
+
+! 2023-11-27 https://cryptokinews.com
+cryptokinews.com##[id^="div-gpt-ad-"]
+
+! 2023-11-27 https://www.news18.com
+www.news18.com##.pht-artcl-shr
+
+! 2023-11-13 https://www.nextpit.com
+www.nextpit.com##.actionButton
+
+! 2023-11-14 https://oddfirm.com
+oddfirm.com##._ap_apex_ad
+
+! Block irritating Google credential login popups
+###credential_picker_iframe
+
+! 2023-11-14 https://www.news18.com
+www.news18.com##.closestickybtn
+
+! 2023-11-17 https://www.ndtv.com
+www.ndtv.com##.story_ft-nav
+www.ndtv.com##.story__social
+
+! 2023-11-17 https://indianexpress.com
+indianexpress.com##.ie-ie-share
+indianexpress.com##.amp-readinapp
+indianexpress.com##.js-btm-nav
+indianexpress.com###evnav_subscribe_ham
+indianexpress.com###append_breaking_box
+indianexpress.com##footer
+indianexpress.com##.subscribe-btn
+indianexpress.com##.s-level-menu
+indianexpress.com##.subscriber_hide
+
+! 2023-11-24 https://latifistreams.com
+latifistreams.com##.chatmobile
+
+! 2023-11-24 https://www.news18.com
+www.news18.com##.instlsapp_fxd
+www.news18.com##.ad-main
+
+! 2023-11-26 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[id^="custom_ad_wrapper_"]
+
