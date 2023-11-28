@@ -639,3 +639,6 @@ www.news18.com##.ad-main
 ! 2023-11-26 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[id^="custom_ad_wrapper_"]
 
+! 2023-11-28 https://www.trendyporn.com
+www.trendyporn.com##.side-bar-ad
+
