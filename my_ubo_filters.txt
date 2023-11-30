@@ -639,6 +639,9 @@ www.news18.com##.ad-main
 ! 2023-11-26 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[id^="custom_ad_wrapper_"]
 
+! 2023-11-29 https://bharat.republicworld.com
+bharat.republicworld.com##[href="https://whatsapp.com/channel/0029Va7GPTi7dmecQ2LFH01I"]
+
 ! 2023-11-28 https://www.trendyporn.com
 www.trendyporn.com##.side-bar-ad
 
