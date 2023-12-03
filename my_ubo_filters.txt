@@ -651,3 +651,10 @@ zeenews.india.com##.taboola.recommended_widget
 ! 2023-12-02 https://www.news18.com
 www.news18.com##.headerPartnerWrapper
 
+! 2023-11-29 https://www.thetatva.in
+www.thetatva.in##.social-icons-widget
+www.thetatva.in##.adsbygoogle
+www.thetatva.in##.share-buttons
+www.thetatva.in###post-newsletter
+www.thetatva.in##.show-check-also.check-also-right.container-wrapper
+
