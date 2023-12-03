@@ -648,3 +648,6 @@ www.trendyporn.com##.side-bar-ad
 ! 2023-12-02 https://zeenews.india.com
 zeenews.india.com##.taboola.recommended_widget
 
+! 2023-12-02 https://www.news18.com
+www.news18.com##.headerPartnerWrapper
+
