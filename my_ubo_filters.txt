@@ -658,3 +658,6 @@ www.thetatva.in##.share-buttons
 www.thetatva.in###post-newsletter
 www.thetatva.in##.show-check-also.check-also-right.container-wrapper
 
+profitshort.com,courselinkfree.us,technorozen.com,hubdrive.me,bestadvise4u.com,newztalkies.com,10desires.org,theapknews.shop,aiotechnical.com,cryptonewzhub.com,trendzguruji.me,techvybes.com,wizitales.com,101desires.com,10desires.net,aiotechnical.com###top_nav, .rd_btn, .soractrl:style(display: block !important;)
+profitshort.com,courselinkfree.us,technorozen.com,hubdrive.me,bestadvise4u.com,newztalkies.com,10desires.org,theapknews.shop,aiotechnical.com,cryptonewzhub.com,trendzguruji.me,techvybes.com,wizitales.com,101desires.com,10desires.net,aiotechnical.com###top_nav, .rd_btn, .soractrl, .large:others()
+
