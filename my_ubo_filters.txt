@@ -664,3 +664,19 @@ profitshort.com,courselinkfree.us,technorozen.com,hubdrive.me,bestadvise4u.com,n
 cryptokinews.com,techmirror.in##+js(nano-sib)
 cryptokinews.com,techmirror.in##center:others()
 
+! 2023-11-30 https://www.thehindu.com
+www.thehindu.com###pianomodalpaywallblockshowBanner
+www.thehindu.com##.advt-wrapper
+www.thehindu.com##.flooting-ad
+www.thehindu.com##.housing.sponsored.nonsubscriberonly
+
+! 2023-12-01 https://www.techradar.com
+www.techradar.com##.socialite-widget
+
+! 2023-12-01 https://www.speedtest.net
+www.speedtest.net##.modal-overlay-dark.modal-overlay
+www.speedtest.net##.mobile-pretest
+
+! 2023-12-07 https://www.news18.com
+www.news18.com##.partnersSlider
+
