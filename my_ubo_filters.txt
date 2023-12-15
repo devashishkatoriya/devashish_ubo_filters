@@ -680,3 +680,24 @@ www.speedtest.net##.mobile-pretest
 ! 2023-12-07 https://www.news18.com
 www.news18.com##.partnersSlider
 
+! 2023-12-13 https://www.news18.com
+||www.news18features.com/indianoftheyear/votingwidget/$subdocument
+
+! 2023-12-15 https://epaper.indiatimes.com
+epaper.indiatimes.com##.epaper-blocker
+
+! 2023-12-13 https://www.wionews.com
+www.wionews.com##.subscribe
+www.wionews.com##.footer-left-data
+
+! 2023-12-13 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.podcastBackButton
+
+! 2023-12-14 https://zeenews.india.com
+zeenews.india.com##.soclicnbx
+zeenews.india.com##.subscribe
+zeenews.india.com##footer
+zeenews.india.com##.appdownload
+zeenews.india.com##.menu_social
+zeenews.india.com##.otherlinks
+
