@@ -19,7 +19,7 @@
 ****************************************************************************/
 user_pref("nglayout.initialpaint.delay", 10);
 user_pref("nglayout.initialpaint.delay_in_oopif", 10);
-user_pref("content.notify.interval", 200000);
+user_pref("content.notify.interval", 200000);           // default 120000
 
 /** EXPERIMENTAL ***/
 user_pref("layout.css.grid-template-masonry-value.enabled", true);
@@ -85,7 +85,6 @@ user_pref("network.trr.mode", 2);
 user_pref("esni.enabled", true);
 
 
-
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
 ****************************************************************************/
@@ -93,7 +92,7 @@ user_pref("esni.enabled", true);
 // Enter your scrolling prefs below this line:
 // recommended for 60hz+ displays
 user_pref("apz.overscroll.enabled", true); // not DEFAULT on Linux
-user_pref("general.smoothScroll", false); // DEFAULT
+user_pref("general.smoothScroll", false); // DEFAULT = true
 user_pref("mousewheel.default.delta_multiplier_y", 275); // 250-400; adjust this number to your liking
 
 
