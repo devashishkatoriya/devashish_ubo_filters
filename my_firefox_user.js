@@ -83,6 +83,7 @@ user_pref("network.trr.default_provider_uri", "https://dns.google/dns-query");
 user_pref("network.trr.uri", "https://dns.google/dns-query");
 user_pref("network.trr.mode", 2);
 user_pref("esni.enabled", true);
+user_pref("network.dns.get-ttl", false);
 
 
 /****************************************************************************
