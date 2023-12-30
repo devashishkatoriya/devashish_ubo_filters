@@ -74,6 +74,16 @@ user_pref("browser.search.geoip.url", "");
 user_pref("browser.newtabpage.activity-stream.feeds.asrouterfeed", false);
 user_pref("browser.safebrowsing.downloads.remote.enabled", false);
 user_pref("extensions.blocklist.enabled", false);
+user_pref("network.dnsCacheEntries", 1000);
+user_pref("network.dnsCacheExpiration", 300);
+user_pref("network.trr.disable-ECS", false);
+user_pref("network.trr.bootstrapAddress", "8.8.8.8");
+user_pref("network.trr.custom_uri", "https://dns.google/dns-query");
+user_pref("network.trr.default_provider_uri", "https://dns.google/dns-query");
+user_pref("network.trr.uri", "https://dns.google/dns-query");
+user_pref("network.trr.mode", 2);
+user_pref("esni.enabled", true);
+
 
 
 /****************************************************************************
