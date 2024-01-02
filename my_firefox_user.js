@@ -84,6 +84,8 @@ user_pref("network.trr.uri", "https://dns.google/dns-query");
 user_pref("network.trr.mode", 2);
 user_pref("esni.enabled", true);
 user_pref("network.dns.get-ttl", false);
+user_pref("browser.tabs.closeWindowWithLastTab", false);            // Keep one tab always open, dont close the window on last tab close
+user_pref("browser.urlbar.update2.engineAliasRefresh", true);      // Enables button to Add custom search engine
 
 
 /****************************************************************************
