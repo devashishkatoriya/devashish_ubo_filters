@@ -716,3 +716,7 @@ timesofindia.indiatimes.com##.alsoread_widget
 timesofindia.indiatimes.com##.seowidget.vswapasslider
 timesofindia.indiatimes.com##.travelshare
 
+! 2024-01-10 https://www.news18.com
+www.news18.com##.open.NPrltd_story_Wrp
+www.news18.com##.related_stories_wrap
+
