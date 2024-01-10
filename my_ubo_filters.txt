@@ -701,3 +701,8 @@ zeenews.india.com##.appdownload
 zeenews.india.com##.menu_social
 zeenews.india.com##.otherlinks
 
+! 2024-01-02 https://www.tokyvideo.com
+www.tokyvideo.com##.social-icons
+
+! 2024-01-10 https://www.news18.com
+@@||static.vidgyor.com^$domain=news18.com
