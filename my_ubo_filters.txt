@@ -706,3 +706,13 @@ www.tokyvideo.com##.social-icons
 
 ! 2024-01-10 https://www.news18.com
 @@||static.vidgyor.com^$domain=news18.com
+
+! 2024-01-07 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.pssharebox
+timesofindia.indiatimes.com##.reading_widget
+timesofindia.indiatimes.com##.singlevideo.video_mid_items
+timesofindia.indiatimes.com##.visual_stories
+timesofindia.indiatimes.com##.alsoread_widget
+timesofindia.indiatimes.com##.seowidget.vswapasslider
+timesofindia.indiatimes.com##.travelshare
+
