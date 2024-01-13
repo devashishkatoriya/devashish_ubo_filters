@@ -560,9 +560,6 @@ timesofindia.indiatimes.com###toipfooter
 ! 2023-11-07 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.contentwrapper.footer_wrapper
 
-! 2023-11-07 https://epaper.indiatimes.com
-epaper.indiatimes.com##.other-publications.epaper-header
-
 ! 2023-11-07 https://pcsupport.lenovo.com
 pcsupport.lenovo.com###lena-bot-window
 pcsupport.lenovo.com###confirmit-feedback
