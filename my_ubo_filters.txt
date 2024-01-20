@@ -717,3 +717,26 @@ timesofindia.indiatimes.com##.travelshare
 www.news18.com##.open.NPrltd_story_Wrp
 www.news18.com##.related_stories_wrap
 
+! 2024-01-14 https://www.drikpanchang.com
+www.drikpanchang.com##.dpSocialButton
+www.drikpanchang.com##.dpAdSection
+www.drikpanchang.com##.ui-widget-content.ui-widget.ui-widget-shadow.ui-corner-all.ui-tooltip
+
+! 2024-01-14 https://www.abplive.com
+www.abplive.com##.uk-position-relative.footer
+www.abplive.com##.social_share
+www.abplive.com##.social-icons
+
+! 2024-01-17 https://epaper.jagran.com
+epaper.jagran.com##.login-col
+
+! 2024-01-16 https://www.spiritualfeed.net
+www.spiritualfeed.net##.animating.sticky.centered-top-container
+www.spiritualfeed.net##[href="https://bit.ly/AMZ0001"]
+
+! 2024-01-20 https://fsicomics.com
+fsicomics.com##.show-mobile.l-shared-sec-outer
+
+! 2024-01-20 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.phShimmer
+
