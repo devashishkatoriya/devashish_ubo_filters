@@ -753,4 +753,7 @@ www.apkmirror.com##.ains
 ||disqus.com/embed/comments/$subdocument
 www.apkmirror.com###disqus_thread
 
+! Allowlist to fix site breakages
+@@||ads.pubmatic.com
+@@||static.vidgyor.com
 
