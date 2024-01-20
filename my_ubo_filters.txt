@@ -740,3 +740,17 @@ fsicomics.com##.show-mobile.l-shared-sec-outer
 ! 2024-01-20 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.phShimmer
 
+! 2024-01-20 https://www.apkmirror.com
+www.apkmirror.com##.adsbygoogle
+www.apkmirror.com##.advertisement-text
+www.apkmirror.com##[href="https://twitter.com/apkmirror"]
+www.apkmirror.com##[href="https://www.facebook.com/apkmirror"]
+www.apkmirror.com##[href="https://mastodon.social/@apkmirror"]
+www.apkmirror.com##.pushbullet-subscribe-widget
+www.apkmirror.com##[href="https://t.me/apkmirror_official"]
+www.apkmirror.com##[href="https://www.apkmirror.com/feed/"]
+www.apkmirror.com##.ains
+||disqus.com/embed/comments/$subdocument
+www.apkmirror.com###disqus_thread
+
+
