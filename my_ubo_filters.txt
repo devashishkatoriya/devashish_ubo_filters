@@ -765,3 +765,15 @@ www.koreaboo.com##.amh-250.kba-inner
 www.koreaboo.com##div.kba-container
 www.koreaboo.com##.kbos-share
 
+! Allow for bot check
+@@||challenges.cloudflare.com
+
+! 2024-01-22 https://www.republicbharat.com
+www.republicbharat.com##.adWidget
+
+! Unbreak cloudflare anti bot test 2024-01-22 https://www.1337x.to
+@@||www.1337x.to^important
+
+! Unbreak 2024-01-22 https://www.republicbharat.com
+@@||c.amazon-adsystem.com^$script,domain=republicbharat.com
+
