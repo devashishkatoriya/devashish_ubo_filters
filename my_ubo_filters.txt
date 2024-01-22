@@ -777,3 +777,5 @@ www.republicbharat.com##.adWidget
 ! Unbreak 2024-01-22 https://www.republicbharat.com
 @@||c.amazon-adsystem.com^$script,domain=republicbharat.com
 
+! 2024-01-22 https://www.wionews.com
+@@||pubmatic.com^$domain=wionews.com
