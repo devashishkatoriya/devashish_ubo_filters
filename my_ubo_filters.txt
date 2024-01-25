@@ -772,10 +772,14 @@ www.koreaboo.com##.kbos-share
 www.republicbharat.com##.adWidget
 
 ! Unbreak cloudflare anti bot test 2024-01-22 https://www.1337x.to
-@@||www.1337x.to^important
+!@@||www.1337x.to^important
 
 ! Unbreak 2024-01-22 https://www.republicbharat.com
 @@||c.amazon-adsystem.com^$script,domain=republicbharat.com
 
 ! 2024-01-22 https://www.wionews.com
 @@||pubmatic.com^$domain=wionews.com
+
+! 2024-01-23 https://www.wired.com
+www.wired.com##.persistent-bottom
+
