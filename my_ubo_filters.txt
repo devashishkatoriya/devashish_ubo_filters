@@ -40,6 +40,8 @@
 ! ClearURLs for uBo (unofficial) - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 ! Actually Legitimate URL Shortener Tool - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 
+! uBlock filters – Link shorteners - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt
+
 !------------------------------------------------
 ! MY CUSTOM FILTERS
 !------------------------------------------------
@@ -72,7 +74,7 @@ www.thehindu.com##.app-icon
 wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
 
 ! 2023-09-30 https://epaper.timesgroup.com - Bypass 3 mins time limit to read times of india epaper
-epaper.timesgroup.com##.myoverlaySubscribeAlert.ReactModal__Overlay--after-open.ReactModal__Overlay
+!epaper.timesgroup.com##.myoverlaySubscribeAlert.ReactModal__Overlay--after-open.ReactModal__Overlay
 
 ! 2023-09-30 https://www.speedtest.net
 www.speedtest.net###zdcFloatingBtn
@@ -137,8 +139,8 @@ www.gadgetsnow.com###credential_picker_container
 www.gadgetsnow.com##header
 
 ! 2023-10-01 https://epaper.timesgroup.com
-epaper.timesgroup.com##div.card.desktop-only > .nav-digitalmenu-mob.navbar
-epaper.timesgroup.com##div.card.desktop-only > .nav-tab-mob
+!epaper.timesgroup.com##div.card.desktop-only > .nav-digitalmenu-mob.navbar
+!epaper.timesgroup.com##div.card.desktop-only > .nav-tab-mob
 
 ! 2023-10-02 https://www.wionews.com
 www.wionews.com##.ads-placeholder-internal
@@ -257,9 +259,9 @@ www.myjewishlearning.com###ad-move-to-content
 www.news18.com##.social_ping
 
 ! 2023-10-08 https://epaper.timesgroup.com
-epaper.timesgroup.com###nav-bar
-epaper.timesgroup.com##.head-ax
-epaper.timesgroup.com###nav-desktop > .card.desktop-only
+!epaper.timesgroup.com###nav-bar
+!epaper.timesgroup.com##.head-ax
+!epaper.timesgroup.com###nav-desktop > .card.desktop-only
 
 ! 2023-10-09 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###widget-two
@@ -308,9 +310,9 @@ www.speedtest.net##.nav-mobile-controls
 www.speedtest.net##.mobile-eot-banner
 
 ! 2023-10-14 https://epaper.timesgroup.com
-epaper.timesgroup.com##.row.bg-white.justify-content-center
-epaper.timesgroup.com##.row.sticky-switch-view
-epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
+!epaper.timesgroup.com##.row.bg-white.justify-content-center
+!epaper.timesgroup.com##.row.sticky-switch-view
+!epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
 
 ! 2023-10-14 https://www.hindustantimes.com
 www.hindustantimes.com##.wAppJoinUs
@@ -349,9 +351,9 @@ www.speedtest.net##.nav-mobile-controls
 www.speedtest.net##.mobile-eot-banner
 
 ! 2023-10-14 https://epaper.timesgroup.com
-epaper.timesgroup.com##.row.bg-white.justify-content-center
-epaper.timesgroup.com##.row.sticky-switch-view
-epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
+!epaper.timesgroup.com##.row.bg-white.justify-content-center
+!epaper.timesgroup.com##.row.sticky-switch-view
+!epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
 
 ! 2023-10-14 https://www.hindustantimes.com
 www.hindustantimes.com##.wAppJoinUs
@@ -786,3 +788,5 @@ www.wired.com##.persistent-bottom
 ! my pp servers
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,3p,redirect-rule=noop.js,match-case
 /^https?:\/\/[a-z]{8,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+)?$/$script,3p
+/^https:\/\/[a-z]{3,5}\.[a-z]{10,14}\.top\/[a-z]{10,16}\/[a-z]{5,6}(?:\?d=\d)?$/$script,3p,match-case
+
