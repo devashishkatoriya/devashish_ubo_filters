@@ -780,7 +780,7 @@ www.republicbharat.com##.adWidget
 @@||c.amazon-adsystem.com^$script,domain=republicbharat.com
 
 ! 2024-01-22 https://www.wionews.com
-@@||ads.pubmatic.com^$domain=wionews.com
+@@||pubmatic.com^$domain=wionews.com
 
 ! 2024-01-23 https://www.wired.com
 www.wired.com##.persistent-bottom
@@ -789,4 +789,18 @@ www.wired.com##.persistent-bottom
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,3p,redirect-rule=noop.js,match-case
 /^https?:\/\/[a-z]{8,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+)?$/$script,3p
 /^https:\/\/[a-z]{3,5}\.[a-z]{10,14}\.top\/[a-z]{10,16}\/[a-z]{5,6}(?:\?d=\d)?$/$script,3p,match-case
+
+! 2024-01-26 https://www.crunchyroll.com
+www.crunchyroll.com##.upsell-banner-container.erc-watch-upsell-banner
+
+! 2024-01-21 https://snapinsta.app
+snapinsta.app##.ax-section
+
+! 2024-01-23 https://www.timesnownews.com
+www.timesnownews.com##[href^="https://s.tnn.in/"]
+www.timesnownews.com##[href^="https://t.me/share/url"]
+www.timesnownews.com##[href^="https://wa.me/"]
+
+! 2024-01-26 https://www.wionews.com
+www.wionews.com##.ads-box-300x250
 
