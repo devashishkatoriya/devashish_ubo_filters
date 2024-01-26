@@ -681,6 +681,7 @@ www.apkmirror.com###disqus_thread
 ! Allowlist to fix site breakages
 @@||ads.pubmatic.com
 @@||static.vidgyor.com
+@@||pubmatic.com
 
 ! 2024-01-20 https://www.dexerto.com
 www.dexerto.com##div.lg\:mt-4.md\:mx-0.w-full.items-center.flex-col.flex
@@ -720,4 +721,7 @@ snapinsta.app##.ax-section
 www.timesnownews.com##[href^="https://s.tnn.in/"]
 www.timesnownews.com##[href^="https://t.me/share/url"]
 www.timesnownews.com##[href^="https://wa.me/"]
+
+! 2024-01-26 https://www.republicworld.com
+www.republicworld.com##.adWidget
 
