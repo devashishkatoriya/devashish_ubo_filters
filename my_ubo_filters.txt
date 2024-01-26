@@ -65,16 +65,11 @@ www.thehindu.com###credential_picker_container
 www.thehindu.com##.flexdfpad.dfp-ad
 www.thehindu.com###artmeterpvcr
 www.thehindu.com##.app-icon
+www.thehindu.com###credential_picker_container
+www.thehindu.com##.flexdfpad.dfp-ad
 
 ! thehindu.com bypass paywall
 ||piano.io/xbuilder/experience/execute$xhr,3p
-
-! https://www.reddit.com/r/uBlockOrigin/comments/1523lt8/videos_not_playing_on_wionewscom/
-@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=wionews.com
-wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
-
-! 2023-09-30 https://epaper.timesgroup.com - Bypass 3 mins time limit to read times of india epaper
-!epaper.timesgroup.com##.myoverlaySubscribeAlert.ReactModal__Overlay--after-open.ReactModal__Overlay
 
 ! 2023-09-30 https://www.speedtest.net
 www.speedtest.net###zdcFloatingBtn
@@ -103,14 +98,6 @@ www.gadgetsnow.com##.nextASwidget
 ! 2023-09-30 https://www.newslaundry.com
 www.newslaundry.com###floating-pod-button
 
-! 2023-09-30 https://www.thehindu.com
-www.thehindu.com###credential_picker_container
-www.thehindu.com##.flexdfpad.dfp-ad
-
-! https://www.reddit.com/r/uBlockOrigin/comments/1523lt8/videos_not_playing_on_wionewscom/
-@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=wionews.com
-wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
-
 ! 2023-10-01 https://zeenews.india.com
 zeenews.india.com##.lang-select
 zeenews.india.com##.category-slider
@@ -125,7 +112,6 @@ www.techspot.com##.sidebar
 www.techspot.com##.b-loaded.entered.b-lazy.subDriveRevBot
 
 ! 2023-10-01 https://timesofindia.indiatimes.com
-!timesofindia.indiatimes.com###header-masthead
 timesofindia.indiatimes.com###minitv_v3_container
 timesofindia.indiatimes.com##.main-sociable
 timesofindia.indiatimes.com##.showoldflow.prime-inline-widget
@@ -138,21 +124,28 @@ timesofindia.indiatimes.com##.sidebar
 www.gadgetsnow.com###credential_picker_container
 www.gadgetsnow.com##header
 
-! 2023-10-01 https://epaper.timesgroup.com
-!epaper.timesgroup.com##div.card.desktop-only > .nav-digitalmenu-mob.navbar
-!epaper.timesgroup.com##div.card.desktop-only > .nav-tab-mob
+! https://www.reddit.com/r/uBlockOrigin/comments/1523lt8/videos_not_playing_on_wionewscom/
+@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=wionews.com
+wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
 
 ! 2023-10-02 https://www.wionews.com
-www.wionews.com##.ads-placeholder-internal
-www.wionews.com##.ads-box-d90-m300
-www.wionews.com##.social-icon-mob.social-icon
-www.wionews.com##.social-icon
 www.wionews.com###footer
+www.wionews.com##.ad_fixed
+www.wionews.com##.ads-box-300x250
+www.wionews.com##.ads-box-970x90
+www.wionews.com##.ads-box-d90-m300
+www.wionews.com##.ads-placeholder-internal
+www.wionews.com##.article-registration-form
 www.wionews.com##.article-share-data
+www.wionews.com##.footer-left-data
 www.wionews.com##.img-share-twt
 www.wionews.com##.my-2.now.trending.trending-recommended
 www.wionews.com##.now.trending.thumb-cre
-www.wionews.com##.article-registration-form
+www.wionews.com##.recommended_widget
+www.wionews.com##.social-icon
+www.wionews.com##.social-icon-circle
+www.wionews.com##.social-icon-mob.social-icon
+www.wionews.com##.subscribe
 
 ! 2023-10-02 https://www.techspot.com
 www.techspot.com##.trust-feat
@@ -222,20 +215,16 @@ economictimes.indiatimes.com##.band
 ! 2023-10-03 https://www.irctc.co.in
 www.irctc.co.in###askDishaSdk
 
-! 2023-10-03 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com###credential_picker_container
-
 ! 2023-10-05 https://latifistreams.com
 latifistreams.com##.column2
-
-! 2023-10-05 https://links.modlinkz.xyz
-links.modlinkz.xyz##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
 
 ! 2023-10-05 https://www.theregister.com
 www.theregister.com##.sharing_box
 
 ! 2023-10-05 https://www.news18.com
 www.news18.com###credential_picker_container
+www.news18.com##.videoSocial
+www.news18.com##.social_ping
 
 ! 2023-10-06 https://www.firstpost.com
 www.firstpost.com###credential_picker_container
@@ -248,20 +237,9 @@ allthatsinteresting.com##.pbh_inline
 allthatsinteresting.com##.main-footer
 allthatsinteresting.com##.social-row.row
 
-! 2023-10-07 https://www.news18.com
-www.news18.com##.videoSocial
-
 ! 2023-10-07 https://www.myjewishlearning.com
 www.myjewishlearning.com##.m-ad__full
 www.myjewishlearning.com###ad-move-to-content
-
-! 2023-10-07 https://www.news18.com
-www.news18.com##.social_ping
-
-! 2023-10-08 https://epaper.timesgroup.com
-!epaper.timesgroup.com###nav-bar
-!epaper.timesgroup.com##.head-ax
-!epaper.timesgroup.com###nav-desktop > .card.desktop-only
 
 ! 2023-10-09 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###widget-two
@@ -273,18 +251,15 @@ timesofindia.indiatimes.com##.articletrendinglistwrapper
 timesofindia.indiatimes.com##.animate__faster.animate__slideInUp.animate__animated.storiesContainer
 timesofindia.indiatimes.com##.react-share__ShareButton
 timesofindia.indiatimes.com##.plan_details
-
-! 2023-10-10 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.css-zhoox4
+timesofindia.indiatimes.com##.header-ad
+timesofindia.indiatimes.com##.notiBoxWrap
 
 ! 2023-10-13 https://hindupost.in
 hindupost.in##.td-post-sharing-style1.td-ps-notext.td-ps-bg.tdb-block.td-post-sharing
 hindupost.in##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_150.vc_column
 hindupost.in##.td-scroll-up-visible.td-hide-scroll-up-on-mob.td-scroll-up
 hindupost.in##.td-post-sharing-style5.td-ps-bar.td-ps-notext.td-ps-bg.tdb-block.td-post-sharing
-
-! 2023-10-13 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##.header-ad
 
 ! 2023-10-13 https://www.hindustantimes.com
 www.hindustantimes.com###divTrendingTopic
@@ -294,9 +269,13 @@ www.hindustantimes.com##.shareSticky
 www.hindustantimes.com##.new__socialIcons
 www.hindustantimes.com##.googleFollow
 www.hindustantimes.com##.hdrSubcribe
-
-! 2023-10-15 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##.notiBoxWrap
+www.hindustantimes.com##.wAppJoinUs
+www.hindustantimes.com##.dHide.openAppButton
+www.hindustantimes.com###scorecard__widget__box__cube
+www.hindustantimes.com##.shareSticky
+www.hindustantimes.com##.googleFollow
+www.hindustantimes.com##.followHT
+www.hindustantimes.com##.detail > .mb10.mt10
 
 ! 2023-10-12 https://www.thehindu.com
 www.thehindu.com##.readinapp-mob.read-in-app.btn
@@ -308,20 +287,9 @@ m.timesofindia.com###widget-tp-sticky
 www.speedtest.net##.mobile-during-test-banner
 www.speedtest.net##.nav-mobile-controls
 www.speedtest.net##.mobile-eot-banner
-
-! 2023-10-14 https://epaper.timesgroup.com
-!epaper.timesgroup.com##.row.bg-white.justify-content-center
-!epaper.timesgroup.com##.row.sticky-switch-view
-!epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
-
-! 2023-10-14 https://www.hindustantimes.com
-www.hindustantimes.com##.wAppJoinUs
-www.hindustantimes.com##.dHide.openAppButton
-www.hindustantimes.com###scorecard__widget__box__cube
-www.hindustantimes.com##.shareSticky
-www.hindustantimes.com##.googleFollow
-www.hindustantimes.com##.followHT
-www.hindustantimes.com##.detail > .mb10.mt10
+www.speedtest.net##.mobile-during-test-banner
+www.speedtest.net##.nav-mobile-controls
+www.speedtest.net##.mobile-eot-banner
 
 ! 2023-10-14 https://www.gadgetsnow.com
 www.gadgetsnow.com##.atfbox
@@ -335,40 +303,15 @@ myanimelist.net###tbl-next-up
 myanimelist.net##.footer-link-icon-block
 myanimelist.net##.trc-content-hybrid.alternating-thumbnails-a.trc_rbox
 
-! 2023-10-15 https://www.wionews.com
-www.wionews.com##.recommended_widget
-www.wionews.com##.social-icon-circle
-
 ! 2023-10-12 https://www.thehindu.com
 www.thehindu.com##.readinapp-mob.read-in-app.btn
 
 ! 2023-10-12 https://m.timesofindia.com
 m.timesofindia.com###widget-tp-sticky
-
-! 2023-10-13 https://www.speedtest.net
-www.speedtest.net##.mobile-during-test-banner
-www.speedtest.net##.nav-mobile-controls
-www.speedtest.net##.mobile-eot-banner
-
-! 2023-10-14 https://epaper.timesgroup.com
-!epaper.timesgroup.com##.row.bg-white.justify-content-center
-!epaper.timesgroup.com##.row.sticky-switch-view
-!epaper.timesgroup.com##.MuiFab-sizeSmall.MuiFab-root.MuiButtonBase-root
-
-! 2023-10-14 https://www.hindustantimes.com
-www.hindustantimes.com##.wAppJoinUs
-www.hindustantimes.com##.dHide.openAppButton
-www.hindustantimes.com###scorecard__widget__box__cube
-www.hindustantimes.com##.shareSticky
-www.hindustantimes.com##.googleFollow
-www.hindustantimes.com##.followHT
-www.hindustantimes.com##.detail > .mb10.mt10
+m.timesofindia.com###social-prime
 
 ! 2023-10-14 https://www.gadgetsnow.com
 www.gadgetsnow.com##.atfbox
-
-! 2023-10-16 https://m.timesofindia.com
-m.timesofindia.com###social-prime
 
 ! 2023-10-16 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###widget-tp-sticky
@@ -459,18 +402,22 @@ www.timesnownews.com##[href^="https://www.facebook.com/sharer/sharer.php"]
 www.timesnownews.com##[href^="https://twitter.com/intent/tweet"]
 
 ! 2023-10-29 https://www.news18.com
-www.news18.com##.newftrshare_fixed.newftrshare
-www.news18.com##.joinUs_Wasp
-www.news18.com##.vshre
-www.news18.com##.DisplayIcon.instlsapp_fxd
-www.news18.com##.shareNlocation
-www.news18.com##.whatsapp_strip
-www.news18.com##.DynamicBottomBar
-www.news18.com##.ss_widget_Wrp
 www.news18.com###taboola-mid-article-thumbnails
-www.news18.com##.stky-ad-footer
-www.news18.com##.socalWrap
+www.news18.com##.DisplayIcon.instlsapp_fxd
+www.news18.com##.DynamicBottomBar
+www.news18.com##.PGsocialBox
+www.news18.com##.add_section
 www.news18.com##.feed_social
+www.news18.com##.joinUs_Wasp
+www.news18.com##.newftrshare_fixed.newftrshare
+www.news18.com##.pht-artcl-shr2
+www.news18.com##.shareNlocation
+www.news18.com##.socalWrap
+www.news18.com##.ss_widget_Wrp
+www.news18.com##.stky-ad-footer
+www.news18.com##.vshre
+www.news18.com##.whatsapp_strip
+www.news18.com##.nav_social
 
 ! 2023-10-29 https://apnews.com
 apnews.com###usntA40Toggle
@@ -485,41 +432,21 @@ katmoviehd.dev##.meta-share
 ! 2023-11-01 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[id^="readAlso_"]
 timesofindia.indiatimes.com##[id^="readNextColumnVariant_"]
-
-! 2023-11-03 https://crichd.tv
-crichd.tv##.nopadding.hidden-xs.col-sm-12.col-md-3
-
-! 2023-11-03 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.ggn_social
 timesofindia.indiatimes.com##[href^="https://wa.me/"]
 timesofindia.indiatimes.com##[href^="http://www.facebook.com/sharer.php"]
 timesofindia.indiatimes.com##[href^="http://twitter.com/share"]
 timesofindia.indiatimes.com##[href^="http://www.linkedin.com/shareArticle"]
 timesofindia.indiatimes.com##.topshareicon
+timesofindia.indiatimes.com##.mobile-socialshare-bottom
 
-! 2023-11-02 https://www.wionews.com
-www.wionews.com##.ad_fixed
-www.wionews.com##.ads-box-970x90
-
-! 2023-11-02 https://www.news18.com
-www.news18.com##.add_section
-www.news18.com##.PGsocialBox
-www.news18.com##.pht-artcl-shr2
+! 2023-11-03 https://crichd.tv
+crichd.tv##.nopadding.hidden-xs.col-sm-12.col-md-3
 
 ! 2023-11-02 https://m.timesofindia.com
 m.timesofindia.com##.getapp.track
-
-! 2023-11-02 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##.mobile-socialshare-bottom
-
-! 2023-11-02 https://m.timesofindia.com
 m.timesofindia.com##.social-icons.socialcont.id_social
 m.timesofindia.com##.newfooter
-
-! 2023-11-03 https://www.news18.com
-www.news18.com##.nav_social
-
-! 2023-11-05 https://m.timesofindia.com
 m.timesofindia.com##[href^="https://timesofindia.onelink.me/mjFd/"]
 m.timesofindia.com##[id^="readAlso_"]
 m.timesofindia.com##[id^="readNextColumnVariant_"]
@@ -685,10 +612,6 @@ www.news18.com##.partnersSlider
 ! 2023-12-15 https://epaper.indiatimes.com
 epaper.indiatimes.com##.epaper-blocker
 
-! 2023-12-13 https://www.wionews.com
-www.wionews.com##.subscribe
-www.wionews.com##.footer-left-data
-
 ! 2023-12-13 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.podcastBackButton
 
@@ -779,9 +702,6 @@ www.republicbharat.com##.adWidget
 ! Unbreak 2024-01-22 https://www.republicbharat.com
 @@||c.amazon-adsystem.com^$script,domain=republicbharat.com
 
-! 2024-01-22 https://www.wionews.com
-@@||pubmatic.com^$domain=wionews.com
-
 ! 2024-01-23 https://www.wired.com
 www.wired.com##.persistent-bottom
 
@@ -800,7 +720,4 @@ snapinsta.app##.ax-section
 www.timesnownews.com##[href^="https://s.tnn.in/"]
 www.timesnownews.com##[href^="https://t.me/share/url"]
 www.timesnownews.com##[href^="https://wa.me/"]
-
-! 2024-01-26 https://www.wionews.com
-www.wionews.com##.ads-box-300x250
 
