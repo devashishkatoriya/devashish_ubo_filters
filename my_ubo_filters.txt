@@ -758,3 +758,7 @@ m.timesofindia.com##.minitv_cls.sticky_minitv
 m.timesofindia.com##.sticky_minitv
 m.timesofindia.com##.mobile-socialshare-bottom
 
+! 2024-02-03 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.isAdActive.topBand_adwrapper
+
+
