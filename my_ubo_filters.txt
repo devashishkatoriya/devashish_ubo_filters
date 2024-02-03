@@ -725,3 +725,36 @@ www.timesnownews.com##[href^="https://wa.me/"]
 ! 2024-01-26 https://www.republicworld.com
 www.republicworld.com##.adWidget
 
+! 2024-01-31 https://oko.sh
+oko.sh##[href="https://eergortu.net/4/5016961"]
+
+! 2024-02-01 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###desktop_minitv_view
+
+! 2024-02-02 https://www.bing.com
+www.bing.com##.moduleCont
+www.bing.com##.vs_cont
+
+! 2024-01-26 https://www.health.com
+www.health.com##.scads-ad-placed
+www.health.com##.mm-ads-adhesive-ad
+
+! 2024-01-26 https://www.veganfirst.com
+www.veganfirst.com##.float_soc.list-inline
+www.veganfirst.com###tidio-chat
+
+! 2024-01-26 https://telecom.economictimes.indiatimes.com
+telecom.economictimes.indiatimes.com##.mrec-ads-slot
+telecom.economictimes.indiatimes.com##.top-ads
+telecom.economictimes.indiatimes.com##.whats-happening-container
+telecom.economictimes.indiatimes.com##.subscription-in-article
+
+! 2024-02-03 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.sticky_minitv
+timesofindia.indiatimes.com##[href^="https://timesofindia.onelink.me/mjFd/"]
+
+! 2024-02-03 https://m.timesofindia.com
+m.timesofindia.com##.minitv_cls.sticky_minitv
+m.timesofindia.com##.sticky_minitv
+m.timesofindia.com##.mobile-socialshare-bottom
+
