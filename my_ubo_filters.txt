@@ -761,4 +761,14 @@ m.timesofindia.com##.mobile-socialshare-bottom
 ! 2024-02-03 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.isAdActive.topBand_adwrapper
 
+! 2024-02-04 https://mega.nz
+mega.nz##.commercial-wrapper
+
+! 2024-02-04 https://www.nature.com
+www.nature.com##.u-lazy-ad-wrapper
+www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
+
+! 2024-02-05 https://www.youtube.com
+www.youtube.com###big-yoodle
+
 
