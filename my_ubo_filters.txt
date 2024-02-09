@@ -771,4 +771,23 @@ www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-
 ! 2024-02-05 https://www.youtube.com
 www.youtube.com###big-yoodle
 
+! 2024-02-05 https://gamerant.com
+gamerant.com##.ad-current
+gamerant.com##.bottom.sharing
+gamerant.com###articleNewsletterForm
+gamerant.com##.wrapper.w-footer
+
+! 2024-02-05 https://www.youtube.com
+www.youtube.com###chat-container
+
+! 2024-02-05 https://en.wikipedia.org
+en.wikipedia.org###centralNotice
+
+! 2024-02-06 https://www.youtube.com
+www.youtube.com###sponsor-button
+
+! 2024-02-09 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.minitv_in_page.minitv_cls
+
+
 
