@@ -789,5 +789,9 @@ www.youtube.com###sponsor-button
 ! 2024-02-09 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.minitv_in_page.minitv_cls
 
+! 2024-02-10 https://princeofpersia.fandom.com
+princeofpersia.fandom.com##.global-navigation
+princeofpersia.fandom.com###WikiaBar
+
 
 
