@@ -793,5 +793,10 @@ timesofindia.indiatimes.com##.minitv_in_page.minitv_cls
 princeofpersia.fandom.com##.global-navigation
 princeofpersia.fandom.com###WikiaBar
 
+! 2024-02-16 https://onlyfans.com
+onlyfans.com##.m-scrollbar-always.m-scrollbar-y.m-native-custom-scrollbar.m-disable-autoscroll.l-wrapper__sidebar.b-feed__aside
+
+/^https:\/\/[a-z]{10,12}\.com\/[\/a-z]{2,}\?id=[12]\d{6}$/$script,3p,match-case
+/aas/r45d/vki/*$script,redirect-rule=noop.js
 
 
