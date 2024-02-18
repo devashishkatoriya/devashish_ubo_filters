@@ -853,4 +853,23 @@ french-stream.*###banning
 moviesda8.com,vidbox.online##+js(aost, String.prototype.charAt, $0)
 aagmaal.*##+js(rpnt, script, break;case $.)
 
+! 2024-02-12 https://aniwatch.to
+aniwatch.to##.zrg-list
+aniwatch.to##.dt-comment
+
+! 2024-02-14 https://topmovies.today
+##.bottomad
+##.topad
+##.header-ad
+
+! 2024-02-16 https://www.theguardian.com
+www.theguardian.com##.top-banner-ad-container
+www.theguardian.com##[href^="https://twitter.com/intent/tweet"]
+www.theguardian.com##[href^="https://www.facebook.com/dialog/share"]
+www.theguardian.com##[href^="mailto:"]
+www.theguardian.com##.ad-slot-container
+
+! 2024-02-17 https://es.pornhub.org
+es.pornhub.org###abAlert
+
 
