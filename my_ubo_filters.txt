@@ -885,4 +885,8 @@ swarajyamag.com##[href^="https://www.facebook.com/sharer/sharer.php"]
 swarajyamag.com###app_promotion_btn
 swarajyamag.com##.subscribe_block_wrapper
 
+! 2024-02-26 https://manhwa18.cc
+manhwa18.cc###detect_modal
+manhwa18.cc##.modal-backdrop
+
 
