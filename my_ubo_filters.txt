@@ -889,4 +889,32 @@ swarajyamag.com##.subscribe_block_wrapper
 manhwa18.cc###detect_modal
 manhwa18.cc##.modal-backdrop
 
+! 2024-02-27 https://photogallery.indiatimes.com
+photogallery.indiatimes.com##.fblikebtn
+
+! 2024-03-01 https://www.ndtv.com
+www.ndtv.com##.noti_bgstyle
+www.ndtv.com##.noti_wrap
+www.ndtv.com##.social_link
+www.ndtv.com##.add-rhs
+www.ndtv.com##.new_nextarrow
+www.ndtv.com##.new_prevarrow
+www.ndtv.com###taboola-below-article-thumbnails
+www.ndtv.com##footer
+www.ndtv.com##.story_footer
+www.ndtv.com##.adcontTp
+www.ndtv.com##.ft-sticky
+www.ndtv.com###taboola-feed-below-home-thumbnails
+www.ndtv.com###tbl-next-up
+www.ndtv.com###taboola-below-article-thumbnails
+
+! 2024-03-01 https://swirlster.ndtv.com
+swirlster.ndtv.com###taboola-right-rail-thumbnails
+swirlster.ndtv.com##.adbox
+swirlster.ndtv.com###tbl-next-up
+swirlster.ndtv.com###taboola-below-article-thumbnails
+swirlster.ndtv.com###saawnmob
+swirlster.ndtv.com##.story_share
+swirlster.ndtv.com###topad
+
 
