@@ -998,6 +998,33 @@ www.vox.com##.c-global-header__actions
 www.vox.com##.c-toaster
 www.vox.com##.c-footer__community.c-footer
 
+! 2024-03-09 https://hidranoid.tech
+hidranoid.tech##.site-header
+hidranoid.tech##.breadcrumbs
+hidranoid.tech###secondary
+hidranoid.tech###footer-container
+hidranoid.tech###primary
 
+! 2024-03-09 https://moviesmod.zip
+moviesmod.*###sidebar
 
+! 2024-03-09 https://katmoviehd.zip
+katmoviehd.*###sidebar
+katmoviehd.*##.meta-share
+katmoviehd.*###footer
+
+! 2024-03-09 https://episodes.modlinkz.xyz
+episodes.modlinkz.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
+links.modlinkz.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
+episodes.modlinkz.*##.site-footer
+links.modlinkz.*##.site-footer
+
+! 2024-03-09 https://tech.unblockedgames.world
+tech.unblockedgames.world##p
+tech.unblockedgames.world##.section-title
+tech.unblockedgames.world##.center.col-80
+
+! 2024-03-09 https://vegamovies.ong
+vegamovies.*###main-sidebar
+vegamovies.*###header-social
 
