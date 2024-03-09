@@ -917,4 +917,87 @@ swirlster.ndtv.com###saawnmob
 swirlster.ndtv.com##.story_share
 swirlster.ndtv.com###topad
 
+! 2024-03-03 https://1stream.eu
+1stream.eu###wp_chat
+
+! 2024-02-04 https://www.ndtv.com
+www.ndtv.com##.js-bkt-out.js-back-to-top.back-to-top
+www.ndtv.com##.fvotd.video_wrapper
+
+! 2024-02-04 https://www.sciencefocus.com
+www.sciencefocus.com##.share-icons
+
+! 2024-02-23 https://www.news18.com
+www.news18.com##.pwa_add
+
+! 2024-02-24 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.moreinfo
+
+! 2024-02-26 https://kingkiller.fandom.com
+kingkiller.fandom.com##.marketing-notifications
+
+! 2024-03-03 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###share_clone_brief
+timesofindia.indiatimes.com###floatingopenappBriefs
+timesofindia.indiatimes.com##.mob-share-button.as_socialsharimgmobile
+timesofindia.indiatimes.com##.articleshowVs
+timesofindia.indiatimes.com###creditscoreiframe
+
+! 2024-03-04 https://news.abplive.com
+news.abplive.com###credential_picker_container
+news.abplive.com##.lang-nav
+news.abplive.com##footer
+news.abplive.com##.small-footer
+news.abplive.com##a.useful_menu_tracker
+news.abplive.com##.join-channels
+news.abplive.com##.download-app
+news.abplive.com##.rhs
+news.abplive.com##.follow-detail
+news.abplive.com##.article-share
+news.abplive.com##.trending-wrap
+
+! 2024-03-07 https://www.bing.com
+www.bing.com##.popup.b_bnp_bopc
+
+! 2024-03-08 https://tii.la
+tii.la##.td-header-menu-wrap
+
+! 2024-03-04 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###creditscoreiframe
+
+! 2024-03-04 https://manga18.club
+manga18.club##.detail_chat.mg_rank
+manga18.club##.iedu_footer
+
+! 2024-03-04 https://manhwa18.cc
+manhwa18.cc##.wleft.manga-footer
+
+! 2024-03-04 https://www.news18.com
+www.news18.com###credential_picker_iframe
+www.news18.com##.vdcomp_wrap
+
+! 2024-03-04 https://toonily.com
+toonily.com##.site-footer
+
+! 2024-03-07 https://www.thehindu.com
+www.thehindu.com##.read-in-app-floating-btn
+
+! 2024-03-07 https://english.jagran.com
+english.jagran.com##.emobile.secart.article
+english.jagran.com##.secnav
+english.jagran.com##.websmenu
+english.jagran.com##.mobsticky
+english.jagran.com##footer
+english.jagran.com##.emobile.stickyads
+english.jagran.com##.socialshare
+english.jagran.com##.whatappBox
+english.jagran.com##.bannerBox
+
+! 2024-03-08 https://www.vox.com
+www.vox.com##.c-global-header__actions
+www.vox.com##.c-toaster
+www.vox.com##.c-footer__community.c-footer
+
+
+
 
