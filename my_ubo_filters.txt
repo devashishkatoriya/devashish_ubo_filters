@@ -1020,11 +1020,26 @@ episodes.modlinkz.*##.site-footer
 links.modlinkz.*##.site-footer
 
 ! 2024-03-09 https://tech.unblockedgames.world
-tech.unblockedgames.world##p
+!tech.unblockedgames.world##p
 tech.unblockedgames.world##.section-title
 tech.unblockedgames.world##.center.col-80
 
 ! 2024-03-09 https://vegamovies.ong
 vegamovies.*###main-sidebar
 vegamovies.*###header-social
+
+! 2024-03-09 https://aniwave.to
+aniwave.to##[href^="https://mangafire.to/"]
+
+! 2024-03-11 https://english.jagran.com
+english.jagran.com##[class^="ChatSearch_buttonMain__"]
+english.jagran.com##.relativeNews
+english.jagran.com##.jagranvideo
+english.jagran.com##.right-col
+
+/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,3p,redirect-rule=noop.js,to=com
+/^https?:\/\/s3\.us-east-1\.amazonaws\.com\/[0-9a-f]{50,}\/[0-9a-f]{10}$/$xhr,3p
+/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,3p,to=com
+/\/[0-9a-f]{32}\/invoke\.js/$script,3p
+
 
