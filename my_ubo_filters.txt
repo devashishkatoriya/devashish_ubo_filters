@@ -1045,8 +1045,5 @@ english.jagran.com##.right-col
 ! 2024-03-23 https://hubcloud.day
 hubcloud.day##[href="https://bit.ly/RoyaljeetAD05"]
 
-! 2024-03-09 https://aniwave.to
-aniwave.to##[href^="https://mangafire.to/"]
-
 /^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$frame
 
