@@ -1087,3 +1087,33 @@ www.news18.com##.vdcomp_wrap
 ! 2024-03-04 https://toonily.com
 toonily.com###disqus_thread
 toonily.com##.site-footer
+
+! 2024-03-30 https://ok.xxx
+ok.xxx##.show.welcome_bar
+
+! 2024-03-31 https://www.news18.com
+www.news18.com##.bell_wrpapper
+
+! 2024-04-01 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.as_twticon
+timesofindia.indiatimes.com##.as_waicon
+timesofindia.indiatimes.com##.as_fbicon
+timesofindia.indiatimes.com##.as_linicon
+timesofindia.indiatimes.com##.as_emicon
+timesofindia.indiatimes.com##.CLSPlaceholder.ATF_wrapper
+timesofindia.indiatimes.com##.mid_ads.promotr_inpage_interstitial
+timesofindia.indiatimes.com##.taboola_ad_mid
+timesofindia.indiatimes.com##.mid_ads
+timesofindia.indiatimes.com##.CLSPlaceholder.ATF_wrapper_perp
+timesofindia.indiatimes.com##.social_footer
+
+! 2024-04-06 https://www.ndtv.com
+www.ndtv.com##.stf__parent
+
+! 2024-04-06 https://sports.ndtv.com
+sports.ndtv.com##.phase2.mini_score
+sports.ndtv.com##.ui-draggable-handle.ui-draggable
+sports.ndtv.com##.red-tim
+sports.ndtv.com##[src="https://drop.ndtv.com/test/hk-ndtv/NDTV.com/Election/v2.2/WhatsApp-sticky-icon.svg"]
+sports.ndtv.com##.js-bkt-out.js-back-to-top.back-to-top
+
