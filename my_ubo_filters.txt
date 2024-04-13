@@ -1128,4 +1128,32 @@ youtube.com###primary.ytd-watch-flexy, #chat-container.ytd-watch-flexy:style(gri
 youtube.com###secondary.ytd-watch-flexy:style(grid-column: 2 !important;)
 youtube.com###chat-container.ytd-watch-flexy:style(margin-top: var(--ytd-margin-6x) !important; width: var(--ytd-watch-flexy-sidebar-width) !important;)
 
+! 2024-04-09 https://links.modblog.xyz
+links.modblog.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
+
+! 2024-04-10 https://episodes.modblog.xyz
+episodes.modblog.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
+
+! 2024-04-09 https://blog.workedbd.com
+blog.workedbd.com##.bs-sticky.bs-sidebar
+blog.workedbd.com##.position-relative.wd-back
+blog.workedbd.com##footer
+blog.workedbd.com##.sticky-header.bs-menu-full
+
+! 2024-04-13 https://hentaihaven.xxx
+@@||static.ads-twitter.com/uwt.js$domain=hentaihaven.xxx
+hentaihaven.xxx##.script_manager_video_master
+hentaihaven.xxx##.vrav_a_pc
+hentaihaven.xxx##.pt-2
+
+! 2024-04-13 https://www.youtube.com
+www.youtube.com##ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope
+
+! 2024-04-09 https://psa.wf
+psa.wf###footer
+psa.wf##.litespeed-loaded.entered.new-site-image
+psa.wf##.sidebar-content
+psa.wf###nav-header
+
+
 
