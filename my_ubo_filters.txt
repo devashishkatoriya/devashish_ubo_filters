@@ -1155,5 +1155,53 @@ psa.wf##.litespeed-loaded.entered.new-site-image
 psa.wf##.sidebar-content
 psa.wf###nav-header
 
+! 2024-04-13 https://www.youtube.com
+www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
+www.youtube.com##.ytd-statement-banner-renderer.style-scope
+
+! 2024-04-13 https://www.news18.com
+www.news18.com##.topAdd
+
+! 2024-04-13 https://www.youtube.com - Disable youtube shorts
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+
+! 2024-04-13 https://myanimelist.net
+myanimelist.net##.right.mxj.widget
+myanimelist.net###forumTopics
+myanimelist.net##.news-list
+
+! 2024-04-13 https://www.imdb.com
+www.imdb.com##.right-rail-more-to-explore
+
+! 2024-04-13 https://www.youtube.com
+www.youtube.com##.ytp-paid-content-overlay
+
+! 2024-04-13 https://www.polygon.com
+www.polygon.com##.l-col__sidebar
+www.polygon.com##.OUTBRAIN
+www.polygon.com##.c-global-header__social
+www.polygon.com##.main-social.c-social-buttons--popover.c-social-buttons
+
+! 2024-04-14 https://luxmovies.art
+luxmovies.*###main-sidebar
+
+! 2024-04-14 https://unilinks.lol
+unilinks.*##[href^="https://fulvideozrt.click/"]
+
+! 2024-04-14 https://blog.workedbd.com
+blog.workedbd.com##.bs-header-main
+blog.workedbd.com##.bs-default
+blog.workedbd.com##.bs-breadcrumb-section
+blog.workedbd.com##.newsair_stt
+
+! 2024-04-14 https://www.linkedin.com
+www.linkedin.com##.scaffold-layout__aside
+
+! 2024-04-19 https://www.youtube.com
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singleton-renderer.style-scope
+
+! 2024-04-20 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[href^="mailto:"]
+
 
 
