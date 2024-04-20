@@ -1202,6 +1202,8 @@ www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singl
 
 ! 2024-04-20 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[href^="mailto:"]
+timesofindia.indiatimes.com###footer
+
 
 
 
