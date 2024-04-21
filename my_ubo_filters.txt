@@ -1204,6 +1204,22 @@ www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singl
 timesofindia.indiatimes.com##[href^="mailto:"]
 timesofindia.indiatimes.com###footer
 
+! 2024-04-20 https://www.moneycontrol.com
+www.moneycontrol.com##.page_right_wrapper
+www.moneycontrol.com##.social_icons_wrapper
+www.moneycontrol.com##[href="https://www.whatsapp.com/channel/0029Va2JvT3LtOj3x6oZcO1D"]
+www.moneycontrol.com##[href^="https://news.google.com/publications/CAAqBwgKMJWwjwswq82iAw"]
+www.moneycontrol.com##.maintextdiv
+www.moneycontrol.com##.ftinsde.respons_foot_desk.footer_desktop
+www.moneycontrol.com##.ftinsde.respons_foot_desk.advisoryAlertFooter
+www.moneycontrol.com###mc_headband
+www.moneycontrol.com##.advertisement_box
+www.moneycontrol.com##.respons_foot_desk.footer_desktop
+www.moneycontrol.com##.respons_foot_desk.advisoryAlertFooter
+www.moneycontrol.com##.proMenu.bapro
+www.moneycontrol.com##.mc_logo_be_a_pro.be_apro
+www.moneycontrol.com##.upgrade
+
 
 
 
