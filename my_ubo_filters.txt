@@ -777,7 +777,7 @@ gamerant.com##.bottom.sharing
 gamerant.com###articleNewsletterForm
 gamerant.com##.wrapper.w-footer
 
-! 2024-02-05 https://www.youtube.com
+! 2024-02-05 https://www.youtube.com - Removes youtube chat
 !www.youtube.com###chat-container
 
 ! 2024-02-05 https://en.wikipedia.org
@@ -1119,14 +1119,14 @@ sports.ndtv.com##.js-bkt-out.js-back-to-top.back-to-top
 
 ! https://www.reddit.com/r/youtube/comments/1b40hra/youtube_fix_customizations_4_videos_per_row/
 ! YouTube Theater Mode Chat Fix
-youtube.com##+js(ra, live-chat-present-and-expanded|panel-expanded|fixed-panels|watch-while-panels-active, ytd-watch-flexy, stay)
-youtube.com##+js(set-attr, ytd-watch-flexy, is-two-columns_)
+!youtube.com##+js(ra, live-chat-present-and-expanded|panel-expanded|fixed-panels|watch-while-panels-active, ytd-watch-flexy, stay)
+!youtube.com##+js(set-attr, ytd-watch-flexy, is-two-columns_)
 
 ! Keeps Chat and reverts its location
-youtube.com###columns.ytd-watch-flexy:style(display: grid !important; grid-template-columns: 1fr auto !important;)
-youtube.com###primary.ytd-watch-flexy, #chat-container.ytd-watch-flexy:style(grid-row: 1 !important;)
-youtube.com###secondary.ytd-watch-flexy:style(grid-column: 2 !important;)
-youtube.com###chat-container.ytd-watch-flexy:style(margin-top: var(--ytd-margin-6x) !important; width: var(--ytd-watch-flexy-sidebar-width) !important;)
+!youtube.com###columns.ytd-watch-flexy:style(display: grid !important; grid-template-columns: 1fr auto !important;)
+!youtube.com###primary.ytd-watch-flexy, #chat-container.ytd-watch-flexy:style(grid-row: 1 !important;)
+!youtube.com###secondary.ytd-watch-flexy:style(grid-column: 2 !important;)
+!youtube.com###chat-container.ytd-watch-flexy:style(margin-top: var(--ytd-margin-6x) !important; width: var(--ytd-watch-flexy-sidebar-width) !important;)
 
 ! 2024-04-09 https://links.modblog.xyz
 links.modblog.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
@@ -1219,7 +1219,6 @@ www.moneycontrol.com##.respons_foot_desk.advisoryAlertFooter
 www.moneycontrol.com##.proMenu.bapro
 www.moneycontrol.com##.mc_logo_be_a_pro.be_apro
 www.moneycontrol.com##.upgrade
-
 
 
 
