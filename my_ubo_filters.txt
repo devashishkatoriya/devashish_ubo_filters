@@ -1220,5 +1220,17 @@ www.moneycontrol.com##.proMenu.bapro
 www.moneycontrol.com##.mc_logo_be_a_pro.be_apro
 www.moneycontrol.com##.upgrade
 
+! 2024-04-23 https://new.mphealth.online
+new.mphealth.online##.site-header
+new.mphealth.online##.bloglo-breadcrumbs
+new.mphealth.online##.site-footer
+new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
+
+/^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/r(?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,16}\/[A-Za-z]{5}$/$script,3p,match-case,to=com
+/^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6,7}$/$script,3p
+
+! 2024-04-27 https://moviesmod.info
+||moviesmod.*/axwinpop.js$script
+
 
 
