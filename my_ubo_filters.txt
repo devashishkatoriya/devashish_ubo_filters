@@ -1232,5 +1232,8 @@ new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 ! 2024-04-27 https://moviesmod.info
 ||moviesmod.*/axwinpop.js$script
 
+! 2024-04-27 https://moviesmod.info
+||moviesmod.*/winxpop.js$script
+
 
 
