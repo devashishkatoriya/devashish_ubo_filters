@@ -1235,5 +1235,12 @@ new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 ! 2024-04-27 https://moviesmod.info
 ||moviesmod.*/winxpop.js$script
 
+! 2024-05-08 https://adblock-tester.com
+||adblock-tester.com/banners/pr_advertising_ads_banner.swf$object
+||adblock-tester.com/banners/pr_advertising_ads_banner.gif$image
+||adblock-tester.com/banners/pr_advertising_ads_banner.png$image
+adblock-tester.com##.includeWrapper
+
+
 
 
