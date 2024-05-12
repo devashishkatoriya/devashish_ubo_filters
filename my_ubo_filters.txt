@@ -1243,5 +1243,11 @@ adblock-tester.com##.includeWrapper
 
 ||fcfohwyhj.com^$third-party
 ||chitchooms.net^$third-party
+||clphfadogkeran.com^$third-party
+timesofindia.indiatimes.com##.topbandbanner.topband_active
+||nmlgkgaiuyf.com^$third-party
+||helseeftie.net^$third-party
+tech.unblockedgames.*##footer
+||cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js$third-party
 
 
