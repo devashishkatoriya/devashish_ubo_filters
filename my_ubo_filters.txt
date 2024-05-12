@@ -1249,5 +1249,14 @@ timesofindia.indiatimes.com##.topbandbanner.topband_active
 ||helseeftie.net^$third-party
 tech.unblockedgames.*##footer
 ||cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js$third-party
+linegee.net###header
+linegee.net###footer-section
+linegee.net##.penci-go-to-top-floating.show-up
+linegee.net##.penci-top-bar
+linegee.net###sidebar
+||bjqctghgipk.com^$third-party
+||lgqjuawln.com^$third-party
+||gkccvaxe.com^$third-party
+republicworld.com###hellobar-bar
 
 
