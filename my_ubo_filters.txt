@@ -1248,7 +1248,6 @@ timesofindia.indiatimes.com##.topbandbanner.topband_active
 ||nmlgkgaiuyf.com^$third-party
 ||helseeftie.net^$third-party
 tech.unblockedgames.*##footer
-||cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js$third-party
 linegee.net###header
 linegee.net###footer-section
 linegee.net##.penci-go-to-top-floating.show-up
@@ -1258,5 +1257,11 @@ linegee.net###sidebar
 ||lgqjuawln.com^$third-party
 ||gkccvaxe.com^$third-party
 republicworld.com###hellobar-bar
+||bvbddyntbyd.com^$third-party
+||cptwksblwoiwjw.com^$third-party
+newindianexpress.com###header-social-follow
+newindianexpress.com###app-download-link
+||iyginjksd.com^$third-party
+/^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$popup
 
 
