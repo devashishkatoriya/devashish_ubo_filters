@@ -1236,10 +1236,12 @@ new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 ||moviesmod.*/winxpop.js$script
 
 ! 2024-05-08 https://adblock-tester.com
-||adblock-tester.com/banners/pr_advertising_ads_banner.swf$object
-||adblock-tester.com/banners/pr_advertising_ads_banner.gif$image
-||adblock-tester.com/banners/pr_advertising_ads_banner.png$image
-adblock-tester.com##.includeWrapper
+!||adblock-tester.com/banners/pr_advertising_ads_banner.swf$object
+!||adblock-tester.com/banners/pr_advertising_ads_banner.gif$image
+!||adblock-tester.com/banners/pr_advertising_ads_banner.png$image
+!adblock-tester.com##.includeWrapper
+
+@@||pubmatic.com
 
 ||fcfohwyhj.com^$third-party
 ||chitchooms.net^$third-party
