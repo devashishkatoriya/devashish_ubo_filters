@@ -769,7 +769,7 @@ www.nature.com##.u-lazy-ad-wrapper
 www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
 
 ! 2024-02-05 https://www.youtube.com
-www.youtube.com###big-yoodle
+!www.youtube.com###big-yoodle
 
 ! 2024-02-05 https://gamerant.com
 gamerant.com##.ad-current
@@ -1157,13 +1157,13 @@ psa.wf###nav-header
 
 ! 2024-04-13 https://www.youtube.com
 www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
-www.youtube.com##.ytd-statement-banner-renderer.style-scope
+!www.youtube.com##.ytd-statement-banner-renderer.style-scope
 
 ! 2024-04-13 https://www.news18.com
 www.news18.com##.topAdd
 
 ! 2024-04-13 https://www.youtube.com - Disable youtube shorts
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+!www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 
 ! 2024-04-13 https://myanimelist.net
 myanimelist.net##.right.mxj.widget
@@ -1198,7 +1198,7 @@ blog.workedbd.com##.newsair_stt
 www.linkedin.com##.scaffold-layout__aside
 
 ! 2024-04-19 https://www.youtube.com
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singleton-renderer.style-scope
+!www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singleton-renderer.style-scope
 
 ! 2024-04-20 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[href^="mailto:"]
@@ -1292,3 +1292,45 @@ gamesradar.com##.slice-container-newsletterForm
 ||stylisheleg4nt.com/blast.js
 ||stream.crichd.vip/z-*
 ||stream.crichd.vip/update/skyf1.php
+
+! May 27, 2024 https://episodes.modpro.co
+||bucdcqoqvnrtbp.com^
+
+! May 29, 2024 https://en.softonic.com
+en.softonic.com##.buttons-social
+
+! May 29, 2024 https://www.indiatoday.in
+www.indiatoday.in##[class^="SocialShare_story__interaction_"]
+
+! May 31, 2024 https://www.hindustantimes.com
+www.hindustantimes.com###webklipper-publisher-widget-container
+
+! May 31, 2024 https://www.moneycontrol.com
+www.moneycontrol.com###wzrk_wrapper
+www.moneycontrol.com###taboola-mid-article-thumbnails
+www.moneycontrol.com###taboola-below-article-thumbnails
+www.moneycontrol.com##.mob-hide.dfp_ads_block
+www.moneycontrol.com###taboola-below-home-thumbnails
+
+! Jun 2, 2024 https://episodes.modpro.co
+||udairgawob.net^
+||codbxxmslsi.com^
+||lqktalqgavhmkb.com^
+
+! Jun 2, 2024 https://links.modpro.co
+||xsvfdnwjmev.com^
+
+! Jun 3, 2024 https://links.modpro.co
+||lyljcvgbkdwnv.com^
+||soupteewhish.com^
+||links.modpro.co/wp-content/themes/allium/js/custom.js
+
+! Jun 4, 2024 https://links.modpro.co
+||oastoamox.com^
+||jdiabuehydqpque.com^
+
+! Jun 5, 2024 https://episodes.modpro.co
+||toagruwha.net^
+||qshbhgtylgpus.com^
+
+
