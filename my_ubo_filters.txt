@@ -1333,4 +1333,8 @@ www.moneycontrol.com###taboola-below-home-thumbnails
 ||toagruwha.net^
 ||qshbhgtylgpus.com^
 
+epaper.indiatimes.com##.epaper-blocker
+epaper.indiatimes.com##.epaperBlockerWrap
+timesofindia.indiatimes.com##.visualstoriesas_wrapper
+timesofindia.indiatimes.com###desktop_minitv_view
 
