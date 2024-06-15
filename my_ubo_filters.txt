@@ -1338,3 +1338,21 @@ epaper.indiatimes.com##.epaperBlockerWrap
 timesofindia.indiatimes.com##.visualstoriesas_wrapper
 timesofindia.indiatimes.com###desktop_minitv_view
 
+! Jun 15, 2024 https://moviesmod.life
+/onewinpop.js
+
+! Jun 15, 2024 https://links.modpro.co
+||mykhekwkpkcbs.com^
+
+! Jun 15, 2024 https://stylisheleg4nt.com
+||groorsoa.net/5/6870788
+
+/^https:\/\/[.\w]+\.[a-z]{2,3}\/z-[5-9]\d{6}$/$script,1p,match-case,strict1p
+
+! Jun 15, 2024 https://stream.crichd.vip
+||win.pm-bet.in^
+
+! Jun 15, 2024 https://gadgetsreview27.com
+gadgetsreview27.com###cm-masthead
+gadgetsreview27.com###cm-footer
+
