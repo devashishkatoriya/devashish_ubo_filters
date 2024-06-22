@@ -675,7 +675,7 @@ www.apkmirror.com##.pushbullet-subscribe-widget
 www.apkmirror.com##[href="https://t.me/apkmirror_official"]
 www.apkmirror.com##[href="https://www.apkmirror.com/feed/"]
 www.apkmirror.com##.ains
-||disqus.com/embed/comments/$subdocument
+!||disqus.com/embed/comments/$subdocument
 www.apkmirror.com###disqus_thread
 
 ! Allowlist to fix site breakages
@@ -1355,4 +1355,15 @@ timesofindia.indiatimes.com###desktop_minitv_view
 ! Jun 15, 2024 https://gadgetsreview27.com
 gadgetsreview27.com###cm-masthead
 gadgetsreview27.com###cm-footer
+
+! Jun 5, 2024 https://driveseed.org
+/winexch.gif$image
+
+! Jun 22, 2024 https://links.modpro.co
+||ighawwrdfsgvic.com^
+||leenaitheez.com^
+
+! Jun 22, 2024 https://driveseed.org
+/winexch_12june.gif
+driveseed.org##[href="https://bit.ly/winexchdcjune"]
 
