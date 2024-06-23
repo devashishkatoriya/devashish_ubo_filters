@@ -1372,3 +1372,25 @@ driveseed.org##[href="https://bit.ly/winexchdcjune"]
 ||kuhrovpldea.com^
 /wp-includes/js/wp-emoji-release.min.js
 
+! Jun 22, 2024 https://www.nytimes.com
+www.nytimes.com##.SUBCON__BAU_ALL_ACCESS_ACQUISITION_234
+
+! Jun 22, 2024 https://batmanfactor.com
+||batmanfactor.com/300x299.webp$image
+||batmanfactor.com/300x600.webp$image
+||batmanfactor.com/300x250m.webp$image
+
+! Jun 23, 2024 https://ronaldo7.pro
+||st.chatango.com/h5/gz/r0610241543/id.html$subdocument
+
+! Jun 23, 2024 https://www.btvsports.cam
+www.btvsports.cam###chat
+
+! Jun 23, 2024 https://bluelizard.click
+||predictiondisplay.com/jump/next.php$popup
+
+! Jun 23, 2024 https://vidsrc.to
+||whos.amung.us/pingjs/$script,domain=vidsrc.to
+||recordedthereby.com/sfp.js$script,domain=vidsrc.to
+||capaciousdrewreligion.com/advertisers.js$script,domain=vidsrc.to
+
