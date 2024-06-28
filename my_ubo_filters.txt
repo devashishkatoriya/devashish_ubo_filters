@@ -1394,3 +1394,5 @@ www.btvsports.cam###chat
 ||recordedthereby.com/sfp.js$script,domain=vidsrc.to
 ||capaciousdrewreligion.com/advertisers.js$script,domain=vidsrc.to
 
+##[id^="penci_text-block_"]
+
