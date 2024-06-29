@@ -1394,5 +1394,14 @@ www.btvsports.cam###chat
 ||recordedthereby.com/sfp.js$script,domain=vidsrc.to
 ||capaciousdrewreligion.com/advertisers.js$script,domain=vidsrc.to
 
+! Jun 25, 2024 https://links.modpro.co
+||paugrozefou.net^
+||rgnhedtqr.com^
+
+! Jun 25, 2024 https://beautifulfashionnailart.com
+||beautifulfashionnailart.com/300x600.webp$image
+||beautifulfashionnailart.com/300x299.webp$image
+||beautifulfashionnailart.com/300x250m.webp$image
+
 ##[id^="penci_text-block_"]
 
