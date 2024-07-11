@@ -1397,11 +1397,6 @@ www.btvsports.cam###chat
 ||paugrozefou.net^
 ||rgnhedtqr.com^
 
-! Jun 25, 2024 https://beautifulfashionnailart.com
-||beautifulfashionnailart.com/300x600.webp$image
-||beautifulfashionnailart.com/300x299.webp$image
-||beautifulfashionnailart.com/300x250m.webp$image
-
 ##[id^="penci_text-block_"]
 
 uhdmovies.*##+js(nowoif)
@@ -1421,4 +1416,11 @@ firstpost.com##.so-ics
 ||pgmblhey.com^
 ||ddrcjgbuwek.com^
 ||cbxwjrvv.com^
+||feshoassan.com^
+||cjvfhupemmkfiil.com^
+
+!psa.wf interstetial ads increasing the timer to 30 sec
+@@||googleads.g.doubleclick.net/pagead/$domain=cryptednews.space
+
+cryptednews.space###formButtomMessage
 
