@@ -1424,3 +1424,10 @@ firstpost.com##.so-ics
 
 cryptednews.space###formButtomMessage
 
+news18.com##.opnbtnwrap.install_app_float
+indianexpress.com##div.app-btn.traking-event.hide_utm_paytm_phonepe:nth-child(6) > a > span.app-btn__link.readin_video
+indianexpress.com###id_newsletter_subscription
+indianexpress.com##.article_shorts_insert
+timesofindia.indiatimes.com###floatctadefault > a.ga_on_click.button1.capsule-btn
+timesofindia.indiatimes.com##.ampv3-ad
+timesofindia.indiatimes.com###amp_float_whtsapp
