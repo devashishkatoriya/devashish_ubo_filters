@@ -1374,11 +1374,6 @@ driveseed.org##[href="https://bit.ly/winexchdcjune"]
 ! Jun 22, 2024 https://www.nytimes.com
 www.nytimes.com##.SUBCON__BAU_ALL_ACCESS_ACQUISITION_234
 
-! Jun 22, 2024 https://batmanfactor.com
-||batmanfactor.com/300x299.webp$image
-||batmanfactor.com/300x600.webp$image
-||batmanfactor.com/300x250m.webp$image
-
 ! Jun 23, 2024 https://ronaldo7.pro
 ||st.chatango.com/h5/gz/r0610241543/id.html$subdocument
 
@@ -1421,6 +1416,7 @@ firstpost.com##.so-ics
 
 !psa.wf interstetial ads increasing the timer to 30 sec
 @@||googleads.g.doubleclick.net/pagead/$domain=cryptednews.space
+@@||googleads.g.doubleclick.net/pagead/$domain=business3.cryptednews.space
 
 cryptednews.space###formButtomMessage
 
@@ -1431,3 +1427,17 @@ indianexpress.com##.article_shorts_insert
 timesofindia.indiatimes.com###floatctadefault > a.ga_on_click.button1.capsule-btn
 timesofindia.indiatimes.com##.ampv3-ad
 timesofindia.indiatimes.com###amp_float_whtsapp
+
+! Jul 14, 2024 https://indianexpress.com
+indianexpress.com##.adsbox970x90
+indianexpress.com##.t-headlink__sslink
+indianexpress.com##.newletter_section.t-headlink__colm
+indianexpress.com##.adboxtop
+
+! Jul 15, 2024 https://www.cnbc.com
+www.cnbc.com###taboolaRRContainer
+www.cnbc.com###taboolaContainerMix
+www.cnbc.com##.CNBCFooter-footer
+www.cnbc.com###social-buttons-transporter
+www.cnbc.com##.RelatedContent-relatedContent
+
