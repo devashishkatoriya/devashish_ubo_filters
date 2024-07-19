@@ -1441,3 +1441,19 @@ www.cnbc.com##.CNBCFooter-footer
 www.cnbc.com###social-buttons-transporter
 www.cnbc.com##.RelatedContent-relatedContent
 
+! Jul 19, 2024 https://www.businesstoday.in
+www.businesstoday.in##.hidegap.mainBorromSliderSec
+www.businesstoday.in###bt-footer
+www.businesstoday.in###copyright
+www.businesstoday.in##.share-button
+www.businesstoday.in##.bdg_bnr_frm
+
+! Remove popup on stream.crichd.* Sky Sports
+||histats.com^$3p
+crichd.*##+js(no-window-open-if)
+crichd.*##+js(addEventListener-defuser, , break;case $.)
+crichd.*##+js(abort-current-script, JSON.parse, break;case $.)
+crichd.*##+js(abort-on-property-read, AaDetector)
+stream.crichd.vip##+js(remove-node-text, script, /h=decodeURIComponent|popundersPerIP/)
+stylisheleg4nt.com##+js(abort-current-script, document.documentElement, break;case $.)
+
