@@ -1457,3 +1457,8 @@ crichd.*##+js(abort-on-property-read, AaDetector)
 stream.crichd.vip##+js(remove-node-text, script, /h=decodeURIComponent|popundersPerIP/)
 stylisheleg4nt.com##+js(abort-current-script, document.documentElement, break;case $.)
 
+! Jul 23, 2024 https://www.news18.com
+www.news18.com###chatBotDiv
+www.news18.com##.articleHeaderAd
+www.news18.com###taboola-below-article-thumbnails
+
