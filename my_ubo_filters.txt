@@ -1462,3 +1462,5 @@ www.news18.com###chatBotDiv
 www.news18.com##.articleHeaderAd
 www.news18.com###taboola-below-article-thumbnails
 
+! Jul 25, 2024 https://www.news18.com
+www.news18.com##.bylineList-2
