@@ -1464,3 +1464,8 @@ www.news18.com###taboola-below-article-thumbnails
 
 ! Jul 25, 2024 https://www.news18.com
 www.news18.com##.bylineList-2
+
+! Jul 26, 2024 https://www.news18.com
+||images.news18.com/dlxczavtqcctuei/news18/static/images/english/AIchatbot_creative-01.png$image
+www.news18.com###taboola-below-section-thumbnails
+
