@@ -1469,3 +1469,12 @@ www.news18.com##.bylineList-2
 ||images.news18.com/dlxczavtqcctuei/news18/static/images/english/AIchatbot_creative-01.png$image
 www.news18.com###taboola-below-section-thumbnails
 
+! Jul 30, 2024 https://www.dnaindia.com
+www.dnaindia.com##.header-social-icon
+www.dnaindia.com###taboola-mid-article-thumbnails
+www.dnaindia.com##.taboola.recommended_widget
+www.dnaindia.com##.article-share
+www.dnaindia.com###creInContentWidgetShow
+www.dnaindia.com##.trc_elastic_thumbnails-a.trc_elastic.tbl-trecs-container.trc_spotlight_widget.trc_related_container
+www.dnaindia.com##.recommended_widget
+
