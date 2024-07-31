@@ -1478,3 +1478,32 @@ www.dnaindia.com###creInContentWidgetShow
 www.dnaindia.com##.trc_elastic_thumbnails-a.trc_elastic.tbl-trecs-container.trc_spotlight_widget.trc_related_container
 www.dnaindia.com##.recommended_widget
 
+! Jul 31, 2024 https://www.ndtv.com
+www.ndtv.com##.stk-t_wr > .ss
+www.ndtv.com##.reltd.highlghts_Wdgt
+
+! Jul 31, 2024 https://sports.ndtv.com
+sports.ndtv.com###taboola-right-rail-thumbnails-3rd---sports
+sports.ndtv.com##.ad-cnt
+sports.ndtv.com###jiosaavn-widget
+sports.ndtv.com##.in-viewport.tbl-next-up-mobile-position-bottom.tbl-next-up-position-right.tbl-next-up.tbl-floating-unit
+sports.ndtv.com##.pst_opt
+sports.ndtv.com##.t-md
+sports.ndtv.com##.t-br
+sports.ndtv.com###taboola-below-article-thumbnails---sportpages
+sports.ndtv.com###footer
+sports.ndtv.com##.crd-ft_bt
+
+! Jul 31, 2024 https://www.hindustantimes.com
+www.hindustantimes.com##.taboolaInine
+
+! Jul 31, 2024 https://www.aljazeera.com
+www.aljazeera.com##.container--ads-leaderboard-atf.container--ads
+www.aljazeera.com##.social-share-buttons
+www.aljazeera.com##.more-on
+www.aljazeera.com###article-newsletter-slot
+www.aljazeera.com##.container--white.container--footer.container
+www.aljazeera.com##.ads
+www.aljazeera.com##.container--ads-leaderboard-mid-homepage.container--ads-leaderboard-mid.container--ads.container
+www.aljazeera.com##.sidebar-style.sib-newsletter-form
+
