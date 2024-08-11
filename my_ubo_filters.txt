@@ -1593,3 +1593,8 @@ timesofindia.indiatimes.com##.hide_in_adblocker.vertical.ad_text.ad_300by250.adI
 ! 10-Aug-2024 https://moviesmod.band
 moviesmod.*##.header-ad
 
+||trikeunpured.com^
+||d263ut03kf37wj.cloudfront.net/?fktud=1041209
+video-seed.xyz##+js(abort-current-script, document.documentElement, break;case $.)
+
+
