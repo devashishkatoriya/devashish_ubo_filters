@@ -1591,5 +1591,5 @@ timesofindia.indiatimes.com###housing_iframe
 timesofindia.indiatimes.com##.hide_in_adblocker.vertical.ad_text.ad_300by250.adInv
 
 ! 10-Aug-2024 https://moviesmod.band
-moviesmod.band##.header-ad
+moviesmod.*##.header-ad
 
