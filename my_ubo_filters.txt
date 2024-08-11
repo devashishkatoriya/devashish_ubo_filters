@@ -1507,3 +1507,89 @@ www.aljazeera.com##.ads
 www.aljazeera.com##.container--ads-leaderboard-mid-homepage.container--ads-leaderboard-mid.container--ads.container
 www.aljazeera.com##.sidebar-style.sib-newsletter-form
 
+! Aug 10, 2024 https://hianime.to
+hianime.to##.zrg-list
+
+! Aug 10, 2024 https://howlongtobeat.com
+howlongtobeat.com###zdcFloatingBtn
+
+! Aug 10, 2024 https://hianime.to
+hianime.to##.footer-joingroup
+
+! 04-Aug-2024 https://www.hindustantimes.com
+||images.hindustantimes.com/cdp/prod/amp/widgets/inArticlePromo.html$subdocument
+
+! 04-Aug-2024 https://indianexpress.com
+indianexpress.com##.moe-push-class
+indianexpress.com##.hide_utm_paytm_phonepe.traking-event.app-btn
+indianexpress.com##[href="https://whatsapp.com/channel/0029Va950Ah7tkj6iT2DmJ1R"]
+indianexpress.com##.add-section
+
+! 04-Aug-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.taboola-wrapper.taboola_mid.geo_based_ad_taboola
+||affiliatewidgets.indiatimes.com/affiliates_content_iframe_v2.cms$subdocument
+timesofindia.indiatimes.com##.taboola-wrapper.taboola_bottom.geo_based_ad_taboola
+timesofindia.indiatimes.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.affwidget.affliate_on_view
+
+! 04-Aug-2024 https://www.news18.com
+www.news18.com##.middlead
+
+! 05-Aug-2024 https://www.timesnownews.com
+www.timesnownews.com###btm-navbar
+www.timesnownews.com##._1i-Z
+||www.timesnownews.com/assets/images/subscribe-bg.jpg$image
+
+! 05-Aug-2024 https://www.telegraphindia.com
+www.telegraphindia.com##.shareiconbox
+www.telegraphindia.com##.stickyshare
+www.telegraphindia.com##.followusbox
+www.telegraphindia.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+
+! 05-Aug-2024 https://www.bhaskar.com
+www.bhaskar.com##.react-share__ShareButton
+www.bhaskar.com##.e02419a9
+www.bhaskar.com##.f9b352a5
+
+! 05-Aug-2024 https://www.gujaratsamachar.com
+www.gujaratsamachar.com##.jalso-main-player
+www.gujaratsamachar.com##.d-grid.social
+www.gujaratsamachar.com##.mobile.advertisment
+
+! 05-Aug-2024 https://english.gujaratsamachar.com
+english.gujaratsamachar.com##.text-white.pe-4.position-relative.bg-primary.announcement-bar
+english.gujaratsamachar.com##.d-grid.social
+english.gujaratsamachar.com##.react-share__ShareButton
+english.gujaratsamachar.com##.card.social
+
+! 05-Aug-2024 https://epaper.gujaratsamachar.com
+epaper.gujaratsamachar.com##.show.fade.modal-backdrop
+epaper.gujaratsamachar.com##.show.fade.modal
+
+! 05-Aug-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##div.TUM6i
+timesofindia.indiatimes.com##.eoYOs.qYod4
+
+! 05-Aug-2024 https://www.ndtv.com
+www.ndtv.com##.ad-art_wr
+www.ndtv.com##.ad-art_full-tbs.ad-art_full2
+
+! 09-Aug-2024 https://indianexpress.com
+indianexpress.com##div.custom_read_button
+
+! 09-Aug-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.footer_fbn.FIXEDBTF.ad1
+timesofindia.indiatimes.com##.ATF.ad1
+timesofindia.indiatimes.com##.prime-inliner-blocker
+timesofindia.indiatimes.com##.briefad
+
+! 09-Aug-2024 https://www.hindustantimes.com
+www.hindustantimes.com##.mb20.quizShow
+www.hindustantimes.com##.align-center.mb5.m_headBanner_new
+
+! 10-Aug-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###housing_iframe
+timesofindia.indiatimes.com##.hide_in_adblocker.vertical.ad_text.ad_300by250.adInv
+
+! 10-Aug-2024 https://moviesmod.band
+moviesmod.band##.header-ad
+
