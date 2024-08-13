@@ -1596,5 +1596,5 @@ moviesmod.*##.header-ad
 ||trikeunpured.com^
 ||d263ut03kf37wj.cloudfront.net/?fktud=1041209
 video-seed.xyz##+js(abort-current-script, document.documentElement, break;case $.)
-
+aniwave.*##^script:has-text(document.write)
 
