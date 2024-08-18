@@ -1598,3 +1598,13 @@ moviesmod.*##.header-ad
 video-seed.xyz##+js(abort-current-script, document.documentElement, break;case $.)
 aniwave.*##^script:has-text(document.write)
 
+! Aug 18, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.LiveblogStickyHead
+
+! Aug 18, 2024 https://english.jagran.com
+english.jagran.com##[class^="notification_subscribeFrame_"]
+english.jagran.com##.taboolaads
+
+! Aug 18, 2024 https://www.thehindu.com - To unbreak videos not loading on the hindu
+!@@||c2.piano.io/xbuilder/experience/execute?aid=DC3REpZYpu$xhr,domain=www.thehindu.com
+
