@@ -1624,4 +1624,60 @@ www.msn.com##.adsContainer-DS-EntryPoint1-1
 www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
 www.msn.com###NativeAdsCarouselSection-ScreenWidth-c5
 
+! Aug 21, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.undefined.r0m20
+
+! Aug 22, 2024 https://www.vox.com
+www.vox.com##.duet--article--share-buttons
+www.vox.com##.duet--cta--newsletter
+www.vox.com##._1tzd3in0
+www.vox.com##.custom-persistent-icon.ot-floating-button__front
+
+! 14-Aug-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[href^="https://m.timesofindia.com/amp_floater_toi_app_v2.cms"]
+timesofindia.indiatimes.com##.MREC.ad1
+
+! Aug 16, 2024 https://www.hindustantimes.com
+www.hindustantimes.com##.OpenAppCTA_dHide__8TCZa.OpenAppCTA_openAppButton__vLmPO
+www.hindustantimes.com##.Liveblog_adCenter__7_m4h
+www.hindustantimes.com##.footer-ht-links
+www.hindustantimes.com##.mSubscibe
+
+! Aug 19, 2024 https://www.digitaltrends.com
+www.digitaltrends.com##.pushly-prompt-visible.m-bottom.d-top.non-managed.normal.pushly-prompt-window.pushly_popover
+www.digitaltrends.com##.h-newsletter-promo.b-newsletter-promo--single.b-newsletter-promo
+||www.digitaltrends.com/wp-content/uploads/2024/02/Respec-Prom-Image-Sign-Up.jpg$image
+www.digitaltrends.com##[href="/computing/respec-newsletter/"]
+
+! Aug 19, 2024 https://www.tomshardware.com
+www.tomshardware.com##.less-space.box.socialite-widget
+www.tomshardware.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-SwQ3xNhtJfHJzxunzaaWkR.newsletter-inbodyContent-slice.slice-container
+www.tomshardware.com###affiliate-disclaimer
+
+! Aug 20, 2024 https://www.digitaltrends.com
+www.digitaltrends.com##div.dtads-mobile.dtads-content.dtads-location
+www.digitaltrends.com##.b-nav__sign-in.b-pill-button
+www.digitaltrends.com##.dtads-mobile.dtads-btn.dtads-location
+www.digitaltrends.com##.b-foot
+www.digitaltrends.com##.b-personality__social-buttons
+
+! Aug 20, 2024 https://www.tomshardware.com
+www.tomshardware.com###document-footer-content
+
+! Aug 21, 2024 https://www.news18.com
+www.news18.com###amp-subscribe-button
+www.news18.com##.opnbtnwrap
+www.news18.com##.ampFlyAdd
+www.news18.com##i-amphtml-sizer
+
+! Aug 21, 2024 https://www.indiatoday.in
+www.indiatoday.in###taboola-below-article-thumbnails
+
+! Aug 21, 2024 https://www.firstpost.com
+www.firstpost.com##.header-top-ad.text-center
+www.firstpost.com##div.mobile-ad.add_container
+www.firstpost.com##.mb-art-soc-icons
+www.firstpost.com##.TABOOLA
+www.firstpost.com##.ic-share-div
+
 
