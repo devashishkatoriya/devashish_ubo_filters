@@ -1680,4 +1680,18 @@ www.firstpost.com##.mb-art-soc-icons
 www.firstpost.com##.TABOOLA
 www.firstpost.com##.ic-share-div
 
+! Aug 23, 2024 https://sports.saveinsta.cam
+sports.saveinsta.cam##.vc_custom_1657919089513.penci-vc-column-1.penci-link-filter-hidden.style-title-left.style-title-11.penci-text-block.penci-block-vc
+sports.saveinsta.cam##.widget-area-2.widget-area
+
+! Aug 23, 2024 https://sports2.saveinsta.cam
+sports2.saveinsta.cam##.vc_custom_1657919089513.penci-vc-column-1.penci-link-filter-hidden.style-title-left.style-title-11.penci-text-block.penci-block-vc
+sports2.saveinsta.cam##.widget-area-2.widget-area
+
+! Aug 23, 2024 https://nexdrive.fun
+nexdrive.fun##.banner-inner
+
+! Aug 23, 2024 https://www.news18.com
+www.news18.com##.ad.stk_cnt
+
 
