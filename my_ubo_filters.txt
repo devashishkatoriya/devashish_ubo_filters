@@ -32,7 +32,11 @@
 ! Adguard Widgets filter (Optimized) - https://filters.adtidy.org/extension/ublock/filters/22_optimized.txt
 ! Adguard CNAME original trackers list - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt
 
+! AdGuard DNS filter - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 ! Hagezi's Light Blocklist - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
+
+! AdGuard DNS Popup Hosts filter - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
+! HaGeZi's Pop-Up Ads DNS Blocklist - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
 
 ! Block 3p fonts - https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 ! Browse sites w/o Logging In - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
