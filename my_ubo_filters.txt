@@ -1726,3 +1726,10 @@ www.financialexpress.com##.animation-out.is-market-data
 www.financialexpress.com##.parent_also_read
 www.financialexpress.com##.wp-block-group-is-layout-flow.is-layout-flow.has-background.has-text-color.has-white-color.has-link-color.alignfull.wp-block-group
 
+! Aug 25, 2024 https://nowmetv.xyz
+nowmetv.xyz##.clearfix.dtw_socialbox.widget
+
+! Aug 25, 2024 https://www.ndtv.com
+www.ndtv.com##.VdPg-Col_Two-c
+
+
