@@ -1698,4 +1698,31 @@ nexdrive.fun##.banner-inner
 ! Aug 23, 2024 https://www.news18.com
 www.news18.com##.ad.stk_cnt
 
+! Aug 23, 2024 https://www.ndtv.com
+www.ndtv.com##.DwnLdApp3_btns
+www.ndtv.com##.VdPg-Ad-full-crd-wr
+
+! Aug 23, 2024 https://moviesmod.win
+moviesmod.win##.mobile-ad
+
+! Aug 23, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.ntMKm
+
+! Aug 24, 2024 https://www.pornhub.org
+www.pornhub.org##.adsbytrafficjunky
+www.pornhub.org##.middleAdContainer.clearfix.adContainer
+
+! Aug 24, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.UvMqU
+timesofindia.indiatimes.com##.D7ys0
+
+! Aug 25, 2024 https://moviesmod.bet
+||moviesmod.*/wp-content/uploads/*/1win_square.png$image
+
+! Aug 25, 2024 https://www.financialexpress.com
+www.financialexpress.com##.ad-bg-container
+www.financialexpress.com##.ie-network-custom-share
+www.financialexpress.com##.animation-out.is-market-data
+www.financialexpress.com##.parent_also_read
+www.financialexpress.com##.wp-block-group-is-layout-flow.is-layout-flow.has-background.has-text-color.has-white-color.has-link-color.alignfull.wp-block-group
 
