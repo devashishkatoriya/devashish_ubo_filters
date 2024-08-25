@@ -1732,4 +1732,10 @@ nowmetv.xyz##.clearfix.dtw_socialbox.widget
 ! Aug 25, 2024 https://www.ndtv.com
 www.ndtv.com##.VdPg-Col_Two-c
 
+! Aug 25, 2024 https://www.ndtv.com
+www.ndtv.com##.vjl-Rhs-1
+www.ndtv.com###jiosaavn-widget
+www.ndtv.com##.ArtNP-dx_wr
+www.ndtv.com##.SoFl_ss_cnt
+
 
