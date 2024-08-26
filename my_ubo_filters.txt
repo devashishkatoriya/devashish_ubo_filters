@@ -1752,4 +1752,10 @@ www.ndtvprofit.com##.header-top-m__subscribe-button-wrapper__gyWq4
 www.newsbytesapp.com##.social-share
 www.newsbytesapp.com###footer
 
+! Aug 26, 2024 https://www.tomshardware.com
+www.tomshardware.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+www.tomshardware.com##.other-links
+www.tomshardware.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+www.tomshardware.com##.masthead-item.buttons-social
+
 
