@@ -1745,4 +1745,11 @@ www.ndtv.com##.ss_pg.ss
 ! Aug 25, 2024 https://www.ndtvprofit.com
 www.ndtvprofit.com##.header-top-m__subscribe-button-wrapper__gyWq4
 
+! Aug 25, 2024 https://readcomiconline.li
+||readcomiconline.li/Ads/bidmob300b.aspx$subdocument
+
+! Aug 26, 2024 https://www.newsbytesapp.com
+www.newsbytesapp.com##.social-share
+www.newsbytesapp.com###footer
+
 
