@@ -1758,4 +1758,10 @@ www.tomshardware.com##.other-links
 www.tomshardware.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 www.tomshardware.com##.masthead-item.buttons-social
 
+! Aug 27, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.gFHBp
+timesofindia.indiatimes.com##.V5EgZ.undefined
+timesofindia.indiatimes.com###story-blocker-new
+timesofindia.indiatimes.com##.sRA4h
+
 
