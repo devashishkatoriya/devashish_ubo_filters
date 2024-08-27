@@ -1764,4 +1764,9 @@ timesofindia.indiatimes.com##.V5EgZ.undefined
 timesofindia.indiatimes.com###story-blocker-new
 timesofindia.indiatimes.com##.sRA4h
 
+! Aug 27, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.XAt75
+timesofindia.indiatimes.com##.undefined.ffYIn
+timesofindia.indiatimes.com##.z79Iu
+
 
