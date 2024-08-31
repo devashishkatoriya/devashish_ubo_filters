@@ -1788,6 +1788,10 @@ www.mercedesamgf1.com##[class^="share_share__"]
 www.mercedesamgf1.com##[class^="footer-social_social-wrapper__"]
 www.mercedesamgf1.com##.footer
 
+! Aug 28, 2024 https://www.golem.de
+www.golem.de###iqadtile5
+www.golem.de##.staticNlForm.subscribe-newsletter
+
 
 
 
