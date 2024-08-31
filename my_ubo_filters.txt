@@ -1795,4 +1795,8 @@ www.golem.de##.staticNlForm.subscribe-newsletter
 ! Aug 28, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.WQKXb
 
+! Aug 31, 2024 https://www.the-race.com
+www.the-race.com##div.right_float.therace_related_single
+www.the-race.com##div.left_float.therace_related_single
+
 
