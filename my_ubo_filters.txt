@@ -1799,4 +1799,8 @@ timesofindia.indiatimes.com##.WQKXb
 www.the-race.com##div.right_float.therace_related_single
 www.the-race.com##div.left_float.therace_related_single
 
+! Aug 31, 2024 https://blogs.nvidia.com
+blogs.nvidia.com##.entry-meta-social
+blogs.nvidia.com###formWidget
+
 
