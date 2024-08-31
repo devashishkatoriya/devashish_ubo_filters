@@ -1772,5 +1772,22 @@ timesofindia.indiatimes.com##.z79Iu
 ! Aug 27, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.kdx5O
 
+! Aug 31, 2024 https://www.the-race.com
+www.the-race.com###ss-floating-bar
+www.the-race.com###ghost-portal-root
+
+! Aug 31, 2024 https://www.autosport.com
+www.autosport.com##.ms-footer
+www.autosport.com##.ms-article-content-end
+
+! Aug 31, 2024 https://www.formula1.com
+www.formula1.com###footer
+
+! Aug 31, 2024 https://www.mercedesamgf1.com
+www.mercedesamgf1.com##[class^="share_share__"]
+www.mercedesamgf1.com##[class^="footer-social_social-wrapper__"]
+www.mercedesamgf1.com##.footer
+
+
 
 
