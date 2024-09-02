@@ -1813,4 +1813,7 @@ um.tetelsillers.com/r6ivsoaNBNcIvk/44730
 ! Sep 1, 2024 https://nexdrive.fun
 nexdrive.*##.code-block-1.code-block > center
 
+! Sep 2, 2024 https://www.techspot.com
+www.techspot.com##.ad_to_list
+
 
