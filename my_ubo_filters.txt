@@ -1816,4 +1816,28 @@ nexdrive.*##.code-block-1.code-block > center
 ! Sep 2, 2024 https://www.techspot.com
 www.techspot.com##.ad_to_list
 
+! Sep 1, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.false.OqZb8
+
+! Sep 1, 2024 https://www.history.com
+www.history.com##.email-collector-container.show-landing.content-narrow
+
+! Sep 1, 2024 https://nowmetv.xyz
+nowmetv.*##.dt_social_single
+
+! Sep 2, 2024 https://m.economictimes.com
+m.economictimes.com##._2rMIm
+m.economictimes.com##.ooerz
+m.economictimes.com##._176IM
+m.economictimes.com##._2HCxG
+m.economictimes.com##.lIt_H
+m.economictimes.com##.v1ptH
+m.economictimes.com##._2SSzi
+
+! Sep 2, 2024 https://manhwato.com
+manhwato.com##.shared-block
+
+! Sep 3, 2024 https://www.kenyaadultblog.com
+www.kenyaadultblog.com##[href="https://www.afrohot.com/escorts-from/kenya"]
+
 
