@@ -1840,4 +1840,10 @@ manhwato.com##.shared-block
 ! Sep 3, 2024 https://www.kenyaadultblog.com
 www.kenyaadultblog.com##[href="https://www.afrohot.com/escorts-from/kenya"]
 
+! Sep 7, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.advertisment
+timesofindia.indiatimes.com##.ads-head.tsh-ads
+timesofindia.indiatimes.com##.sociables
+timesofindia.indiatimes.com##.sociables3
+
 
