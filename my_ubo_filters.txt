@@ -1857,4 +1857,7 @@ www.ndtv.com###taboola-below-article-thumbnails
 www.ndtv.com##.tbl_cnt_wrp
 www.ndtv.com###taboola-below-video-thumbnails-new-dark
 
+! Sep 8, 2024 https://www.indiatoday.in
+www.indiatoday.in##.premium_btn
+
 
