@@ -1846,4 +1846,15 @@ timesofindia.indiatimes.com##.ads-head.tsh-ads
 timesofindia.indiatimes.com##.sociables
 timesofindia.indiatimes.com##.sociables3
 
+! Sep 8, 2024 https://www.apkmirror.com
+www.apkmirror.com##.f-nowrap.d-flex.tab-button-positioning
+
+! Sep 8, 2024 https://new1.filepress.shop
+new1.filepress.shop##[src="//ad.a-ads.com/2334610?size=300x250"]
+
+! Sep 8, 2024 https://www.ndtv.com
+www.ndtv.com###taboola-below-article-thumbnails
+www.ndtv.com##.tbl_cnt_wrp
+www.ndtv.com###taboola-below-video-thumbnails-new-dark
+
 
