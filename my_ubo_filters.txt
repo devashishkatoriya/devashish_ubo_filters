@@ -1860,4 +1860,10 @@ www.ndtv.com###taboola-below-video-thumbnails-new-dark
 ! Sep 8, 2024 https://www.indiatoday.in
 www.indiatoday.in##.premium_btn
 
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
+
+/pagead.js$domain=d3ward.github.io
+/widget/ads.js$domain=d3ward.github.io
+
 
