@@ -1889,4 +1889,16 @@ www.etnownews.com##.atfAdContainer
 www.etnownews.com##._3R--A
 www.etnownews.com##.bggrayAd
 
+! Sep 12, 2024 https://isha.sadhguru.org
+isha.sadhguru.org##.react-share__ShareButton
+
+! Sep 12, 2024 https://www.anandtech.com
+www.anandtech.com###side_ad
+
+! Sep 12, 2024 https://www.ebaumsworld.com
+www.ebaumsworld.com##.sticky-social
+
+! Sep 8, 2024 https://www.news18.com
+www.news18.com##.install_app_bottom_sheet.overlayApp
+
 
