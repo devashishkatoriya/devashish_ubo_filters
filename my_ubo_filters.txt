@@ -1866,4 +1866,27 @@ d3ward.github.io##.textads
 /pagead.js$domain=d3ward.github.io
 /widget/ads.js$domain=d3ward.github.io
 
+! Sep 9, 2024 https://arstechnica.com
+arstechnica.com##.site-footer
+
+! Sep 10, 2024 https://www.tomsguide.com
+www.tomsguide.com###tbl-next-up
+www.tomsguide.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+www.tomsguide.com##.socialite-widget-ul
+www.tomsguide.com##.dfp-leaderboard-container
+www.tomsguide.com##.masthead-item.buttons-social
+www.tomsguide.com###document-footer
+
+! Sep 12, 2024 https://www.etnownews.com
+www.etnownews.com##.ad-600-h
+www.etnownews.com##.sponsorAd
+www.etnownews.com##._2bewb._1blJa
+www.etnownews.com##[href^="https://www.linkedin.com/sharing/share-offsite/"]
+www.etnownews.com##[href^="https://wa.me/"]
+www.etnownews.com##[href^="https://twitter.com/intent/tweet"]
+www.etnownews.com##[href^="https://www.facebook.com/sharer/sharer.php"]
+www.etnownews.com##.atfAdContainer
+www.etnownews.com##._3R--A
+www.etnownews.com##.bggrayAd
+
 
