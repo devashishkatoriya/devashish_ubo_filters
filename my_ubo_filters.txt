@@ -1901,4 +1901,15 @@ www.ebaumsworld.com##.sticky-social
 ! Sep 8, 2024 https://www.news18.com
 www.news18.com##.install_app_bottom_sheet.overlayApp
 
+! Sep 20, 2024 https://www.ndtv.com
+www.ndtv.com##.crd-ft_bt
+
+! Sep 21, 2024 https://moviekhhd.biz
+moviekhhd.biz##[src="ads/720x150-SBKKH-0221.gif"]
+moviekhhd.biz###Ads
+moviekhhd.biz##[href="ContactUS"]
+moviekhhd.biz##.share
+moviekhhd.biz##.adsbutton1
+
+
 
