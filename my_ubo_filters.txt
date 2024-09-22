@@ -1911,5 +1911,22 @@ moviekhhd.biz##[href="ContactUS"]
 moviekhhd.biz##.share
 moviekhhd.biz##.adsbutton1
 
+! Sep 22, 2024 https://hindi.news18.com
+hindi.news18.com##.nhsocial
+hindi.news18.com##.elec.sponsors_Wrp
+hindi.news18.com##.n18thder
+hindi.news18.com##div.sideTop
+hindi.news18.com##.lnlivetv_div.lnlapp
+hindi.news18.com##.spriteshare
+hindi.news18.com##.cp_perpetual_prev.anlft
+hindi.news18.com##.newphtshare
+hindi.news18.com##.TABOOLA
+hindi.news18.com##.common-footer
+hindi.news18.com##.artcl_rght
+hindi.news18.com##.artclbyeline-share
+hindi.news18.com##.whatsapp_channel
+hindi.news18.com###native-ad-hp-2020
+hindi.news18.com##.cp_perpetual_next.anrgt
+
 
 
