@@ -1928,5 +1928,10 @@ hindi.news18.com##.whatsapp_channel
 hindi.news18.com###native-ad-hp-2020
 hindi.news18.com##.cp_perpetual_next.anrgt
 
+! Sep 22, 2024 https://mastramstories.com
+mastramstories.com###masthead
+mastramstories.com##.secondary
+mastramstories.com###colophon
+
 
 
