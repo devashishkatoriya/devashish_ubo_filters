@@ -1933,5 +1933,10 @@ mastramstories.com###masthead
 mastramstories.com##.secondary
 mastramstories.com###colophon
 
+! Sep 23, 2024 https://lel.topoffershub.com
+lel.topoffershub.com###site-header
+lel.topoffershub.com###site-footer
+lel.topoffershub.com##.c-4-12.sidebar
+
 
 
