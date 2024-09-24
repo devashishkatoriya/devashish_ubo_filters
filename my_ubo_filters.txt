@@ -1957,5 +1957,17 @@ www.timesnownews.com##._2K0H
 ! Sep 24, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.adInv
 
+! Sep 24, 2024 https://www.ndtv.com
+www.ndtv.com##.ArtNxPr_wr
+www.ndtv.com##.ad-art_rw
+www.ndtv.com##.Js-StkRhs_out.StkRhs_js-ad.StkRhs_icn1
+
+! Sep 24, 2024 https://www.indiatvnews.com
+www.indiatvnews.com##.whatsapp_link
+www.indiatvnews.com##.mb10.read-news.gapLR.row
+www.indiatvnews.com##.tabola
+www.indiatvnews.com##.socialBox
+www.indiatvnews.com##.cookies-box
+
 
 
