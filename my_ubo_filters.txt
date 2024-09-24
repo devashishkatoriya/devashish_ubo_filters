@@ -1938,5 +1938,24 @@ lel.topoffershub.com###site-header
 lel.topoffershub.com###site-footer
 lel.topoffershub.com##.c-4-12.sidebar
 
+! Sep 22, 2024 https://www.news24.com
+www.news24.com##.newsletter-signup--active.newsletter-signup--group
+www.news24.com##.article-subs-footer
+www.news24.com###subscribe-button
+
+! Sep 22, 2024 https://www.xxlmag.com
+www.xxlmag.com##.tsm-ad-320.tsm-ad
+www.xxlmag.com##.sticky.bignsexy.social-share
+
+! Sep 22, 2024 https://www.timesnownews.com
+www.timesnownews.com##._29kh
+www.timesnownews.com##._3qlu
+www.timesnownews.com##._1X8U
+||www.timesnownews.com/assets/images/subscribe-bg.jpg$image
+www.timesnownews.com##._2K0H
+
+! Sep 24, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.adInv
+
 
 
