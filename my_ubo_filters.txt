@@ -1969,5 +1969,8 @@ www.indiatvnews.com##.tabola
 www.indiatvnews.com##.socialBox
 www.indiatvnews.com##.cookies-box
 
+! Sep 25, 2024 https://zeenews.india.com
+zeenews.india.com##.menucaterory_container
+
 
 
