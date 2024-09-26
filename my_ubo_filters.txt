@@ -1972,5 +1972,9 @@ www.indiatvnews.com##.cookies-box
 ! Sep 25, 2024 https://zeenews.india.com
 zeenews.india.com##.menucaterory_container
 
+! Sep 19, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.LNgyX.undefined
+timesofindia.indiatimes.com##.JzZjH
+
 
 
