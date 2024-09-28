@@ -1976,5 +1976,23 @@ zeenews.india.com##.menucaterory_container
 timesofindia.indiatimes.com##.LNgyX.undefined
 timesofindia.indiatimes.com##.JzZjH
 
+! Sep 25, 2024 https://www.news18.com
+www.news18.com##.MC_socials
+
+! Sep 25, 2024 https://www.apnews.com
+www.apnews.com###mobile-entitlements
+
+! Sep 25, 2024 https://apnews.com
+apnews.com##._donate_6jw9h_80
+apnews.com###mobile-entitlements
+apnews.com##.SocialBar
+
+! Sep 25, 2024 https://www.allsides.com
+www.allsides.com##.st-inline-share-buttons.st-hidden.st-left.sharethis-inline-share-buttons
+www.allsides.com###onetrust-consent-sdk
+
+! Sep 27, 2024 https://www.techradar.com
+www.techradar.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+
 
 
