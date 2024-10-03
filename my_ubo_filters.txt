@@ -1994,5 +1994,7 @@ www.allsides.com###onetrust-consent-sdk
 ! Sep 27, 2024 https://www.techradar.com
 www.techradar.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 
-
+! Oct 2, 2024 https://zeenews.india.com
+zeenews.india.com##.news-buddy
+zeenews.india.com##.ads-box-970x90
 
