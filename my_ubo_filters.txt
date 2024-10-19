@@ -2052,3 +2052,6 @@ www.ndtv.com###vuukle-quiz-container
 ! Oct 19, 2024 https://lelouch.famousdokan.com
 lelouch.famousdokan.com##.c-4-12.sidebar
 
+! Oct 19, 2024 https://www.hindustantimes.com
+www.hindustantimes.com###quizElement_101729310759826
+
