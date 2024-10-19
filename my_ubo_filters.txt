@@ -2042,3 +2042,13 @@ www.aajtak.in##.share-social-icons
 www.aajtak.in##.whatsapp_channel
 www.aajtak.in##.new_letter_download_app
 
+! Oct 3, 2024 https://lelouch.famousdokan.com
+lelouch.famousdokan.com###site-header
+lelouch.famousdokan.com###site-footer
+
+! Oct 19, 2024 https://www.ndtv.com
+www.ndtv.com###vuukle-quiz-container
+
+! Oct 19, 2024 https://lelouch.famousdokan.com
+lelouch.famousdokan.com##.c-4-12.sidebar
+
