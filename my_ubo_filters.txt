@@ -2068,3 +2068,7 @@ www.forbes.com##.GeqwIyqb
 www.forbes.com##.newsletter-inline-flex
 www.forbes.com##.newsLetterSubscriptionLink
 
+! Oct 20, 2024 https://www.indiatvnews.com
+www.indiatvnews.com##.ad-placeholder
+
+
