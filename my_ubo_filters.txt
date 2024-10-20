@@ -2055,3 +2055,8 @@ lelouch.famousdokan.com##.c-4-12.sidebar
 ! Oct 19, 2024 https://www.hindustantimes.com
 www.hindustantimes.com###quizElement_101729310759826
 
+! Oct 20, 2024 https://www.gamingbible.com
+www.gamingbible.com##.soft-notification-modal_modal__8KcpZ
+www.gamingbible.com##.right-column-ads_stickyAds__nIKBv
+www.gamingbible.com##.advert-placeholder_advertPlaceholder____F2W
+
