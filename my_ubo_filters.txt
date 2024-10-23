@@ -2086,4 +2086,20 @@ www.news18.com##.topAddArticle
 ! Oct 23, 2024 https://www.news18.com
 www.news18.com##.NAT_add
 
+! Oct 23, 2024 https://es.pornhub.org
+es.pornhub.org##.adsbytrafficjunky
+
+! Oct 23, 2024 https://www.news18.com
+www.news18.com##.header_join_us_mweb
+www.news18.com###stkad
+www.news18.com###nextbtnwrap
+www.news18.com##.ad300x250
+www.news18.com##.follow_google_news
+www.news18.com##.taboolaWrap
+www.news18.com###share
+www.news18.com##.mbnavftr
+
+! Oct 24, 2024 https://www.news18.com
+www.news18.com##[id^="taboola-mid-article-thumbnails-"]
+
 
