@@ -2071,4 +2071,19 @@ www.forbes.com##.newsLetterSubscriptionLink
 ! Oct 20, 2024 https://www.indiatvnews.com
 www.indiatvnews.com##.ad-placeholder
 
+! Oct 19, 2024 https://manga18.me
+manga18.me##.wleft.social-link
+
+! Oct 20, 2024 https://www.newindianexpress.com
+www.newindianexpress.com###widget-enplLeaderboard
+
+! Oct 20, 2024 https://m.economictimes.com
+m.economictimes.com##._1um82
+
+! Oct 22, 2024 https://www.news18.com
+www.news18.com##.topAddArticle
+
+! Oct 23, 2024 https://www.news18.com
+www.news18.com##.NAT_add
+
 
