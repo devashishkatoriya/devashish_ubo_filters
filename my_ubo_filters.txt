@@ -2102,4 +2102,11 @@ www.news18.com##.mbnavftr
 ! Oct 24, 2024 https://www.news18.com
 www.news18.com##[id^="taboola-mid-article-thumbnails-"]
 
+! Oct 24, 2024 https://www.news18.com
+www.news18.com##.desktopadh
+www.news18.com##.Had262x218
+www.news18.com##.desktopad
+www.news18.com##.mc-ad
+
+
 
