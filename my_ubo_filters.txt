@@ -2108,5 +2108,11 @@ www.news18.com##.Had262x218
 www.news18.com##.desktopad
 www.news18.com##.mc-ad
 
+! Oct 24, 2024 https://www.news18.com
+www.news18.com##.desktopflex.Had300x250
+www.news18.com##.dwnld
+www.news18.com##.flw
+www.news18.com##.dsk.navnotfc
+
 
 
