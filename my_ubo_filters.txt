@@ -2124,7 +2124,11 @@ xhamster.*##.OxswE-xNno-ts-init.OxswE-xN--bottom.OxswE-xN
 
 ! HiAnime popups
 hianime.*##+js(abort-current-script, document.documentElement, break;case $.)
+hianime.to##+js(abort-current-script, document.documentElement, break;case $.)
 hianime.*##+js(no-window-open-if)
+hianime.to##+js(no-window-open-if)
+hianime.*##[href="https://1flix.to/"]
+hianime.to##[href="https://1flix.to/"]
 
 ! Oct 27, 2024 https://links.kmhd.net
 ||dq.setiercourage.com^
