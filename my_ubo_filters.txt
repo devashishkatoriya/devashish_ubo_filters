@@ -2122,5 +2122,15 @@ xhamster.*##.OxswE-xNpremium-n-overlay
 xhamster.*##.OxswE-xNno-ts-init.OxswE-xN--middle.OxswE-xN
 xhamster.*##.OxswE-xNno-ts-init.OxswE-xN--bottom.OxswE-xN
 
+! HiAnime popups
+hianime.*##+js(abort-current-script, document.documentElement, break;case $.)
+hianime.*##+js(no-window-open-if)
+
+! Oct 27, 2024 https://links.kmhd.net
+||dq.setiercourage.com^
+
+! Oct 27, 2024 https://katmovie18.org
+||oj.emboxagriot.com^
+
 
 
