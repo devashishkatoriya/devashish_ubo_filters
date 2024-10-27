@@ -2136,5 +2136,19 @@ hianime.to##[href="https://1flix.to/"]
 ! Oct 27, 2024 https://katmovie18.org
 ||oj.emboxagriot.com^
 
+! Oct 27, 2024 https://www.ndtv.com
+www.ndtv.com##.adBg
+www.ndtv.com##.ttp.twitter.hdr-ani_lk
+www.ndtv.com##.ttp.facebook.hdr-ani_lk
+www.ndtv.com##.ttp.whatsapp.hdr-ani_lk
+www.ndtv.com##.StuRpt_wdg
+
+! Oct 27, 2024 https://aninews.in
+aninews.in##[href^="https://play.google.com/store/apps/details"]
+aninews.in##[href^="https://itunes.apple.com/in/app/ani-news/id1048943254"]
+
+! Oct 27, 2024 https://www.news18.com
+www.news18.com##.tabula
+
 
 
