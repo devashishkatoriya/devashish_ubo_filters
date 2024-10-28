@@ -2150,5 +2150,6 @@ aninews.in##[href^="https://itunes.apple.com/in/app/ani-news/id1048943254"]
 ! Oct 27, 2024 https://www.news18.com
 www.news18.com##.tabula
 
-
+https://hubcloud.club/drive/assets/header.gif
+https://hubcloud.club/drive/assets/footer.gif
 
