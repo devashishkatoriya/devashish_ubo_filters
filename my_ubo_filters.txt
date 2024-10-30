@@ -2153,3 +2153,12 @@ www.news18.com##.tabula
 https://hubcloud.club/drive/assets/header.gif
 https://hubcloud.club/drive/assets/footer.gif
 
+! Oct 29, 2024 https://www.vox.com
+www.vox.com##.duet--navigation--wiki-banner
+
+! Oct 30, 2024 https://economictimes.indiatimes.com
+economictimes.indiatimes.com###topAd
+economictimes.indiatimes.com##[href="https://www.whatsapp.com/channel/0029Va54SU83rZZYg2XcdM0K"]
+economictimes.indiatimes.com##.topAd
+economictimes.indiatimes.com##.whatsappFollow
+
