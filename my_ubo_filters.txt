@@ -2162,3 +2162,6 @@ economictimes.indiatimes.com##[href="https://www.whatsapp.com/channel/0029Va54SU
 economictimes.indiatimes.com##.topAd
 economictimes.indiatimes.com##.whatsappFollow
 
+! Oct 30, 2024 https://adblock-tester.com
+adblock-tester.com##.adsbygoogle
+
