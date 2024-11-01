@@ -2165,3 +2165,7 @@ economictimes.indiatimes.com##.whatsappFollow
 ! Oct 30, 2024 https://adblock-tester.com
 adblock-tester.com##.adsbygoogle
 
+! Nov 1, 2024 https://thefappening.link
+||thefappening.link/wp-content/uploads/images/CST-950x250-2-mod1.gif$image
+thefappening.link##[href="https://thefappening.link/zoom"]
+
