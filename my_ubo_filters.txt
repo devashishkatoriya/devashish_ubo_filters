@@ -2169,3 +2169,20 @@ adblock-tester.com##.adsbygoogle
 ||thefappening.link/wp-content/uploads/images/CST-950x250-2-mod1.gif$image
 thefappening.link##[href="https://thefappening.link/zoom"]
 
+! Nov 1, 2024 https://9gag.com
+9gag.com##.above-comment.salt-section
+9gag.com##.use-app
+
+! Nov 2, 2024 https://www.news18.com
+www.news18.com##.aso-part-m
+
+! Nov 2, 2024 https://www.ign.com
+www.ign.com##div.pushly-prompt-visible.m-bottom.d-top.non-managed.normal.pushly-prompt-window.pushly_popover
+www.ign.com##.join-button
+www.ign.com##.adunit-wrapper
+www.ign.com###zdcFloatingBtn
+
+! Nov 2, 2024 https://www.republicworld.com
+www.republicworld.com##.stickyAd
+www.republicworld.com##[href^="https://republicworld.page.link/"]
+
