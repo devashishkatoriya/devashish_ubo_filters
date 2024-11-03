@@ -2186,3 +2186,12 @@ www.ign.com###zdcFloatingBtn
 www.republicworld.com##.stickyAd
 www.republicworld.com##[href^="https://republicworld.page.link/"]
 
+! Nov 2, 2024 https://www.news18.com
+www.news18.com##.rghtpartners
+
+! Nov 3, 2024 https://telecomtalk.info
+telecomtalk.info##.subs-sec
+telecomtalk.info##.default-artl-ad
+telecomtalk.info##.social-icons
+telecomtalk.info##.right-part
+
