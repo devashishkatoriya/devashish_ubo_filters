@@ -2195,3 +2195,19 @@ telecomtalk.info##.default-artl-ad
 telecomtalk.info##.social-icons
 telecomtalk.info##.right-part
 
+! Oct 31, 2024 https://www.indiatvnews.com
+www.indiatvnews.com###iz-newshub-container
+www.indiatvnews.com##.adouter
+
+! Nov 2, 2024 https://www.hindustantimes.com
+www.hindustantimes.com##.bottomMenu
+
+! Nov 6, 2024 https://m.economictimes.com
+m.economictimes.com###float_app_ET
+m.economictimes.com##.custom_ad
+m.economictimes.com###subsSignBtn
+
+! Nov 6, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.minitv_cls
+timesofindia.indiatimes.com##.getapp.track
+
