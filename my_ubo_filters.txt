@@ -2211,3 +2211,10 @@ m.economictimes.com###subsSignBtn
 timesofindia.indiatimes.com##.minitv_cls
 timesofindia.indiatimes.com##.getapp.track
 
+! Nov 8, 2024 https://www.firstpost.com
+www.firstpost.com##.stkadbtm
+www.firstpost.com##.lt-share-icon
+www.firstpost.com##.ser-ic
+www.firstpost.com##.webstory-share-icon
+www.firstpost.com##.sponsor-banner
+
