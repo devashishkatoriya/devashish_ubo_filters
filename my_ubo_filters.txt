@@ -2218,3 +2218,16 @@ www.firstpost.com##.ser-ic
 www.firstpost.com##.webstory-share-icon
 www.firstpost.com##.sponsor-banner
 
+! Nov 8, 2024 https://lelo.offerboom.top
+lelo.offerboom.top##[id^="div-gpt-ad-"]
+lelo.offerboom.top###header
+lelo.offerboom.top###secondary
+lelo.offerboom.top###colophon
+
+! Nov 8, 2024 https://www.eporner.com
+www.eporner.com###admobilemiddle
+www.eporner.com###admobiletop
+
+! Nov 8, 2024 https://www.you-porn.com
+www.you-porn.com##.watchTopAd
+
