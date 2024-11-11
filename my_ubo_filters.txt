@@ -2234,3 +2234,14 @@ www.you-porn.com##.watchTopAd
 ! Nov 10, 2024 https://worldfree4u.promo
 ||myimg.click/images/2024/10/26/99club.jpg$image
 
+! Nov 10, 2024 https://www.ladbible.com
+www.ladbible.com##div.advert-placeholder_mobileAd__jTsos.advert-placeholder_advertPlaceholder____F2W
+www.ladbible.com##.advert-size_container__6Bsb_
+www.ladbible.com##.soft-notification-modal_modal__8KcpZ
+
+! Nov 11, 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[href^="https://timeslearn.indiatimes.com/value-and-valuation-workshop"]
+
+! removes top videos section on mobile version main page
+timesofindia.indiatimes.com##.T2ytB.OePOQ.CZcr4
+
