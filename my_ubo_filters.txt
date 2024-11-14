@@ -2251,3 +2251,15 @@ www.news18.com##.artshare
 ! Nov 11, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.lbAd
 
+! Nov 11, 2024 https://fitgirl-repacks.site
+||fitgirl-repacks.site/wp-content/uploads/2024/05/support2.jpg$image
+
+! Nov 14, 2024 https://www.news18.com
+www.news18.com###next_click
+www.news18.com###headerJoinWhatsAppChnl
+www.news18.com###prev_click
+www.news18.com##.flwcol
+www.news18.com##.nw18app
+www.news18.com##.jio_widgetAmp
+www.news18.com##.Had300x250
+
