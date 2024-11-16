@@ -2263,3 +2263,12 @@ www.news18.com##.nw18app
 www.news18.com##.jio_widgetAmp
 www.news18.com##.Had300x250
 
+! Nov 13, 2024 https://www.abplive.com
+www.abplive.com##.article-share
+www.abplive.com##.follow-detail
+www.abplive.com##.cube-cb-container
+www.abplive.com##.cb-container
+
+! Nov 16, 2024 https://www.metacritic.com
+www.metacritic.com##.c-adsGallerySlot
+
