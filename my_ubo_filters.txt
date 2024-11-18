@@ -2272,3 +2272,7 @@ www.abplive.com##.cb-container
 ! Nov 16, 2024 https://www.metacritic.com
 www.metacritic.com##.c-adsGallerySlot
 
+! Nov 17, 2024 https://toonworld4all.me
+toonworld4all.*##.mks_social_widget.widget
+toonworld4all.me##.mks_social_widget.widget
+
