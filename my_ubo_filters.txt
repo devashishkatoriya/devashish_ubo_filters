@@ -2276,3 +2276,8 @@ www.metacritic.com##.c-adsGallerySlot
 toonworld4all.*##.mks_social_widget.widget
 toonworld4all.me##.mks_social_widget.widget
 
+! Nov 18, 2024 https://www.eurogamer.net
+www.eurogamer.net##.advert_container
+www.eurogamer.net##.small.supporter.inline_icon.button
+www.eurogamer.net##.autoad
+
