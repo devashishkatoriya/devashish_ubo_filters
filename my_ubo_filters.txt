@@ -2315,3 +2315,8 @@ www.republicworld.com##.desktop\:inset-0.z-\[999999999\].justify-center.items-st
 ! Nov 23, 2024 https://www.amazon.in
 www.amazon.in###nav-app-banner-container
 
+! Nov 23, 2024 https://www.gamesradar.com
+www.gamesradar.com##.ad-unit
+www.gamesradar.com##.dfp-leaderboard-container
+www.gamesradar.com##.ad-unit.in-article
+
