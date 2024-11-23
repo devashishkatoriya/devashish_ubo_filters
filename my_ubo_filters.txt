@@ -2281,3 +2281,37 @@ www.eurogamer.net##.advert_container
 www.eurogamer.net##.small.supporter.inline_icon.button
 www.eurogamer.net##.autoad
 
+! Nov 16, 2024 https://www.skynews.com.au
+www.skynews.com.au###fixed-ad
+www.skynews.com.au###share-tools
+
+! Nov 16, 2024 https://timesofindia.indiatimes.com hides open in app on mobile site
+timesofindia.indiatimes.com##.mEKBG
+
+! Nov 18, 2024 https://www.vox.com
+www.vox.com##.m-ad__mobile_leaderboard.duet--mobile-athena-styles.duet--ad-container--default.m-ad__dynamic_ad_unit.m-ad
+www.vox.com##.m-ad__mobile_article_body.duet--mobile-athena-styles.duet--ad-container--default.m-ad__dynamic_ad_unit.m-ad
+www.vox.com##.m-ad
+
+! Nov 21, 2024 https://www.jansatta.com
+www.jansatta.com##.ad-code-300
+www.jansatta.com###amp-app-download-select
+www.jansatta.com##.ad-bg-container
+www.jansatta.com##.app-btn__link
+
+! Nov 23, 2024 https://www.livemint.com
+www.livemint.com##.mobileAd
+www.livemint.com###openInApp
+www.livemint.com##.subscription.mr12.headerBtn.btnPrimary
+www.livemint.com##[src="https://www.livemint.com/lm-img/cdp/Storefront_Images/1731404435974.png"]
+www.livemint.com###seoText
+
+! Nov 23, 2024 https://www.ndtv.com
+www.ndtv.com###__cube
+
+! Nov 23, 2024 https://www.republicworld.com
+www.republicworld.com##.desktop\:inset-0.z-\[999999999\].justify-center.items-start.flex.bg-opacity-50.bg-gray-600.p-0.m-0.bottom-0.h-full.w-full.fixed
+
+! Nov 23, 2024 https://www.amazon.in
+www.amazon.in###nav-app-banner-container
+
