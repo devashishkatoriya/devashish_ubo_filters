@@ -2348,3 +2348,6 @@ www.npr.org##.donation-links__button
 ! 18 Dec 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.YVRSI.qYod4
 
+! Dec 18, 2024 https://tech.unblockedgames.world
+tech.unblockedgames.world##._ap_apex_ad
+
