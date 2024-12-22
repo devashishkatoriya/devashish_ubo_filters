@@ -2352,3 +2352,4 @@ timesofindia.indiatimes.com##.YVRSI.qYod4
 tech.unblockedgames.world##._ap_apex_ad
 
 epaper.indiatimes.com##.timer_container
+timesofindia.indiatimes.com##.Tw3J0
