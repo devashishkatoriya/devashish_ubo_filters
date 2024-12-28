@@ -978,7 +978,7 @@ manhwa18.cc##.wleft.manga-footer
 
 ! 2024-03-04 https://www.news18.com
 www.news18.com###credential_picker_iframe
-www.news18.com##.vdcomp_wrap
+!www.news18.com##.vdcomp_wrap
 
 ! 2024-03-04 https://toonily.com
 toonily.com##.site-footer
@@ -1086,7 +1086,7 @@ manhwa18.cc##.wleft.manga-footer
 
 ! 2024-03-04 https://www.news18.com
 www.news18.com###credential_picker_iframe
-www.news18.com##.vdcomp_wrap
+!www.news18.com##.vdcomp_wrap
 
 ! 2024-03-04 https://toonily.com
 toonily.com###disqus_thread
@@ -2111,8 +2111,8 @@ www.news18.com##.mc-ad
 ! Oct 24, 2024 https://www.news18.com
 www.news18.com##.desktopflex.Had300x250
 www.news18.com##.dwnld
-www.news18.com##.flw
-www.news18.com##.dsk.navnotfc
+!www.news18.com##.flw
+!www.news18.com##.dsk.navnotfc
 
 ! Oct 26, 2024 https://xhamster.desi
 xhamster.*##.b09b92da
@@ -2258,7 +2258,7 @@ timesofindia.indiatimes.com##.lbAd
 www.news18.com###next_click
 www.news18.com###headerJoinWhatsAppChnl
 www.news18.com###prev_click
-www.news18.com##.flwcol
+!www.news18.com##.flwcol
 www.news18.com##.nw18app
 www.news18.com##.jio_widgetAmp
 www.news18.com##.Had300x250
