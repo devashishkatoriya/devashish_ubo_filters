@@ -2097,7 +2097,7 @@ www.news18.com##.ad300x250
 www.news18.com##.follow_google_news
 www.news18.com##.taboolaWrap
 www.news18.com###share
-www.news18.com##.mbnavftr
+!www.news18.com##.mbnavftr
 
 ! Oct 24, 2024 https://www.news18.com
 www.news18.com##[id^="taboola-mid-article-thumbnails-"]
