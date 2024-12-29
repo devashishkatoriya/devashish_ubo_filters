@@ -2385,3 +2385,18 @@ www.wionews.com##.gh-mobile-bottom
 ||fonts.gstatic.com/s/lora/$font,domain=wionews.com
 ||fonts.gstatic.com/s/playfairdisplay/$font,domain=wionews.com
 
+! Block the serif font on https://www.ndtv.com
+||fonts.gstatic.com/s/montserrat/$font,domain=ndtv.com
+||fonts.gstatic.com/s/inter/$font,domain=ndtv.com
+||use.typekit.net/af/257cb5/00000000000000007736b591/30/l$font,domain=ndtv.com
+||use.typekit.net/af/fffcc2/00000000000000007736b58e/30/l$font,domain=ndtv.com
+||use.typekit.net/af/257cb5/00000000000000007736b591/30/d$font,domain=ndtv.com
+||use.typekit.net/af/fffcc2/00000000000000007736b58e/30/d$font,domain=ndtv.com
+||use.typekit.net/af/257cb5/00000000000000007736b591/30/a$font,domain=ndtv.com
+||use.typekit.net/af/fffcc2/00000000000000007736b58e/30/a$font,domain=ndtv.com
+
+! Dec 29, 2024 https://www.ndtv.com
+www.ndtv.com##.SSR_rgt.SSR_drp
+
+
+
