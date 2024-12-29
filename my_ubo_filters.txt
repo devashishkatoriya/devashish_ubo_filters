@@ -2358,3 +2358,17 @@ timesofindia.indiatimes.com##.Tw3J0
 ||krqyiqjl.pro^
 ||pbnv9n2q.pro^
 
+! 29-Dec-2024 https://www.news18.com
+||images.news18.com/n18-elections/2024/12/wedding_season_105x55_Desktop.svg$image
+
+! 29-Dec-2024 https://www.wionews.com
+www.wionews.com##.sticky_add.ads-div-style
+www.wionews.com##div.ads-div-style
+www.wionews.com##.is-active.gh-scroll-top-btn
+www.wionews.com##.gh-post-page__share
+www.wionews.com##.show-app-link-section
+www.wionews.com##.social-logo-section
+
+! 29-Dec-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.GQW9n
+
