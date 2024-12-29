@@ -2372,3 +2372,16 @@ www.wionews.com##.social-logo-section
 ! 29-Dec-2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.GQW9n
 
+! Dec 29, 2024 https://www.wionews.com
+www.wionews.com##.nav_ad_height
+www.wionews.com##ads-div-style
+www.wionews.com##.newsletter-section
+www.wionews.com##.gh-subscribe-button
+www.wionews.com##[id^="div-gpt-ad-"]
+www.wionews.com##.advt-slot
+www.wionews.com##.gh-mobile-bottom
+
+! Block the new serif font on www.wionews.com
+||fonts.gstatic.com/s/lora/$font,domain=wionews.com
+||fonts.gstatic.com/s/playfairdisplay/$font,domain=wionews.com
+
