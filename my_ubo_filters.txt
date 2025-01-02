@@ -2406,5 +2406,18 @@ ndtv.in###tbl-next-up
 ! Dec 29, 2024 https://www.ndtv.com
 www.ndtv.com###taboola-below-home-thumbnails-new
 
+! Jan 2, 2025 https://www.gadgets360.com
+www.gadgets360.com##.gsocialbar
+www.gadgets360.com##.story_social_share
+www.gadgets360.com##.bounceInRight.animated.web_dialogproduct.web_dialognotify.web_dialog
+www.gadgets360.com##.stickysocial
+www.gadgets360.com##._nvshrw
+www.gadgets360.com##.subscribe
+www.gadgets360.com##._ftdapp
+www.gadgets360.com###adslot300x250ATF
+www.gadgets360.com##.adhead
+www.gadgets360.com##._flscl
+www.gadgets360.com##._ftcpytxt
+
 
 
