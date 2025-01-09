@@ -2419,5 +2419,9 @@ www.gadgets360.com##.adhead
 www.gadgets360.com##._flscl
 www.gadgets360.com##._ftcpytxt
 
+! Jan 9, 2025 https://www.gamereactor.eu
+www.gamereactor.eu##.ad_top
+www.gamereactor.eu##.socialIcons
+
 
 
