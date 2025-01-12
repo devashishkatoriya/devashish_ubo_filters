@@ -2245,8 +2245,8 @@ timesofindia.indiatimes.com##[href^="https://timeslearn.indiatimes.com/value-and
 ! removes top videos section on mobile version main page
 timesofindia.indiatimes.com##.T2ytB.OePOQ.CZcr4
 
-! Nov 10, 2024 https://www.news18.com
-www.news18.com##.artshare
+! Nov 10, 2024 https://www.news18.com - Breaks header when scrolling on mobile
+!www.news18.com##.artshare
 
 ! Nov 11, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.lbAd
