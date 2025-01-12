@@ -2423,5 +2423,20 @@ www.gadgets360.com##._ftcpytxt
 www.gamereactor.eu##.ad_top
 www.gamereactor.eu##.socialIcons
 
+! Jan 12, 2025 https://www.news18.com
+www.news18.com##.dsk.navnotfc
+||images.news18.com/static_news18/pix/ibnhome/news18/fonts/$font,domain=www.news18.com
+||images.news18.com/dlxczavtqcctuei/news18/static/fonts/$font,domain=www.news18.com
+
+! Jan 12, 2025 https://hindi.news18.com
+hindi.news18.com##.top_728_ad
+hindi.news18.com##.ATF_300_id
+hindi.news18.com##.MTF_728
+hindi.news18.com###dskmorenoti
+hindi.news18.com##.BTF1_300_BTF_300
+hindi.news18.com##.ads_Had300x250__ueazP
+hindi.news18.com##.inTrends_flw__N_eNO
+hindi.news18.com##.header_download_app
+
 
 
