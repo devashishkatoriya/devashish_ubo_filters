@@ -2438,5 +2438,16 @@ hindi.news18.com##.ads_Had300x250__ueazP
 hindi.news18.com##.inTrends_flw__N_eNO
 hindi.news18.com##.header_download_app
 
+! Jan 14, 2025 https://www.news18.com - Removes related stories block within articles
+www.news18.com##.rltdst
+
+! Jan 22, 2025 https://technews.unblockedgames.world
+technews.unblockedgames.world###div-gpt-ad-1700470285490-0
+technews.unblockedgames.world###div-gpt-ad-1700470500574-0
+technews.unblockedgames.world##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
+
+! Dec 29, 2024 https://www.indynxt.com
+www.indynxt.com##.social-header
+
 
 
