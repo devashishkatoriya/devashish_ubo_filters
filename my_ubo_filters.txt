@@ -2449,5 +2449,8 @@ technews.unblockedgames.world##+js(nano-sib, /count|verify|isCompleted/, , 0.001
 ! Dec 29, 2024 https://www.indynxt.com
 www.indynxt.com##.social-header
 
+! Jan 27, 2025 https://www.detectadblock.com
+@@||www.adblockanalytics.com/google-adsense.js$script,domain=detectadblock.com
+
 
 
