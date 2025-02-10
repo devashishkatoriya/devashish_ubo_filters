@@ -2452,5 +2452,15 @@ www.indynxt.com##.social-header
 ! Jan 27, 2025 https://www.detectadblock.com
 @@||www.adblockanalytics.com/google-adsense.js$script,domain=detectadblock.com
 
+! Jan 31, 2025 https://www.rockpapershotgun.com
+www.rockpapershotgun.com##.advert_container
+
+! Feb 2, 2025 https://www.ndtv.com
+www.ndtv.com##.highkey-share
+www.ndtv.com##.impct-share
+
+! Feb 8, 2025 https://www.republicworld.com
+www.republicworld.com##.Storyshare
+
 
 
