@@ -2462,5 +2462,8 @@ www.ndtv.com##.impct-share
 ! Feb 8, 2025 https://www.republicworld.com
 www.republicworld.com##.Storyshare
 
+! Feb 13, 2025 https://in.ign.com - Unbreak IGN videos
+@@||imasdk.googleapis.com^$domain=ign.com
+
 
 
