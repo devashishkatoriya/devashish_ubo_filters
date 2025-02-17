@@ -2465,5 +2465,61 @@ www.republicworld.com##.Storyshare
 ! Feb 13, 2025 https://in.ign.com - Unbreak IGN videos
 @@||imasdk.googleapis.com^$domain=ign.com
 
+! Jan 26, 2025 https://www.hindustantimes.com
+www.hindustantimes.com###ECH_HT_MWEB_ALL_SIDE_BUT_ATF
+
+! Jan 27, 2025 https://www.news18.com
+www.news18.com###iz-optin-main-container
+
+! Jan 28, 2025 https://sports.ndtv.com
+sports.ndtv.com###tbl-explore-more-container
+
+! Jan 28, 2025 https://astrologylover.com
+astrologylover.com###mtsnb-8127
+astrologylover.com###ht-ctc-chat
+
+! Jan 28, 2025 https://www.rockpapershotgun.com
+www.rockpapershotgun.com##.inlinead_lazyloaded
+www.rockpapershotgun.com##.advert_label
+
+! Jan 30, 2025 https://www.rockpapershotgun.com
+www.rockpapershotgun.com##.mobile_halfpage.mpu.advert
+www.rockpapershotgun.com##.poll_ad_container.advert_container
+
+! Feb 4, 2025 https://www.rockpapershotgun.com
+www.rockpapershotgun.com###zdcFloatingBtn
+
+! Feb 5, 2025 https://blackmythwukong.fandom.com
+blackmythwukong.fandom.com##.is-loading.top-boxad.ad-slot-placeholder
+blackmythwukong.fandom.com##.is-loading.bottom-leaderboard.ad-slot-placeholder
+
+! Feb 9, 2025 https://www.spideyposts.com
+www.spideyposts.com##.code-block
+
+! Feb 10, 2025 https://www.ndtv.com
+www.ndtv.com##.ui-draggable-handle.ui-draggable.bb-container
+
+! Feb 10, 2025 https://thefulcrum.us
+thefulcrum.us##.share-panel.widget__shares
+thefulcrum.us###sign_me_up
+thefulcrum.us##.placeholder-a-block
+
+! Feb 16, 2025 https://xhamster.desi
+xhamster.desi##[src="https://veih8bee.xhcdn.com/ree8aiPh/Eeke2oxi/shark_dominno_virtualtaboo_mobh_1.gif"]
+xhamster.desi##.Gi-Gdno-ts-init.Gi-Gd--top.Gi-Gd
+
+! Feb 16, 2025 https://xhamster.com
+||vrmedia-nss.xhcdn.com/xh-vrmedia/message/1483/65ccbda269f68.jpg$image
+xhamster.com##.Gi-Gdno-ts-init.Gi-Gd--top.Gi-Gd
+xhamster.com##.cookiesAnnounce-30a9a.mobile-30a9a
+xhamster.com##.Gi-Gdpremium-n-overlay
+
+! Feb 16, 2025 https://xhamster.desi
+xhamster.desi##._73899c4b
+
+! Feb 17, 2025 https://xhamster.desi
+xhamster.desi##.exp_b.eMTD-nzno-ts-init.eMTD-nz--top.eMTD-nz
+xhamster.desi##.eMTD-nzpremium-n-overlay
+
 
 
