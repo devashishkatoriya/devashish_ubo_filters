@@ -2521,5 +2521,7 @@ xhamster.desi##._73899c4b
 xhamster.desi##.exp_b.eMTD-nzno-ts-init.eMTD-nz--top.eMTD-nz
 xhamster.desi##.eMTD-nzpremium-n-overlay
 
-
+! Feb 20, 2025 https://tech.itijobshub.in
+tech.itijobshub.in##[id^="div-gpt-ad-"]
+tech.itijobshub.in##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
 
