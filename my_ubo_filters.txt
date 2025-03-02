@@ -2525,3 +2525,35 @@ xhamster.desi##.eMTD-nzpremium-n-overlay
 tech.itijobshub.in##[id^="div-gpt-ad-"]
 tech.itijobshub.in##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
 
+! Feb 21, 2025 https://www.space.com
+www.space.com##.widget-content-parsed-curated.widget-content-parsed.widget-contentparsed-tag-page-content.widget-tag-page-content.widget-contentparsed.widget.clear-both
+www.space.com###ads-lightbox2
+www.space.com##.nav-subscribe
+www.space.com##[id^="ads-lightbox"]
+www.space.com##.less-space.box.socialite-widget
+www.space.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-ynePj9qGqu36sZvKq2jbpF.newsletter-inbodyContent-slice.slice-container
+www.space.com##.slice-container-newsletterForm
+
+! Feb 22, 2025 https://spankbang.com
+spankbang.com##.video-inline-ads
+
+! Feb 23, 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[href^="https://timesofindia.onelink.me/mjFd"]
+
+! Feb 26, 2025 https://www.filmibeat.com
+www.filmibeat.com##.pssocialbtn.photos-main-socialbtn
+
+! Feb 27, 2025 https://www.flickr.com
+www.flickr.com##.upgrade-to-pro-cta
+
+! Mar 2, 2025 https://www.livemint.com
+www.livemint.com###ECH_LM_MWEB_ALL_SIDE_BUT_ATF
+www.livemint.com##.inlineAds
+www.livemint.com##.inlineTaboolaHeight
+
+! Mar 2, 2025 https://epaper.livemint.com
+epaper.livemint.com##.fadeInUp.subscription-modal-hds
+
+! Mar 2, 2025 https://www.news18.com
+www.news18.com##.mbnavftr
+
