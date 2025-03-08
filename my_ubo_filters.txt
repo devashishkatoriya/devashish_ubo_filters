@@ -2557,3 +2557,15 @@ epaper.livemint.com##.fadeInUp.subscription-modal-hds
 ! Mar 2, 2025 https://www.news18.com
 www.news18.com##.mbnavftr
 
+! Mar 1, 2025 https://www.themarysue.com
+www.themarysue.com##[src="https://embeds.beehiiv.com/3a2eba65-d8cf-4c3c-8f8c-dfa38ed55fea"]
+www.themarysue.com##.wp-block-gamurs-ad
+
+! Mar 1, 2025 https://www.pinkvilla.com
+www.pinkvilla.com##.ad-box-head.topads.adsv2
+www.pinkvilla.com##.sideads.adsv2
+www.pinkvilla.com##.in-article-ads
+www.pinkvilla.com##.below-author-ad.article-content.articleads.adv2
+www.pinkvilla.com##.new--lttr--sec
+www.pinkvilla.com##.pvkfooter--24
+
