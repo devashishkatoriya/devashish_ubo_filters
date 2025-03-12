@@ -2381,20 +2381,6 @@ www.wionews.com##[id^="div-gpt-ad-"]
 www.wionews.com##.advt-slot
 www.wionews.com##.gh-mobile-bottom
 
-! Block the new serif font on www.wionews.com
-||fonts.gstatic.com/s/lora/$font,domain=wionews.com
-||fonts.gstatic.com/s/playfairdisplay/$font,domain=wionews.com
-
-! Block the serif font on https://www.ndtv.com
-||fonts.gstatic.com/s/montserrat/$font,domain=ndtv.com
-||fonts.gstatic.com/s/inter/$font,domain=ndtv.com
-||use.typekit.net/af/257cb5/00000000000000007736b591/30/l$font,domain=ndtv.com
-||use.typekit.net/af/fffcc2/00000000000000007736b58e/30/l$font,domain=ndtv.com
-||use.typekit.net/af/257cb5/00000000000000007736b591/30/d$font,domain=ndtv.com
-||use.typekit.net/af/fffcc2/00000000000000007736b58e/30/d$font,domain=ndtv.com
-||use.typekit.net/af/257cb5/00000000000000007736b591/30/a$font,domain=ndtv.com
-||use.typekit.net/af/fffcc2/00000000000000007736b58e/30/a$font,domain=ndtv.com
-
 ! Dec 29, 2024 https://www.ndtv.com
 www.ndtv.com##.SSR_rgt.SSR_drp
 
@@ -2425,8 +2411,6 @@ www.gamereactor.eu##.socialIcons
 
 ! Jan 12, 2025 https://www.news18.com
 www.news18.com##.dsk.navnotfc
-||images.news18.com/static_news18/pix/ibnhome/news18/fonts/$font,domain=www.news18.com
-||images.news18.com/dlxczavtqcctuei/news18/static/fonts/$font,domain=www.news18.com
 
 ! Jan 12, 2025 https://hindi.news18.com
 hindi.news18.com##.top_728_ad
