@@ -2570,6 +2570,24 @@ www.pinkvilla.com##.new--lttr--sec
 www.pinkvilla.com##.pvkfooter--24
 
 ! Mar 9, 2025 https://crichdplayer.com
-crichdplayer.com###b313520020000387561883703
-||st.chatango.com/h5/gz/r0304250620/it.html$subdocument
+crichdplayer.*###b313520020000387561883703
+
+! Feb 27, 2025 https://anyrojgar.com
+anyrojgar.com###site-navigation
+anyrojgar.com###right-sidebar
+anyrojgar.com##.site-footer
+
+! Mar 5, 2025 https://teknoasian.com
+teknoasian.com###sidebar
+teknoasian.com###header
+
+! Mar 5, 2025 https://tpi.li
+tpi.li##.td-header-menu-wrap
+
+! Mar 9, 2025 https://crichdplayer.com
+||st.chatango.com^$domain=crichdplayer.com
+
+! Mar 10, 2025 https://crichd-player.top
+crichd-player.*##.social-share
+crichd-player.*##.footer
 
