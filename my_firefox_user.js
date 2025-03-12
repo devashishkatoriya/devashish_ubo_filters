@@ -17,23 +17,14 @@
 /****************************************************************************
  * SECTION: FASTFOX                                                         *
 ****************************************************************************/
-user_pref("nglayout.initialpaint.delay", 10);
-user_pref("nglayout.initialpaint.delay_in_oopif", 10);
-user_pref("content.notify.interval", 200000);           // default 120000
-
-/** EXPERIMENTAL ***/
-user_pref("layout.css.grid-template-masonry-value.enabled", true);
-user_pref("dom.enable_web_task_scheduling", true);
-user_pref("layout.css.has-selector.enabled", true);
-user_pref("dom.security.sanitizer.enabled", true);
+/** GENERAL ***/
+user_pref("content.notify.interval", 100000);
 
 /** GFX ***/
-//user_pref("gfx.canvas.accelerated", true); // enable if using a dedicated GPU on WINDOWS
-user_pref("gfx.canvas.accelerated.cache-items", 4096);
 user_pref("gfx.canvas.accelerated.cache-size", 512);
 user_pref("gfx.content.skia-font-cache-size", 20);
 
-/** BROWSER CACHE ***/
+/** DISK CACHE ***/
 user_pref("browser.cache.disk.enable", false);
 
 /** MEDIA CACHE ***/
@@ -45,26 +36,134 @@ user_pref("media.cache_resume_threshold", 3600);
 user_pref("image.mem.decode_bytes_at_a_time", 32768);
 
 /** NETWORK ***/
-user_pref("network.buffer.cache.size", 262144);
-user_pref("network.buffer.cache.count", 128);
 user_pref("network.http.max-connections", 1800);
 user_pref("network.http.max-persistent-connections-per-server", 10);
 user_pref("network.http.max-urgent-start-excessive-connections-per-host", 5);
 user_pref("network.http.pacing.requests.enabled", false);
-user_pref("network.dnsCacheEntries", 1000);
-user_pref("network.dnsCacheExpiration", 86400);
-user_pref("network.dns.max_high_priority_threads", 8);
+user_pref("network.dnsCacheExpiration", 3600);
 user_pref("network.ssl_tokens_cache_capacity", 10240);
 
-/** SPECULATIVE CONNECTIONS ***/
-user_pref("network.http.speculative-parallel-limit", 0);
+/** SPECULATIVE LOADING ***/
 user_pref("network.dns.disablePrefetch", true);
-user_pref("browser.urlbar.speculativeConnect.enabled", false);
-user_pref("browser.places.speculativeConnect.enabled", false);
+user_pref("network.dns.disablePrefetchFromHTTPS", true);
 user_pref("network.prefetch-next", false);
 user_pref("network.predictor.enabled", false);
 user_pref("network.predictor.enable-prefetch", false);
 
+/** EXPERIMENTAL ***/
+user_pref("layout.css.grid-template-masonry-value.enabled", true);
+
+/****************************************************************************
+ * SECTION: SECUREFOX                                                       *
+****************************************************************************/
+/** SAFE BROWSING ***/
+user_pref("browser.safebrowsing.downloads.remote.enabled", false);
+
+/** TELEMETRY ***/
+user_pref("datareporting.policy.dataSubmissionEnabled", false);
+user_pref("datareporting.healthreport.uploadEnabled", false);
+user_pref("toolkit.telemetry.unified", false);
+user_pref("toolkit.telemetry.enabled", false);
+user_pref("toolkit.telemetry.server", "data:,");
+user_pref("toolkit.telemetry.archive.enabled", false);
+user_pref("toolkit.telemetry.newProfilePing.enabled", false);
+user_pref("toolkit.telemetry.shutdownPingSender.enabled", false);
+user_pref("toolkit.telemetry.updatePing.enabled", false);
+user_pref("toolkit.telemetry.bhrPing.enabled", false);
+user_pref("toolkit.telemetry.firstShutdownPing.enabled", false);
+user_pref("toolkit.telemetry.coverage.opt-out", true);
+user_pref("toolkit.coverage.opt-out", true);
+user_pref("toolkit.coverage.endpoint.base", "");
+user_pref("browser.newtabpage.activity-stream.feeds.telemetry", false);
+user_pref("browser.newtabpage.activity-stream.telemetry", false);
+
+/** EXPERIMENTS ***/
+user_pref("app.shield.optoutstudies.enabled", false);
+user_pref("app.normandy.enabled", false);
+user_pref("app.normandy.api_url", "");
+
+/** CRASH REPORTS ***/
+user_pref("breakpad.reportURL", "");
+user_pref("browser.tabs.crashReporting.sendReport", false);
+
+/****************************************************************************
+ * SECTION: PESKYFOX                                                        *
+****************************************************************************/
+/** MOZILLA UI ***/
+user_pref("browser.privatebrowsing.vpnpromourl", "");
+user_pref("extensions.getAddons.showPane", false);
+user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
+user_pref("browser.discovery.enabled", false);
+user_pref("browser.shell.checkDefaultBrowser", false);
+user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons", false);
+user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features", false);
+user_pref("browser.preferences.moreFromMozilla", false);
+user_pref("browser.aboutConfig.showWarning", false);
+user_pref("browser.aboutwelcome.enabled", false);
+user_pref("browser.profiles.enabled", true);
+
+/** THEME ADJUSTMENTS ***/
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+user_pref("browser.compactmode.show", true);
+user_pref("browser.privateWindowSeparation.enabled", false); // WINDOWS
+
+/** COOKIE BANNER HANDLING ***/
+user_pref("cookiebanners.service.mode", 1);
+user_pref("cookiebanners.service.mode.privateBrowsing", 1);
+
+/** FULLSCREEN NOTICE ***/
+user_pref("full-screen-api.transition-duration.enter", "0 0");
+user_pref("full-screen-api.transition-duration.leave", "0 0");
+user_pref("full-screen-api.warning.timeout", 0);
+
+/** URL BAR ***/
+user_pref("browser.urlbar.suggest.calculator", true);
+user_pref("browser.urlbar.unitConversion.enabled", true);
+user_pref("browser.urlbar.trending.featureGate", false);
+
+/** NEW TAB PAGE ***/
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+user_pref("browser.newtabpage.activity-stream.showWeather", false);
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
+
+/** POCKET ***/
+user_pref("extensions.pocket.enabled", false);
+
+/** DOWNLOADS ***/
+user_pref("browser.download.manager.addToRecentDocs", false);
+
+/** PDF ***/
+user_pref("browser.download.open_pdf_attachments_inline", true);
+
+/** TAB BEHAVIOR ***/
+user_pref("browser.bookmarks.openInTabClosesMenu", false);
+user_pref("browser.menu.showViewImageInfo", true);
+user_pref("findbar.highlightAll", true);
+user_pref("layout.word_select.eat_space_to_next_word", false);
+
+/****************************************************************************
+ * SECTION: SMOOTHFOX                                                       *
+****************************************************************************/
+// visit https://github.com/yokoffing/Betterfox/blob/main/Smoothfox.js
+// recommended for 120hz+ displays
+// largely matches Chrome flags: Windows Scrolling Personality and Smooth Scrolling
+user_pref("apz.overscroll.enabled", true); // DEFAULT NON-LINUX
+user_pref("general.smoothScroll", true); // DEFAULT
+user_pref("general.smoothScroll.msdPhysics.continuousMotionMaxDeltaMS", 12);
+user_pref("general.smoothScroll.msdPhysics.enabled", true);
+user_pref("general.smoothScroll.msdPhysics.motionBeginSpringConstant", 600);
+user_pref("general.smoothScroll.msdPhysics.regularSpringConstant", 650);
+user_pref("general.smoothScroll.msdPhysics.slowdownMinDeltaMS", 25);
+user_pref("general.smoothScroll.msdPhysics.slowdownMinDeltaRatio", "2");
+user_pref("general.smoothScroll.msdPhysics.slowdownSpringConstant", 250);
+user_pref("general.smoothScroll.currentVelocityWeighting", "1");
+user_pref("general.smoothScroll.stopDecelerationWeighting", "1");
+user_pref("mousewheel.default.delta_multiplier_y", 300); // 250-400; adjust this number to your liking
+
+/****************************************************************************
+ * START: MY OVERRIDES                                                      *
+****************************************************************************/
+// Disable Firefox Telemetry
 user_pref("app.normandy.enabled", false);
 user_pref("app.normandy.optoutstudies.enabled", false);
 user_pref("messaging-system.rsexperimentloader.enabled", false);
@@ -74,35 +173,47 @@ user_pref("browser.search.geoip.url", "");
 user_pref("browser.newtabpage.activity-stream.feeds.asrouterfeed", false);
 user_pref("browser.safebrowsing.downloads.remote.enabled", false);
 user_pref("extensions.blocklist.enabled", false);
+
+// PREF: revert back to Standard ETP
+user_pref("browser.contentblocking.category", "standard");
+
+// PREF: improve font rendering by using DirectWrite everywhere like Chrome [WINDOWS]
+//user_pref("gfx.font_rendering.cleartype_params.rendering_mode", 5);
+//user_pref("gfx.font_rendering.cleartype_params.cleartype_level", 100);
+//user_pref("gfx.font_rendering.directwrite.use_gdi_table_loading", false);
+//user_pref("gfx.font_rendering.cleartype_params.enhanced_contrast", 50); // 50-100 [OPTIONAL]
+
+// PREF: clear Top Sites on New Tab page
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+
+// PREF: remove default Top Sites (Facebook, Twitter, etc.)
+// This does not block you from adding your own.
+user_pref("browser.newtabpage.activity-stream.default.sites", "");
+
+// PREF: remove sponsored content on New Tab page
+user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false); // Sponsored shortcuts 
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false); // Recommended by Pocket
+user_pref("browser.newtabpage.activity-stream.showSponsored", false); // Sponsored Stories
+
+// PREF: hide weather on New Tab page
+user_pref("browser.newtabpage.activity-stream.showWeather", false);
+
 user_pref("network.dnsCacheEntries", 1000);
-user_pref("network.dnsCacheExpiration", 300);
-user_pref("network.trr.disable-ECS", true);
+user_pref("network.dnsCacheExpiration", 600);
+
+// Change SecureDNS to Google Public DNS
+user_pref("network.trr.disable-ECS", false);
 user_pref("network.trr.bootstrapAddress", "8.8.8.8");
 user_pref("network.trr.custom_uri", "https://dns.google/dns-query");
 user_pref("network.trr.default_provider_uri", "https://dns.google/dns-query");
 user_pref("network.trr.uri", "https://dns.google/dns-query");
 user_pref("network.trr.mode", 2);
-//user_pref("esni.enabled", true);
-//user_pref("network.dns.get-ttl", false);
-user_pref("browser.tabs.closeWindowWithLastTab", false);            // Keep one tab always open, dont close the window on last tab close
-user_pref("browser.urlbar.update2.engineAliasRefresh", true);      // Enables button to Add custom search engine
 
+// Keep one tab always open, do not close the window on last tab close
+user_pref("browser.tabs.closeWindowWithLastTab", false);
 
-/****************************************************************************
- * SECTION: SMOOTHFOX                                                       *
-****************************************************************************/
-// visit https://github.com/yokoffing/Betterfox/blob/main/Smoothfox.js
-// Enter your scrolling prefs below this line:
-// recommended for 60hz+ displays
-user_pref("apz.overscroll.enabled", true); // not DEFAULT on Linux
-user_pref("general.smoothScroll", false); // DEFAULT = true
-user_pref("mousewheel.default.delta_multiplier_y", 275); // 250-400; adjust this number to your liking
-
-
-/****************************************************************************
- * START: MY OVERRIDES                                                      *
-****************************************************************************/
-// Enter your personal prefs below this line:
+// Enables button to Add custom search engine
+//user_pref("browser.urlbar.update2.engineAliasRefresh", true);      
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
