@@ -2585,3 +2585,10 @@ www.mcgill.ca###block-bean-call-to-action-donate-to-the-m
 www.mcgill.ca##.service-links
 www.mcgill.ca###js-top-page-link
 
+! Mar 16, 2025 https://www.wionews.com
+www.wionews.com##div.dynamic-container.publive-dynamic-container
+www.wionews.com##.sticky_add.publive-dynamic-container
+
+! Mar 16, 2025 https://www.news18.com
+www.news18.com##.FLY_300.ad_container
+
