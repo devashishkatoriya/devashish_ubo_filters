@@ -2579,3 +2579,9 @@ crichd-player.*##.footer
 www.firstpost.com##.tbl-cell-wp
 www.firstpost.com##.shr
 
+! Mar 13, 2025 https://www.mcgill.ca
+www.mcgill.ca###block-bean-weekly-newsletter
+www.mcgill.ca###block-bean-call-to-action-donate-to-the-m
+www.mcgill.ca##.service-links
+www.mcgill.ca###js-top-page-link
+
