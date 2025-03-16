@@ -2595,3 +2595,9 @@ www.news18.com##.FLY_300.ad_container
 ! Mar 16, 2025 https://www.news18.com
 www.news18.com##[id^="Mobile_Liveblog_Ad_Mid1_300x2"]
 
+! Mar 15, 2025 https://www.1xanimes.in
+www.1xanimes.in###ckWrap
+
+! Mar 16, 2025 https://economictimes.indiatimes.com
+economictimes.indiatimes.com##.hide.full.stickyBand
+
