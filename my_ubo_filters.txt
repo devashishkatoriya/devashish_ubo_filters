@@ -398,7 +398,6 @@ www.vox.com##.c-article-footer-cta.c-article-footer
 
 ! 2023-10-26 https://www.irctc.co.in
 www.irctc.co.in##[id^="div-gpt-ad"]
-www.irctc.co.in###dod
 
 ! 2023-10-24 https://www.timesnownews.com
 www.timesnownews.com##[href^="https://www.linkedin.com/sharing/share-offsite/"]
