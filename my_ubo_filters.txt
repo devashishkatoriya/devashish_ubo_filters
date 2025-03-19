@@ -2612,3 +2612,6 @@ www.reddit.com##.prompt, .bg-scrim, .overlay, .viewInApp, #blocking-modal, #nsfw
 ! Reddit - Remove scroll/click block
 www.reddit.com##body:style(pointer-events: auto !important; overflow: auto !important;)
 
+! Mar 18, 2025 https://fitgirl-repacks.site
+fitgirl-repacks.site##.open.jetpack-subscribe-modal
+
