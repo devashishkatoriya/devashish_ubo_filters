@@ -2619,3 +2619,6 @@ fitgirl-repacks.site##.open.jetpack-subscribe-modal
 www.wionews.com###iz-optin-main-container
 www.wionews.com###cookie-banner
 
+! Mar 22, 2025 https://www.wionews.com
+www.wionews.com##.responsive-ad-css
+
