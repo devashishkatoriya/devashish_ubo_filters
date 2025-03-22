@@ -2615,3 +2615,7 @@ www.reddit.com##body:style(pointer-events: auto !important; overflow: auto !impo
 ! Mar 18, 2025 https://fitgirl-repacks.site
 fitgirl-repacks.site##.open.jetpack-subscribe-modal
 
+! Mar 22, 2025 https://www.wionews.com
+www.wionews.com###iz-optin-main-container
+www.wionews.com###cookie-banner
+
