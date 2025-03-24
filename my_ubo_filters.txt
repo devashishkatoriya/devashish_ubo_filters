@@ -2622,3 +2622,19 @@ www.wionews.com###cookie-banner
 ! Mar 22, 2025 https://www.wionews.com
 www.wionews.com##.responsive-ad-css
 
+! Mar 22, 2025 https://www.16personalities.com
+www.16personalities.com##.share-highlighter--popup
+
+! Mar 24, 2025 https://www.timesnownews.com - Remove newsletter subscribe box
+||www.timesnownews.com/assets/images/subscribe-bg.jpg$image
+www.timesnownews.com##._37K4.RUE6
+
+! Mar 24, 2025 https://www.timesnownews.com
+www.timesnownews.com##.bggrayAd
+
+! Remove download timesnow app from playstore in footer
+www.timesnownews.com##._1Ope
+
+! Mar 24, 2025 https://www.timesnownews.com - Remove follow us box in footer
+www.timesnownews.com##.tbhR._2AM6
+
