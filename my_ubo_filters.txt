@@ -2638,3 +2638,11 @@ www.timesnownews.com##._1Ope
 ! Mar 24, 2025 https://www.timesnownews.com - Remove follow us box in footer
 www.timesnownews.com##.tbhR._2AM6
 
+! Mar 24, 2025 https://app.notta.ai
+app.notta.ai##.prompt_wrapper__mJnTb
+
+! Mar 29, 2025 https://assassinscreed.fandom.com
+assassinscreed.fandom.com###WikiaBar
+assassinscreed.fandom.com##.rail-module.DiscordIntegratorModule
+assassinscreed.fandom.com##.sitenotice-wrapper--visible.sitenotice-wrapper
+
