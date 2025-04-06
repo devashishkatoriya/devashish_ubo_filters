@@ -46,6 +46,15 @@
 
 ! uBlock filters – Link shorteners - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt
 
+! Allow captchas to work properly
+!* captcha.com * allow
+!* hcaptcha.com * allow
+!* opfcaptcha-prod.s3.amazonaws.com * allow
+!* recaptcha.net * allow
+!* https://www.google.com/js/ * allow
+!* https://www.google.com/recaptcha/ * allow
+!* https://www.gstatic.com/recaptcha/ * allow
+
 !------------------------------------------------
 ! MY CUSTOM FILTERS
 !------------------------------------------------
