@@ -2651,3 +2651,7 @@ b.crichd.*###fb88220020000387561883703
 
 ! Adware
 ||maccsltd.com
+
+! Apr 6, 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##div.J7krm
+
