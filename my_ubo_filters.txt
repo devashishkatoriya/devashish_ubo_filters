@@ -2667,3 +2667,14 @@ timesofindia.indiatimes.com##div.J7krm
 ! Apr 12, 2025 https://www.kimovil.com
 www.kimovil.com##.kau
 
+
+! Mar 31, 2025 https://www.eporner.com
+www.eporner.com###pbwuvpad
+www.eporner.com###pbwuvp
+
+! Apr 2, 2025 https://www.news18.com
+www.news18.com###LiveFeed > .ad
+www.news18.com##[id^="Desktop_Livblog_Ad_Mid"]
+
+! Apr 16, 2025 https://www.news18.com
+www.news18.com###opnbtnwrap1
