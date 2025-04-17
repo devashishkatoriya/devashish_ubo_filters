@@ -2678,3 +2678,5 @@ www.news18.com##[id^="Desktop_Livblog_Ad_Mid"]
 
 ! Apr 16, 2025 https://www.news18.com
 www.news18.com###opnbtnwrap1
+
+fitgirl-repacks.site##.jetpack-subscribe-modal
