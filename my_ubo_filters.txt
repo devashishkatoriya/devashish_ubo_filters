@@ -708,12 +708,6 @@ www.koreaboo.com##.kbos-share
 ! 2024-01-22 https://www.republicbharat.com
 www.republicbharat.com##.adWidget
 
-! Unbreak cloudflare anti bot test 2024-01-22 https://www.1337x.to
-!@@||www.1337x.to^important
-
-! Unbreak 2024-01-22 https://www.republicbharat.com
-@@||c.amazon-adsystem.com^$script,domain=republicbharat.com
-
 ! 2024-01-23 https://www.wired.com
 www.wired.com##.persistent-bottom
 
@@ -788,9 +782,6 @@ gamerant.com##.bottom.sharing
 gamerant.com###articleNewsletterForm
 gamerant.com##.wrapper.w-footer
 
-! 2024-02-05 https://www.youtube.com - Removes youtube chat
-!www.youtube.com###chat-container
-
 ! 2024-02-05 https://en.wikipedia.org
 en.wikipedia.org###centralNotice
 
@@ -807,62 +798,12 @@ princeofpersia.fandom.com###WikiaBar
 ! 2024-02-16 https://onlyfans.com
 onlyfans.com##.m-scrollbar-always.m-scrollbar-y.m-native-custom-scrollbar.m-disable-autoscroll.l-wrapper__sidebar.b-feed__aside
 
-/^https:\/\/[a-z]{10,12}\.com\/[\/a-z]{2,}\?id=[12]\d{6}$/$script,3p,match-case
-/aas/r45d/vki/*$script,redirect-rule=noop.js
-||flixhq.*/loadme/
-
-! pp_blob
-||filmovi.ws^$csp=script-src * 'unsafe-inline'
-||serijefilmovi.com^$csp=script-src * 'unsafe-inline'
-
-! pp server
+! pp servers
 /^https?:\/\/[a-z]{8,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+)?$/$script,3p
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}$/$script,3p
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}$/$script,3p
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xhr,3p
 /^https?:\/\/[a-z]{8,15}\.(?:com|net)\/tag\.min\.js$/$script,3p
-||go.bundlebyte.net^
-||mhskfkinwk.xyz^
-?oo=1^$xhr,3p
-||aguwehajqluorgv.com^
-||kiisvpby.xyz^
-||jfdvjpksdqhdhjo.com^
-||ydjicxmmdhbwojs.com^
-||xtjaejphgtpg.com^
-||drarcchewdfk.com^
-||ykjawfhta.com^
-||fwwvachfbbmpim.xyz^
-||rghptoxhai.com^
-||boatoamo.com^
-||bwoqmqkhamcri.com^
-||qhehbmoddetfmw.com^
-||reechoat.com^
-||uiqbonkjet.com^
-||ciwedsem.xyz^
-||strrciqh.xyz^
-
-!!! other filters for pp
-*$3p,denyallow=google.com|googleapis.com|gstatic.com,domain=moviesda1.*
-*$3p,denyallow=googleapis.com|gstatic.com|facebook.net|facebook.com|fbcdn.net|moviesda1.com|moviesda1.co|moviesda1.net,domain=dloader.*
-*$3p,denyallow=gstatic.com|googleapis.com,domain=moviesdanet.com
-*$3p,denyallow=gstatic.com|googleapis.com|facebook.net|facebook.com|fbcdn.net,domain=isaidubhd.*
-*$3p,denyallow=facebook.com|facebook.net|fbcdn.net|googleapis.com|googleusercontent.com|gstatic.com|vadbom.com|vadshar.com|vidbam.org|vidshar.org|youtube.com,domain=isaidub.*
-*$3p,xhr,script,denyallow=arc.io|cdnjs.cloudflare.com|cloudflare.net|fastly.net|fontawesome.com|jwpcdn.com,domain=files.im
-filmpertutti.*##.ads
-filmpertutti.*##.no_pop
-||nollyverse.com^$csp=default-src 'self' 'unsafe-inline' *.gstatic.com *.googleapis.com *.bootstrapcdn.com *.fontawesome.com *.cloudflare.com *.youtube.com *.ytimg.com
-||nollyverse.com/sw.js$1p
-*$script,3p,denyallow=google.com|youtube.com,domain=nkiri.com
-moviespapa.*##+js(aost, XMLHttpRequest, /inlineScript|stackDepth:1/)
-/popunder.js$domain=linkbox.to|sharezweb.com
-*$3p,denyallow=bootstrapcdn.com|cloudflare.com|faselhd.club|fastly.net|gstatic.com|jwpcdn.com,domain=embed.scdn.to
-kuttymovies.*##+js(aost, XMLHttpRequest, inlineScript)
-videoplayer.*##+js(aopr, open)
-*$xhr,3p,domain=dropload.io
-||pnd.tl/*.gif$image
-french-stream.*###banning
-moviesda8.com,vidbox.online##+js(aost, String.prototype.charAt, $0)
-!aagmaal.*##+js(rpnt, script, break;case $.)
 
 ! 2024-02-12 https://aniwatch.to
 aniwatch.to##.zrg-list
@@ -1128,17 +1069,6 @@ sports.ndtv.com##.red-tim
 sports.ndtv.com##[src="https://drop.ndtv.com/test/hk-ndtv/NDTV.com/Election/v2.2/WhatsApp-sticky-icon.svg"]
 sports.ndtv.com##.js-bkt-out.js-back-to-top.back-to-top
 
-! https://www.reddit.com/r/youtube/comments/1b40hra/youtube_fix_customizations_4_videos_per_row/
-! YouTube Theater Mode Chat Fix
-!youtube.com##+js(ra, live-chat-present-and-expanded|panel-expanded|fixed-panels|watch-while-panels-active, ytd-watch-flexy, stay)
-!youtube.com##+js(set-attr, ytd-watch-flexy, is-two-columns_)
-
-! Keeps Chat and reverts its location
-!youtube.com###columns.ytd-watch-flexy:style(display: grid !important; grid-template-columns: 1fr auto !important;)
-!youtube.com###primary.ytd-watch-flexy, #chat-container.ytd-watch-flexy:style(grid-row: 1 !important;)
-!youtube.com###secondary.ytd-watch-flexy:style(grid-column: 2 !important;)
-!youtube.com###chat-container.ytd-watch-flexy:style(margin-top: var(--ytd-margin-6x) !important; width: var(--ytd-watch-flexy-sidebar-width) !important;)
-
 ! 2024-04-09 https://links.modblog.xyz
 links.modblog.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
 
@@ -1166,15 +1096,8 @@ psa.wf##.litespeed-loaded.entered.new-site-image
 psa.wf##.sidebar-content
 psa.wf###nav-header
 
-! 2024-04-13 https://www.youtube.com
-www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
-!www.youtube.com##.ytd-statement-banner-renderer.style-scope
-
 ! 2024-04-13 https://www.news18.com
 www.news18.com##.topAdd
-
-! 2024-04-13 https://www.youtube.com - Disable youtube shorts
-!www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 
 ! 2024-04-13 https://myanimelist.net
 myanimelist.net##.right.mxj.widget
@@ -1208,9 +1131,6 @@ blog.workedbd.com##.newsair_stt
 ! 2024-04-14 https://www.linkedin.com
 www.linkedin.com##.scaffold-layout__aside
 
-! 2024-04-19 https://www.youtube.com
-!www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singleton-renderer.style-scope
-
 ! 2024-04-20 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[href^="mailto:"]
 timesofindia.indiatimes.com###footer
@@ -1237,6 +1157,7 @@ new.mphealth.online##.bloglo-breadcrumbs
 new.mphealth.online##.site-footer
 new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 
+! some other pp servers which were added later
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/r(?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,16}\/[A-Za-z]{5}$/$script,3p,match-case,to=com
 /^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6,7}$/$script,3p
 
@@ -1246,60 +1167,22 @@ new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 ! 2024-04-27 https://moviesmod.info
 ||moviesmod.*/winxpop.js$script
 
-! 2024-05-08 https://adblock-tester.com
-!||adblock-tester.com/banners/pr_advertising_ads_banner.swf$object
-!||adblock-tester.com/banners/pr_advertising_ads_banner.gif$image
-!||adblock-tester.com/banners/pr_advertising_ads_banner.png$image
-!adblock-tester.com##.includeWrapper
-
-||fcfohwyhj.com^
-||chitchooms.net^
-||clphfadogkeran.com^
 timesofindia.indiatimes.com##.topbandbanner.topband_active
-||nmlgkgaiuyf.com^
-||helseeftie.net^
 tech.unblockedgames.*##footer
 linegee.net###header
 linegee.net###footer-section
 linegee.net##.penci-go-to-top-floating.show-up
 linegee.net##.penci-top-bar
 linegee.net###sidebar
-||bjqctghgipk.com^
-||lgqjuawln.com^
-||gkccvaxe.com^
 republicworld.com###hellobar-bar
-||bvbddyntbyd.com^
-||cptwksblwoiwjw.com^
 newindianexpress.com###header-social-follow
 newindianexpress.com###app-download-link
-||iyginjksd.com^
 /^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$popup
-||rmrurqcob.com^
-||oackoulimtoo.com^
-||jpavbygt.com^
+
 myfirstname.in##.unili-content
 gamesradar.com##.buttons-social
 gamesradar.com##.socialite-widget-ul
 gamesradar.com##.slice-container-newsletterForm
-||glooltoora.net^
-||cmrntpgnxgoifby.com^
-||boowccmjkgaihuy.com^
-||jeephiney.net^
-||nvgdqibcwlmwn.com^
-||mulaukso.com^
-||notjdyincro.com^
-||jrngoowvegbkmbh.com^
-||cotatholt.net^
-||whoumtefie.com^
-||lfwdenfyruv.com^
-||fgipxdrttv.com^
-||dxerdyotbm.com^
-||smctmxdeoz.com^
-||nlacivduggh.com^
-||yshhfig.com^
-||stylisheleg4nt.com/z-*
-||stylisheleg4nt.com/blast.js
-||stream.crichd.vip/z-*
 
 ! May 27, 2024 https://episodes.modpro.co
 ||bucdcqoqvnrtbp.com^
@@ -1320,27 +1203,6 @@ www.moneycontrol.com###taboola-below-article-thumbnails
 www.moneycontrol.com##.mob-hide.dfp_ads_block
 www.moneycontrol.com###taboola-below-home-thumbnails
 
-! Jun 2, 2024 https://episodes.modpro.co
-||udairgawob.net^
-||codbxxmslsi.com^
-||lqktalqgavhmkb.com^
-
-! Jun 2, 2024 https://links.modpro.co
-||xsvfdnwjmev.com^
-
-! Jun 3, 2024 https://links.modpro.co
-||lyljcvgbkdwnv.com^
-||soupteewhish.com^
-||links.modpro.co/wp-content/themes/allium/js/custom.js
-
-! Jun 4, 2024 https://links.modpro.co
-||oastoamox.com^
-||jdiabuehydqpque.com^
-
-! Jun 5, 2024 https://episodes.modpro.co
-||toagruwha.net^
-||qshbhgtylgpus.com^
-
 epaper.indiatimes.com##.epaper-blocker
 epaper.indiatimes.com##.epaperBlockerWrap
 timesofindia.indiatimes.com##.visualstoriesas_wrapper
@@ -1348,12 +1210,6 @@ timesofindia.indiatimes.com###desktop_minitv_view
 
 ! Jun 15, 2024 https://moviesmod.life
 /onewinpop.js
-
-! Jun 15, 2024 https://links.modpro.co
-||mykhekwkpkcbs.com^
-
-! Jun 15, 2024 https://stylisheleg4nt.com
-||groorsoa.net/5/6870788
 
 /^https:\/\/[.\w]+\.[a-z]{2,3}\/z-[5-9]\d{6}$/$script,1p,match-case,strict1p
 
@@ -1367,24 +1223,12 @@ gadgetsreview27.com###cm-footer
 ! Jun 5, 2024 https://driveseed.org
 /winexch.gif$image
 
-! Jun 22, 2024 https://links.modpro.co
-||ighawwrdfsgvic.com^
-||leenaitheez.com^
-
 ! Jun 22, 2024 https://driveseed.org
 /winexch_12june.gif
 driveseed.org##[href="https://bit.ly/winexchdcjune"]
 
-! Jun 22, 2024 https://links.modpro.co
-/wp-content/themes/allium/js/enquire.js
-||kuhrovpldea.com^
-/wp-includes/js/wp-emoji-release.min.js
-
 ! Jun 22, 2024 https://www.nytimes.com
 www.nytimes.com##.SUBCON__BAU_ALL_ACCESS_ACQUISITION_234
-
-! Jun 23, 2024 https://ronaldo7.pro
-||st.chatango.com/h5/gz/r0610241543/id.html$subdocument
 
 ! Jun 23, 2024 https://www.btvsports.cam
 www.btvsports.cam###chat
@@ -1397,15 +1241,10 @@ www.btvsports.cam###chat
 ||recordedthereby.com/sfp.js$script,domain=vidsrc.to
 ||capaciousdrewreligion.com/advertisers.js$script,domain=vidsrc.to
 
-! Jun 25, 2024 https://links.modpro.co
-||paugrozefou.net^
-||rgnhedtqr.com^
-
 ##[id^="penci_text-block_"]
 
 uhdmovies.*##+js(nowoif)
 tech.unblockedgames.world##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
-||gntsrybdc.com^
 pcgamer.com##.exit-intent
 pcgamer.com##.sticky-player-background
 pcgamer.com##.newsletter-form__wrapper
@@ -1413,15 +1252,6 @@ firstpost.com##.social-ic-wrap
 ##.taboola_body_ad
 firstpost.com##.soc-icons
 firstpost.com##.so-ics
-||sqxowtvvhc.com^
-||ochoawhou.com^
-||cefuthodob.com^
-||kpwpnffgffth.com^
-||pgmblhey.com^
-||ddrcjgbuwek.com^
-||cbxwjrvv.com^
-||feshoassan.com^
-||cjvfhupemmkfiil.com^
 
 !psa.wf interstetial ads increasing the timer to 30 sec
 @@||googleads.g.doubleclick.net/pagead/$domain=cryptednews.space
@@ -1458,7 +1288,6 @@ www.businesstoday.in##.share-button
 www.businesstoday.in##.bdg_bnr_frm
 
 ! Remove popup on stream.crichd.* Sky Sports
-||histats.com^$3p
 crichd.*##+js(no-window-open-if)
 crichd.*##+js(addEventListener-defuser, , break;case $.)
 crichd.*##+js(abort-current-script, JSON.parse, break;case $.)
@@ -1602,8 +1431,6 @@ timesofindia.indiatimes.com##.hide_in_adblocker.vertical.ad_text.ad_300by250.adI
 ! 10-Aug-2024 https://moviesmod.band
 moviesmod.*##.header-ad
 
-||trikeunpured.com^
-||d263ut03kf37wj.cloudfront.net/?fktud=1041209
 video-seed.xyz##+js(abort-current-script, document.documentElement, break;case $.)
 aniwave.*##^script:has-text(document.write)
 
@@ -1619,12 +1446,15 @@ english.jagran.com##.taboolaads
 
 ! Reddit - Block loader of nsfw modal
 ||www.redditstatic.com/shreddit/*/xpromo-nsfw-blocking-modal*.js$script,domain=reddit.com
+
 ! Reddit - Hide prompt in single post, backdrop overlay
 reddit.com##.prompt
 reddit.com##.bg-scrim
 reddit.com##.overlay
+
 ! Reddit - Set revealed removing mode attr
 reddit.com##shreddit-blurred-container[mode]:has([slot="revealed"]):remove-attr(mode)
+
 ! Reddit - Remove blur, backdrop...
 reddit.com##.blurred:style(filter: unset !important; background: unset !important; pointer-events: unset !important; display: unset !important;)
 
@@ -1812,7 +1642,6 @@ blogs.nvidia.com###formWidget
 gaana.com##div.gaanalyricsRenewBanner
 gaana.com##.mr60.welcBtn
 
-um.tetelsillers.com/r6ivsoaNBNcIvk/44730
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,3p,match-case
 
 ! Sep 1, 2024 https://nexdrive.fun
@@ -1864,12 +1693,6 @@ www.ndtv.com###taboola-below-video-thumbnails-new-dark
 
 ! Sep 8, 2024 https://www.indiatoday.in
 www.indiatoday.in##.premium_btn
-
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
-
-/pagead.js$domain=d3ward.github.io
-/widget/ads.js$domain=d3ward.github.io
 
 ! Sep 9, 2024 https://arstechnica.com
 arstechnica.com##.site-footer
@@ -2092,7 +1915,7 @@ www.news18.com##.topAddArticle
 www.news18.com##.NAT_add
 
 ! Oct 23, 2024 https://es.pornhub.org
-es.pornhub.org##.adsbytrafficjunky
+es.pornhub.*##.adsbytrafficjunky
 
 ! Oct 23, 2024 https://www.news18.com
 www.news18.com##.header_join_us_mweb
@@ -2102,7 +1925,6 @@ www.news18.com##.ad300x250
 www.news18.com##.follow_google_news
 www.news18.com##.taboolaWrap
 www.news18.com###share
-!www.news18.com##.mbnavftr
 
 ! Oct 24, 2024 https://www.news18.com
 www.news18.com##[id^="taboola-mid-article-thumbnails-"]
@@ -2117,7 +1939,6 @@ www.news18.com##.mc-ad
 www.news18.com##.desktopflex.Had300x250
 www.news18.com##.dwnld
 www.news18.com##.flw
-!www.news18.com##.dsk.navnotfc
 
 ! Oct 26, 2024 https://xhamster.desi
 xhamster.*##.b09b92da
@@ -2134,12 +1955,6 @@ hianime.*##+js(no-window-open-if)
 hianime.to##+js(no-window-open-if)
 hianime.*##[href="https://1flix.to/"]
 hianime.to##[href="https://1flix.to/"]
-
-! Oct 27, 2024 https://links.kmhd.net
-||dq.setiercourage.com^
-
-! Oct 27, 2024 https://katmovie18.org
-||oj.emboxagriot.com^
 
 ! Oct 27, 2024 https://www.ndtv.com
 www.ndtv.com##.adBg
@@ -2358,10 +2173,6 @@ tech.unblockedgames.world##._ap_apex_ad
 
 epaper.indiatimes.com##.timer_container
 timesofindia.indiatimes.com##.Tw3J0
-
-||f7v7gchg.pro^
-||krqyiqjl.pro^
-||pbnv9n2q.pro^
 
 ! 29-Dec-2024 https://www.news18.com
 ||images.news18.com/n18-elections/2024/12/wedding_season_105x55_Desktop.svg$image
