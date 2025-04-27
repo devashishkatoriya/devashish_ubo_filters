@@ -693,7 +693,6 @@ www.apkmirror.com###disqus_thread
 ! Allowlist to fix site breakages
 @@||ads.pubmatic.com
 @@||static.vidgyor.com
-@@||pubmatic.com
 
 ! 2024-01-20 https://www.dexerto.com
 www.dexerto.com##div.lg\:mt-4.md\:mx-0.w-full.items-center.flex-col.flex
