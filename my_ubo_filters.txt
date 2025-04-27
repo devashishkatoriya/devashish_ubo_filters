@@ -2505,3 +2505,6 @@ episodes.modpro.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_s
 ! Apr 27, 2025 https://topmovies.tips
 topmovies.*###sidebar
 
+! Apr 27, 2025 https://www.wionews.com
+www.wionews.com##div.article-amp-mid-ads-style.publive-dynamic-container
+
