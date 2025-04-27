@@ -1253,8 +1253,6 @@ new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 !||adblock-tester.com/banners/pr_advertising_ads_banner.png$image
 !adblock-tester.com##.includeWrapper
 
-@@||pubmatic.com
-
 ||fcfohwyhj.com^
 ||chitchooms.net^
 ||clphfadogkeran.com^
