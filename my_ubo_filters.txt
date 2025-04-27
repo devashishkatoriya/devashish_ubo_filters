@@ -2498,3 +2498,10 @@ fitgirl-repacks.site##.jetpack-subscribe-modal
 ! Apr 25, 2025 https://www.ndtv.com
 ||fonts.gstatic.com/s/$font,domain=ndtv.com
 
+! Apr 27, 2025 https://episodes.modpro.blog
+episodes.modpro.*##.site-header
+episodes.modpro.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
+
+! Apr 27, 2025 https://topmovies.tips
+topmovies.*###sidebar
+
