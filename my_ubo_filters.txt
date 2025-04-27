@@ -2508,3 +2508,15 @@ topmovies.*###sidebar
 ! Apr 27, 2025 https://www.wionews.com
 www.wionews.com##div.article-amp-mid-ads-style.publive-dynamic-container
 
+! Apr 27, 2025 https://www.gadgets360.com
+www.gadgets360.com##div.clearfix.oneline.alsoseewgt
+www.gadgets360.com###stickkitlhs
+www.gadgets360.com##div.st_h2list
+www.gadgets360.com##.margin_b20.downloadtxt
+
+! Apr 27, 2025 https://www.androidauthority.com
+www.androidauthority.com##.e_d.e_ad
+www.androidauthority.com##.e_pj.e_lj.e_nc.e_mc
+www.androidauthority.com##.e_Tg.e_Yg.e_Pg.e_5b
+www.androidauthority.com##.e_zi
+
