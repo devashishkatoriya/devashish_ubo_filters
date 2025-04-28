@@ -2523,3 +2523,10 @@ www.androidauthority.com##.e_zi
 ! Apr 27, 2025 https://www.pcgamesn.com
 www.pcgamesn.com##.constellation_promoted_iframe
 
+! Apr 28, 2025 https://hianimez.to
+hianimez.*##.share-buttons-block
+hianimez.*##.header-group > .anw-group
+
+! Apr 28, 2025 https://animekai.to
+animekai.*###social-sharing
+
