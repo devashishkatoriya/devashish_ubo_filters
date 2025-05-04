@@ -2530,3 +2530,6 @@ hianimez.*##.header-group > .anw-group
 ! Apr 28, 2025 https://animekai.to
 animekai.*###social-sharing
 
+! Dont break youtube history
+@@||s.youtube.com
+
