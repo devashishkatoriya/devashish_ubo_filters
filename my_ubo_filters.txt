@@ -2533,3 +2533,6 @@ animekai.*###social-sharing
 ! Dont break youtube history
 @@||s.youtube.com
 
+! May 9, 2025 https://moviesmod.email
+moviesmod.*##.topad
+
