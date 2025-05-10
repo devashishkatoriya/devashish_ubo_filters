@@ -2536,3 +2536,7 @@ animekai.*###social-sharing
 ! May 9, 2025 https://moviesmod.email
 moviesmod.*##.topad
 
+! May 10, 2025 https://topmovies.tips
+topmovies.*##.topad
+topmovies.*##[src="https://moviesmod.email/wp-content/uploads/2025/04/ipl.gif"]
+
