@@ -2540,3 +2540,17 @@ moviesmod.*##.topad
 topmovies.*##.topad
 topmovies.*##[src="https://moviesmod.email/wp-content/uploads/2025/04/ipl.gif"]
 
+! psa.wf adblock detection bypass
+tech.pidba.com,post.eporcha.xyz,bnirfinance.com,9sblog.com##+js(no-fetch-if, googlesyndication.com)
+tech.pidba.com,post.eporcha.xyz,bnirfinance.com,9sblog.com##+js(no-xhr-if, googlesyndication.com)
+
+@@||9sblog.com^$ghide
+@@||post.eporcha.xyz^$ghide
+@@||bnirfinance.com^$ghide
+@@||tech.pidba.com^$ghide
+
+||cdn.jsdelivr.net/*/detectincognito$script,redirect-rule=noopjs,domain=9sblog.com
+||cdn.jsdelivr.net/*/detectincognito$script,redirect-rule=noopjs,domain=tech.pidba.com
+||cdn.jsdelivr.net/*/detectincognito$script,redirect-rule=noopjs,domain=post.eporcha.xyz
+||cdn.jsdelivr.net/*/detectincognito$script,redirect-rule=noopjs,domain=bnirfinance.com
+
