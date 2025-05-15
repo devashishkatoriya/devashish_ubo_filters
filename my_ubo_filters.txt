@@ -773,9 +773,6 @@ mega.nz##.commercial-wrapper
 www.nature.com##.u-lazy-ad-wrapper
 www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
 
-! 2024-02-05 https://www.youtube.com
-!www.youtube.com###big-yoodle
-
 ! 2024-02-05 https://gamerant.com
 gamerant.com##.ad-current
 gamerant.com##.bottom.sharing
@@ -784,9 +781,6 @@ gamerant.com##.wrapper.w-footer
 
 ! 2024-02-05 https://en.wikipedia.org
 en.wikipedia.org###centralNotice
-
-! 2024-02-06 https://www.youtube.com
-www.youtube.com###sponsor-button
 
 ! 2024-02-09 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.minitv_in_page.minitv_cls
@@ -1087,9 +1081,6 @@ hentaihaven.xxx##.script_manager_video_master
 hentaihaven.xxx##.vrav_a_pc
 hentaihaven.xxx##.pt-2
 
-! 2024-04-13 https://www.youtube.com
-www.youtube.com##ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope
-
 ! 2024-04-09 https://psa.wf
 psa.wf###footer
 psa.wf##.litespeed-loaded.entered.new-site-image
@@ -1106,9 +1097,6 @@ myanimelist.net##.news-list
 
 ! 2024-04-13 https://www.imdb.com
 www.imdb.com##.right-rail-more-to-explore
-
-! 2024-04-13 https://www.youtube.com
-www.youtube.com##.ytp-paid-content-overlay
 
 ! 2024-04-13 https://www.polygon.com
 www.polygon.com##.l-col__sidebar
