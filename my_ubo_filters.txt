@@ -2449,15 +2449,6 @@ www.news18.com###opnbtnwrap1
 
 fitgirl-repacks.site##.jetpack-subscribe-modal
 
-! Apr 25, 2025 https://www.wionews.com
-||fonts.gstatic.com/s/$font,domain=wionews.com
-
-! Apr 25, 2025 https://www.news18.com
-||www.news18.com/dlxczavtqcctuei/news18/static/fonts/$font,1p
-
-! Apr 25, 2025 https://www.ndtv.com
-||fonts.gstatic.com/s/$font,domain=ndtv.com
-
 ! Apr 27, 2025 https://episodes.modpro.blog
 episodes.modpro.*##.site-header
 episodes.modpro.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
