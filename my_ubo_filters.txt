@@ -2542,3 +2542,14 @@ tech.pidba.com,post.eporcha.xyz,bnirfinance.com,9sblog.com##+js(no-xhr-if, googl
 ||cdn.jsdelivr.net/*/detectincognito$script,redirect-rule=noopjs,domain=post.eporcha.xyz
 ||cdn.jsdelivr.net/*/detectincognito$script,redirect-rule=noopjs,domain=bnirfinance.com
 
+! 13 May 2025 https://www.firstpost.com
+www.firstpost.com###izooto-optin
+
+! 14 May 2025 https://insider-gaming.com
+insider-gaming.com##.adthrive-ad
+
+! 17 May 2025 https://www.prabhatkhabar.com
+www.prabhatkhabar.com###iz-optin-main-container
+www.prabhatkhabar.com##.share_kare_container
+www.prabhatkhabar.com###iz-osn-exitIntent
+
