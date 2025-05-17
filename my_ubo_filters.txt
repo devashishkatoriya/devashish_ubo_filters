@@ -711,11 +711,6 @@ www.republicbharat.com##.adWidget
 ! 2024-01-23 https://www.wired.com
 www.wired.com##.persistent-bottom
 
-! my pp servers
-!/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,3p,redirect-rule=noop.js,match-case
-/^https?:\/\/[a-z]{8,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+)?$/$script,3p
-/^https:\/\/[a-z]{3,5}\.[a-z]{10,14}\.top\/[a-z]{10,16}\/[a-z]{5,6}(?:\?d=\d)?$/$script,3p,match-case
-
 ! 2024-01-26 https://www.crunchyroll.com
 www.crunchyroll.com##.upsell-banner-container.erc-watch-upsell-banner
 
@@ -791,13 +786,6 @@ princeofpersia.fandom.com###WikiaBar
 
 ! 2024-02-16 https://onlyfans.com
 onlyfans.com##.m-scrollbar-always.m-scrollbar-y.m-native-custom-scrollbar.m-disable-autoscroll.l-wrapper__sidebar.b-feed__aside
-
-! pp servers
-/^https?:\/\/[a-z]{8,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+)?$/$script,3p
-/^https:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}$/$script,3p
-/^https:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}$/$script,3p
-/^https:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xhr,3p
-/^https?:\/\/[a-z]{8,15}\.(?:com|net)\/tag\.min\.js$/$script,3p
 
 ! 2024-02-12 https://aniwatch.to
 aniwatch.to##.zrg-list
@@ -1145,16 +1133,6 @@ new.mphealth.online##.bloglo-breadcrumbs
 new.mphealth.online##.site-footer
 new.mphealth.online##.bloglo-visible.bloglo-smooth-scroll
 
-! some other pp servers which were added later
-/^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/r(?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,16}\/[A-Za-z]{5}$/$script,3p,match-case,to=com
-/^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6,7}$/$script,3p
-
-! 2024-04-27 https://moviesmod.info
-||moviesmod.*/axwinpop.js$script
-
-! 2024-04-27 https://moviesmod.info
-||moviesmod.*/winxpop.js$script
-
 timesofindia.indiatimes.com##.topbandbanner.topband_active
 tech.unblockedgames.*##footer
 linegee.net###header
@@ -1165,15 +1143,11 @@ linegee.net###sidebar
 republicworld.com###hellobar-bar
 newindianexpress.com###header-social-follow
 newindianexpress.com###app-download-link
-/^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$popup
 
 myfirstname.in##.unili-content
 gamesradar.com##.buttons-social
 gamesradar.com##.socialite-widget-ul
 gamesradar.com##.slice-container-newsletterForm
-
-! May 27, 2024 https://episodes.modpro.co
-||bucdcqoqvnrtbp.com^
 
 ! May 29, 2024 https://en.softonic.com
 en.softonic.com##.buttons-social
@@ -1198,8 +1172,6 @@ timesofindia.indiatimes.com###desktop_minitv_view
 
 ! Jun 15, 2024 https://moviesmod.life
 /onewinpop.js
-
-/^https:\/\/[.\w]+\.[a-z]{2,3}\/z-[5-9]\d{6}$/$script,1p,match-case,strict1p
 
 ! Jun 15, 2024 https://stream.crichd.vip
 ||win.pm-bet.in^
