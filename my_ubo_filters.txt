@@ -2519,3 +2519,10 @@ www.prabhatkhabar.com###iz-osn-exitIntent
 ! Block invisible overlay, that prevent saving images
 instagram.com##._aagw:empty
 
+! May 18, 2025 https://www.wionews.com
+www.wionews.com##[class^="ads_adsBlock__"]
+www.wionews.com##.cookiepolicy_wrap
+
+! May 18, 2025 https://www.maketecheasier.com
+www.maketecheasier.com##.newsub-box
+
