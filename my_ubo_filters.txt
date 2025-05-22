@@ -2516,3 +2516,6 @@ www.prabhatkhabar.com###iz-optin-main-container
 www.prabhatkhabar.com##.share_kare_container
 www.prabhatkhabar.com###iz-osn-exitIntent
 
+! Block invisible overlay, that prevent saving images
+instagram.com##._aagw:empty
+
