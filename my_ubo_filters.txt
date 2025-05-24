@@ -2526,3 +2526,16 @@ www.wionews.com##.cookiepolicy_wrap
 ! May 18, 2025 https://www.maketecheasier.com
 www.maketecheasier.com##.newsub-box
 
+! 22 May 2025 https://www.freeuseporn.com
+www.freeuseporn.com###iframe_em9uZWlk_43675075711_12
+www.freeuseporn.com##[href^="https://freeuseporn.com/bnrmanage/d3d3/ZGVsaXZlcnk=/Y3Cs=.php"]
+
+! 24 May 2025 https://hentai.tv
+hentai.tv##[src="https://a.adtng.com/get/10013551?time=1656427795320"]
+
+! 24 May 2025 https://xhamster.com
+||ic-vrm-nss.xhpingcdn.com/a/YTJiZWRhZGJjYjMyZjY3OThhZDVlNDdhY2YxODUwYjc/jpeg/promo/message/2102/68300eba5c28b.jpg$image
+xhamster.*##.Sbd-qPNno-ts-init.Sbd-qPN--top.Sbd-qPN
+xhamster.*##._8c7a11da._286a8145
+xhamster.*##.Sbd-qPNpremium-n-overlay
+
