@@ -2542,3 +2542,12 @@ xhamster.*##.Sbd-qPNpremium-n-overlay
 ! May 25, 2025 https://links.modpro.blog
 links.modpro.*##.darkmysite_switch_apple
 
+! Jun 1, 2025 https://zpaste.net
+zpaste.net##center > center > .buttonPress-41
+zpaste.net##div.uk-margin.uk-card-body.uk-card-small.uk-card-secondary.uk-card > center > .buttonPress-41
+
+! Jun 1, 2025 https://www.the-race.com
+||www.the-race.com/assets/img/banner.gif$image
+
+! Jun 1, 2025 https://moviesmod.email
+moviesmod.*##[src="https://moviesmod.email/wp-content/uploads/2025/04/ipl.gif"]
