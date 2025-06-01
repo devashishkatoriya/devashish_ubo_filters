@@ -2551,3 +2551,6 @@ zpaste.net##div.uk-margin.uk-card-body.uk-card-small.uk-card-secondary.uk-card >
 
 ! Jun 1, 2025 https://moviesmod.email
 moviesmod.*##[src="https://moviesmod.email/wp-content/uploads/2025/04/ipl.gif"]
+
+! Jun 1, 2025 https://posts.modpro.blog
+posts.modpro.*##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
