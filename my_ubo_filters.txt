@@ -2557,3 +2557,6 @@ cricgo.*##[src="https://procdncache.com/chat.php?v=2"]
 cricgo.*##.social-share
 cricgo.*##.footer
 
+! Allow youtube background play
+music.youtube.com##+js(aeld, /visibilitychange|blur/)
+m.youtube.com##+js(aeld, /visibilitychange|blur/)
