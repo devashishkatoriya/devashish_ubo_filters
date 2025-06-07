@@ -2560,7 +2560,7 @@ cricgo.*##.footer
 ! Allow youtube and instagram background play
 music.youtube.com##+js(aeld, /visibilitychange|blur/)
 m.youtube.com##+js(aeld, /visibilitychange|blur/)
-www.instagram.com##+js(aeld, /visibilitychange|blur/)
+!www.instagram.com##+js(aeld, /visibilitychange|blur/)
 www.youtube-nocookie.com##+js(aeld, /visibilitychange|blur/)
 www.youtube.com##+js(aeld, /visibilitychange|blur/)
 
