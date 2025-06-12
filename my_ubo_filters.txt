@@ -2567,3 +2567,10 @@ m.youtube.com##+js(aeld, /visibilitychange|blur/)
 ! 8 Jun 2025 https://www.news18.com
 www.news18.com##.stkartwrap
 
+! Jun 7, 2025 https://www.destructoid.com
+www.destructoid.com##.wp-block-gamurs-ad.is-video-ad
+www.destructoid.com##[src="https://embeds.beehiiv.com/a8d62108-86ed-4039-bf49-44877ba62c15"]
+
+! Jun 7, 2025 https://www.news18.com
+www.news18.com##.phtshare
+
