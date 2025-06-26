@@ -2574,3 +2574,8 @@ www.destructoid.com##[src="https://embeds.beehiiv.com/a8d62108-86ed-4039-bf49-44
 ! Jun 7, 2025 https://www.news18.com
 www.news18.com##.phtshare
 
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
+
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.$domain=adblock.turtlecute.org
