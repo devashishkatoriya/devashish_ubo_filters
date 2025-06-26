@@ -2583,3 +2583,18 @@ adblock.turtlecute.org##.textads
 ! Jun 15, 2025 https://hianime.to
 hianime.to##.share-buttons-block
 
+! 25 Jun 2025 https://www.pornhits.com
+www.pornhits.com##.header__bn
+www.pornhits.com##.video-header
+
+! 27 Jun 2025 https://www.herzindagi.com
+www.herzindagi.com##.subscribeFrame
+www.herzindagi.com##.stickyads
+www.herzindagi.com##.mobAds
+www.herzindagi.com##.ChatBuddy_ripple__cd8eT.ChatBuddy_button__JzGN4
+www.herzindagi.com###taboola-below-article-thumbnails
+
+! 27 Jun 2025 https://www.timesnownews.com
+www.timesnownews.com###iz-optin-main-container
+www.timesnownews.com##.trending-sricker
+
