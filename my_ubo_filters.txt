@@ -2598,3 +2598,7 @@ www.herzindagi.com###taboola-below-article-thumbnails
 www.timesnownews.com###iz-optin-main-container
 www.timesnownews.com##.trending-sricker
 
+! Jun 29, 2025 https://insurancemyst.com
+insurancemyst.com###right-sidebar
+insurancemyst.com###masthead
+
