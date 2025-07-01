@@ -2602,3 +2602,7 @@ www.timesnownews.com##.trending-sricker
 insurancemyst.com###right-sidebar
 insurancemyst.com###masthead
 
+! Jul 1, 2025 https://www.natomanga.com
+www.natomanga.com##.fly-ads-chapter-page
+
+
