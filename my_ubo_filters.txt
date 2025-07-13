@@ -2605,4 +2605,11 @@ insurancemyst.com###masthead
 ! Jul 1, 2025 https://www.natomanga.com
 www.natomanga.com##.fly-ads-chapter-page
 
+! 6 Jul 2025 https://www.filmibeat.com
+www.filmibeat.com##.ad-thumb
+
+! 7 Jul 2025 https://vxxx.com
+vxxx.com##.vjrccppymprcp
+vxxx.com##.rcbbzrjzkjy
+
 
