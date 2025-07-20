@@ -2637,5 +2637,8 @@ www.wionews.com##[class^="article_tredingStories_"]
 ! Jul 20, 2025 https://www.news18.com
 www.news18.com##.artcta
 
+! Blocks news18 video loading within articles
+!@@||googletagmanager.com/gtm.js$domain=news18.com
+@@||googletagmanager.com/gtm.js
 
 
