@@ -2634,5 +2634,8 @@ www.wionews.com###credential_picker_container
 www.wionews.com##[class^="socialShare_shareFixed__"]
 www.wionews.com##[class^="article_tredingStories_"]
 
+! Jul 20, 2025 https://www.news18.com
+www.news18.com##.artcta
+
 
 
