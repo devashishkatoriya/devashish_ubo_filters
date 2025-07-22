@@ -2640,4 +2640,12 @@ www.news18.com##.artcta
 !@@||googletagmanager.com/gtm.js$domain=news18.com
 @@||googletagmanager.com/gtm.js
 
+! 22 Jul 2025 https://www.firstpost.com
+www.firstpost.com###credential_picker_iframe
+
+! 22 Jul 2025 https://www.ndtv.com
+www.ndtv.com##.RdInAp_wr
+www.ndtv.com##.jiosawanwdg
+www.ndtv.com###credential_picker_iframe
+
 
