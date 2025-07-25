@@ -2649,4 +2649,7 @@ www.ndtv.com##.RdInAp_wr
 www.ndtv.com##.jiosawanwdg
 www.ndtv.com###credential_picker_iframe
 
+! Jul 25, 2025 https://driveleech.net
+driveleech.*###credential_picker_container
+
 
