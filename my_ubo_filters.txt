@@ -2621,6 +2621,7 @@ www.radiotimes.com##.social-share
 
 tech.examzculture.in##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
 tech.sharpcornerr.in##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
+tech.examdegree.site##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
 
 ! Jul 20, 2025 https://www.youtube.com - Remove shorts shelf from related videos
 www.youtube.com##ytd-reel-shelf-renderer
