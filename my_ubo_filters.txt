@@ -2641,6 +2641,7 @@ www.news18.com##.artcta
 ! Blocks news18 video loading within articles
 !@@||googletagmanager.com/gtm.js$domain=news18.com
 @@||googletagmanager.com/gtm.js
+@@||googletagmanager.com
 
 ! 22 Jul 2025 https://www.firstpost.com
 www.firstpost.com###credential_picker_iframe
