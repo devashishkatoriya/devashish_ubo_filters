@@ -2657,4 +2657,12 @@ driveleech.*###credential_picker_container
 ! Jul 25, 2025 https://www.irctc.co.in
 www.irctc.co.in###izooto-optin
 
+! Aug 15, 2025 https://www.pornhub.org
+www.pornhub.*###abAlert
+www.pornhub.*###cookieBanner
+
+! Aug 15, 2025 https://es.pornhub.org
+es.pornhub.*###abAlert
+es.pornhub.*###cookieBanner
+
 
