@@ -2665,4 +2665,10 @@ www.pornhub.*###cookieBanner
 es.pornhub.*###abAlert
 es.pornhub.*###cookieBanner
 
+! 10 Aug 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###credential_picker_iframe
+
+! 10 Aug 2025 https://www.firstpost.com
+www.firstpost.com##.add_container-top-ad
+
 
