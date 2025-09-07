@@ -803,9 +803,6 @@ www.theguardian.com##[href^="https://www.facebook.com/dialog/share"]
 www.theguardian.com##[href^="mailto:"]
 www.theguardian.com##.ad-slot-container
 
-! 2024-02-17 https://es.pornhub.org
-es.pornhub.org###abAlert
-
 ! 2024-02-19 https://www.pcerror-fix.com
 www.pcerror-fix.com##.hide-on-tablet.hide-on-mobile.shrflt
 
@@ -1504,8 +1501,8 @@ moviesmod.win##.mobile-ad
 timesofindia.indiatimes.com##.ntMKm
 
 ! Aug 24, 2024 https://www.pornhub.org
-www.pornhub.org##.adsbytrafficjunky
-www.pornhub.org##.middleAdContainer.clearfix.adContainer
+www.pornhub.*##.adsbytrafficjunky
+www.pornhub.*##.middleAdContainer.clearfix.adContainer
 
 ! Aug 24, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.UvMqU
@@ -2659,11 +2656,9 @@ www.irctc.co.in###izooto-optin
 
 ! Aug 15, 2025 https://www.pornhub.org
 www.pornhub.*###abAlert
-www.pornhub.*###cookieBanner
 
 ! Aug 15, 2025 https://es.pornhub.org
 es.pornhub.*###abAlert
-es.pornhub.*###cookieBanner
 
 ! 10 Aug 2025 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###credential_picker_iframe
