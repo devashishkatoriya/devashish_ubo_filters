@@ -2666,3 +2666,11 @@ www.firstpost.com##.add_container-top-ad
 
 /^https?:\/\/[a-z0-9]{5,15}\.(?:com|net)\/tag\.min\.js$/$script,3p,redirect-rule=noopjs,to=com|net
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,6}(?:\?[_a-z]=[-0-9a-z]+)?$/$script,3p,redirect-rule=noop.js,match-case
+
+! Sep 12, 2025 https://www.news18.com
+www.news18.com##.bgylw.gglebtn
+www.news18.com##.cp_mid_short_news.rpdicn
+
+! Removes empty space within articles
+www.news18.com##div.lazyload-wrapper
+
