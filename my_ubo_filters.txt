@@ -968,11 +968,6 @@ english.jagran.com##.relativeNews
 english.jagran.com##.jagranvideo
 english.jagran.com##.right-col
 
-/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,3p,redirect-rule=noop.js,to=com
-/^https?:\/\/s3\.us-east-1\.amazonaws\.com\/[0-9a-f]{50,}\/[0-9a-f]{10}$/$xhr,3p
-/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,3p,to=com
-/\/[0-9a-f]{32}\/invoke\.js/$script,3p
-
 ! 2024-03-23 https://hubcloud.day
 hubcloud.day##[href="https://bit.ly/RoyaljeetAD05"]
 
@@ -1598,8 +1593,6 @@ blogs.nvidia.com###formWidget
 ! Sep 1, 2024 https://gaana.com
 gaana.com##div.gaanalyricsRenewBanner
 gaana.com##.mr60.welcBtn
-
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,3p,match-case
 
 ! Sep 1, 2024 https://nexdrive.fun
 nexdrive.*##.code-block-1.code-block > center
@@ -2636,9 +2629,9 @@ www.wionews.com##[class^="article_tredingStories_"]
 www.news18.com##.artcta
 
 ! Blocks news18 video loading within articles
-!@@||googletagmanager.com/gtm.js$domain=news18.com
-@@||googletagmanager.com/gtm.js
-@@||googletagmanager.com
+@@||googletagmanager.com/gtm.js$domain=news18.com
+!@@||googletagmanager.com/gtm.js
+!@@||googletagmanager.com
 
 ! 22 Jul 2025 https://www.firstpost.com
 www.firstpost.com###credential_picker_iframe
@@ -2666,4 +2659,8 @@ timesofindia.indiatimes.com###credential_picker_iframe
 ! 10 Aug 2025 https://www.firstpost.com
 www.firstpost.com##.add_container-top-ad
 
+! From Easylist
+@@||accounts.google.com^$generichide
 
+/^https?:\/\/[a-z0-9]{5,15}\.(?:com|net)\/tag\.min\.js$/$script,3p,redirect-rule=noopjs,to=com|net
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,6}(?:\?[_a-z]=[-0-9a-z]+)?$/$script,3p,redirect-rule=noop.js,match-case
