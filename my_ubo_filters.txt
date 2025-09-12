@@ -58,8 +58,6 @@
 !------------------------------------------------
 ! MY CUSTOM FILTERS
 !------------------------------------------------
-! https://d3ward.github.io/toolz/adblock.html fix for firebox based browsers
-!@@*$redirect-rule
 
 ! Spoof detectadblock.com adblocker detection 
 @@||detectadblock.com/*.js$~third-party
@@ -140,6 +138,9 @@ www.gadgetsnow.com##header
 ! https://www.reddit.com/r/uBlockOrigin/comments/1523lt8/videos_not_playing_on_wionewscom/
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=wionews.com
 wionews.com##^link[rel="canonical"]:not([href^="https://www.wionews.com/videos/"]) ~ script#pwt_script
+
+! Fix videos not playing on zee news
+@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$script,domain=zeenews.india.com
 
 ! 2023-10-02 https://www.wionews.com
 www.wionews.com###footer
@@ -691,8 +692,12 @@ www.apkmirror.com##.ains
 www.apkmirror.com###disqus_thread
 
 ! Allowlist to fix site breakages
-@@||ads.pubmatic.com
-@@||static.vidgyor.com
+!@@||ads.pubmatic.com
+!@@||static.vidgyor.com
+!@@||static.ads-twitter.com
+
+! Allow for bot check
+@@||challenges.cloudflare.com
 
 ! 2024-01-20 https://www.dexerto.com
 www.dexerto.com##div.lg\:mt-4.md\:mx-0.w-full.items-center.flex-col.flex
@@ -701,9 +706,6 @@ www.dexerto.com##div.lg\:mt-4.md\:mx-0.w-full.items-center.flex-col.flex
 www.koreaboo.com##.amh-250.kba-inner
 www.koreaboo.com##div.kba-container
 www.koreaboo.com##.kbos-share
-
-! Allow for bot check
-@@||challenges.cloudflare.com
 
 ! 2024-01-22 https://www.republicbharat.com
 www.republicbharat.com##.adWidget
