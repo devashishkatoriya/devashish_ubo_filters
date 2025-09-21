@@ -59,9 +59,6 @@
 ! MY CUSTOM FILTERS
 !------------------------------------------------
 
-! Spoof detectadblock.com adblocker detection 
-@@||detectadblock.com/*.js$~third-party
-
 ! Spoof thehindu.com adblocker detection
 thehindu.com#?#.tp-modal:has(> div.tp-iframe-wrapper > iframe[id^="offer"][src*="/offer/show?"])
 thehindu.com#?#.tp-modal:has(> div.tp-iframe-wrapper > iframe[id^="offer_"][src*="/cacheableShow?aid="][src*="offerId=fakeOfferId"][src$="widget=template"])
@@ -688,7 +685,6 @@ www.apkmirror.com##.pushbullet-subscribe-widget
 www.apkmirror.com##[href="https://t.me/apkmirror_official"]
 www.apkmirror.com##[href="https://www.apkmirror.com/feed/"]
 www.apkmirror.com##.ains
-!||disqus.com/embed/comments/$subdocument
 www.apkmirror.com###disqus_thread
 
 ! Allowlist to fix site breakages
@@ -768,7 +764,6 @@ mega.nz##.commercial-wrapper
 
 ! 2024-02-04 https://www.nature.com
 www.nature.com##.u-lazy-ad-wrapper
-www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
 
 ! 2024-02-05 https://gamerant.com
 gamerant.com##.ad-current
@@ -786,17 +781,9 @@ timesofindia.indiatimes.com##.minitv_in_page.minitv_cls
 princeofpersia.fandom.com##.global-navigation
 princeofpersia.fandom.com###WikiaBar
 
-! 2024-02-16 https://onlyfans.com
-onlyfans.com##.m-scrollbar-always.m-scrollbar-y.m-native-custom-scrollbar.m-disable-autoscroll.l-wrapper__sidebar.b-feed__aside
-
 ! 2024-02-12 https://aniwatch.to
 aniwatch.to##.zrg-list
 aniwatch.to##.dt-comment
-
-! 2024-02-14 https://topmovies.today
-##.bottomad
-##.topad
-##.header-ad
 
 ! 2024-02-16 https://www.theguardian.com
 www.theguardian.com##.top-banner-ad-container
@@ -907,7 +894,6 @@ manhwa18.cc##.wleft.manga-footer
 
 ! 2024-03-04 https://www.news18.com
 www.news18.com###credential_picker_iframe
-!www.news18.com##.vdcomp_wrap
 
 ! 2024-03-04 https://toonily.com
 toonily.com##.site-footer
@@ -953,7 +939,6 @@ episodes.modlinkz.*##.site-footer
 links.modlinkz.*##.site-footer
 
 ! 2024-03-09 https://tech.unblockedgames.world
-!tech.unblockedgames.world##p
 tech.unblockedgames.world##.section-title
 tech.unblockedgames.world##.center.col-80
 
@@ -2017,9 +2002,6 @@ timesofindia.indiatimes.com##[href^="https://timeslearn.indiatimes.com/value-and
 ! removes top videos section on mobile version main page
 timesofindia.indiatimes.com##.T2ytB.OePOQ.CZcr4
 
-! Nov 10, 2024 https://www.news18.com - Breaks header when scrolling on mobile
-!www.news18.com##.artshare
-
 ! Nov 11, 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.lbAd
 
@@ -2030,7 +2012,6 @@ timesofindia.indiatimes.com##.lbAd
 www.news18.com###next_click
 www.news18.com###headerJoinWhatsAppChnl
 www.news18.com###prev_click
-!www.news18.com##.flwcol
 www.news18.com##.nw18app
 www.news18.com##.jio_widgetAmp
 www.news18.com##.Had300x250
@@ -2427,7 +2408,6 @@ timesofindia.indiatimes.com##div.J7krm
 ! Apr 12, 2025 https://www.kimovil.com
 www.kimovil.com##.kau
 
-
 ! Mar 31, 2025 https://www.eporner.com
 www.eporner.com###pbwuvpad
 www.eporner.com###pbwuvp
@@ -2669,5 +2649,8 @@ www.news18.com##.bgylw.gglebtn
 www.news18.com##.cp_mid_short_news.rpdicn
 
 ! Removes empty space within articles
+!#if env_mobile
 www.news18.com##div.lazyload-wrapper
+!#endif
+
 
