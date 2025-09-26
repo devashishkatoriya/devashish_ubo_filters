@@ -1,0 +1,94 @@
+[
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "challenges.cloudflare.com",
+        "s.youtube.com"
+      ]
+    },
+    "id": 1
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "||static.ads-twitter.com/uwt.js",
+      "initiatorDomains": [
+        "hentaihaven.xxx"
+      ]
+    },
+    "id": 2
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "||googleads.g.doubleclick.net/pagead/",
+      "initiatorDomains": [
+        "cryptednews.space"
+      ]
+    },
+    "id": 3
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js",
+      "initiatorDomains": [
+        "news18.com"
+      ]
+    },
+    "id": 4
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "static.vidgyor.com"
+      ],
+      "initiatorDomains": [
+        "news18.com"
+      ]
+    },
+    "id": 5
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "imasdk.googleapis.com"
+      ],
+      "initiatorDomains": [
+        "ign.com"
+      ]
+    },
+    "id": 6
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "||ads.pubmatic.com/adserver/js/pwt/*/pwt.js",
+      "initiatorDomains": [
+        "wionews.com",
+        "zeenews.india.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "id": 7
+  }
+]
