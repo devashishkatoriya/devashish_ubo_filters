@@ -4,24 +4,12 @@
       "type": "allow"
     },
     "condition": {
-      "requestDomains": [
-        "challenges.cloudflare.com",
-        "s.youtube.com"
-      ]
-    },
-    "id": 1
-  },
-  {
-    "action": {
-      "type": "allow"
-    },
-    "condition": {
       "urlFilter": "||static.ads-twitter.com/uwt.js",
       "initiatorDomains": [
         "hentaihaven.xxx"
       ]
     },
-    "id": 2
+    "id": 1
   },
   {
     "action": {
@@ -33,7 +21,7 @@
         "cryptednews.space"
       ]
     },
-    "id": 3
+    "id": 2
   },
   {
     "action": {
@@ -45,21 +33,7 @@
         "news18.com"
       ]
     },
-    "id": 4
-  },
-  {
-    "action": {
-      "type": "allow"
-    },
-    "condition": {
-      "requestDomains": [
-        "static.vidgyor.com"
-      ],
-      "initiatorDomains": [
-        "news18.com"
-      ]
-    },
-    "id": 5
+    "id": 3
   },
   {
     "action": {
@@ -73,7 +47,7 @@
         "ign.com"
       ]
     },
-    "id": 6
+    "id": 4
   },
   {
     "action": {
@@ -89,6 +63,6 @@
         "script"
       ]
     },
-    "id": 7
+    "id": 5
   }
 ]
