@@ -2653,4 +2653,14 @@ www.news18.com##.cp_mid_short_news.rpdicn
 www.news18.com##div.lazyload-wrapper
 !#endif
 
+! 30 Sept 2025 https://www.firstpost.com
+www.firstpost.com###floatingIcon
+
+! 2 Oct 2025 https://www.aajtak.in
+www.aajtak.in###iz-optin-main-container
+
+! 2 Oct 2025 https://www.news18.com
+www.news18.com###taboola-below-video-thumbnails
+www.news18.com##div.mobadwpr
+
 
