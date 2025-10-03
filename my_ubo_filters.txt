@@ -2663,4 +2663,8 @@ www.aajtak.in###iz-optin-main-container
 www.news18.com###taboola-below-video-thumbnails
 www.news18.com##div.mobadwpr
 
+! Oct 3, 2025 https://www.gamespot.com
+www.gamespot.com##.no-bg.mapped-mpu_top-dart.mapped-mpu_top.mapped-ad.js-mapped-ad
+www.gamespot.com##.js-newsletter-signup-event-tracking
+
 
