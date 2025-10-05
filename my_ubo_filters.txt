@@ -2699,5 +2699,9 @@ www.ndtv.com###credential_picker_container
 www.ndtv.com##.BrkNews_ss-ul
 ||fonts.gstatic.com/s/inter/$font,domain=www.ndtv.com
 
+! Oct 5, 2025 https://www.wionews.com - Unbreak videos not playing
+@@||silverpush.co^$domain=wionews.com
+@@||silverpush.co^$domain=zeenews.india.com
+
 
 
