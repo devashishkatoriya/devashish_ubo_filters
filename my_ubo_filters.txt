@@ -2667,4 +2667,18 @@ www.news18.com##div.mobadwpr
 www.gamespot.com##.no-bg.mapped-mpu_top-dart.mapped-mpu_top.mapped-ad.js-mapped-ad
 www.gamespot.com##.js-newsletter-signup-event-tracking
 
+! Oct 4, 2025 https://driveseed.org
+driveseed.*###credential_picker_container
+
+! Oct 4, 2025 https://zpaste.net
+zpaste.net##center > center > .buttonPress-1091 > .btn2
+zpaste.net##div.uk-margin.uk-card-body.uk-card-small.uk-card-secondary.uk-card > center > .buttonPress-1091 > .btn2
+
+! Oct 4, 2025 https://cheaplann.com
+cheaplann.com##.bs-headtwo
+cheaplann.com##.sidebar-right
+
+! Oct 4, 2025 https://tpi.li
+tpi.li##.td-container-wrap.td-sub-footer-container
+
 
