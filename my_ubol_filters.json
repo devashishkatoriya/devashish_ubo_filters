@@ -64,5 +64,20 @@
       ]
     },
     "id": 5
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "silverpush.co"
+      ],
+      "initiatorDomains": [
+        "wionews.com",
+        "zeenews.india.com"
+      ]
+    },
+    "id": 6
   }
 ]
