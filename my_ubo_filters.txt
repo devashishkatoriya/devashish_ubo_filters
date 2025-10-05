@@ -2694,4 +2694,10 @@ appnee.com###aao_overlay
 ! Oct 5, 2025 https://cheaplann.com
 cheaplann.com##.one.footer
 
+! Oct 5, 2025 https://www.ndtv.com
+www.ndtv.com###credential_picker_container
+www.ndtv.com##.BrkNews_ss-ul
+||fonts.gstatic.com/s/inter/$font,domain=www.ndtv.com
+
+
 
