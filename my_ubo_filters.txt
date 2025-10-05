@@ -2685,4 +2685,13 @@ tpi.li##.td-container-wrap.td-sub-footer-container
 www.ndtv.com##.Js-Tbl_ad-ftr
 www.ndtv.com##.ArGogTrst_wr
 
+! Oct 5, 2025 https://www.news18.com
+www.news18.com##.menu.wrapper-menu
+
+! Oct 5, 2025 https://appnee.com
+appnee.com###aao_overlay
+
+! Oct 5, 2025 https://cheaplann.com
+cheaplann.com##.one.footer
+
 
