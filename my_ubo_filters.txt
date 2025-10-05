@@ -2681,4 +2681,8 @@ cheaplann.com##.sidebar-right
 ! Oct 4, 2025 https://tpi.li
 tpi.li##.td-container-wrap.td-sub-footer-container
 
+! 4 Oct 2025 https://www.ndtv.com
+www.ndtv.com##.Js-Tbl_ad-ftr
+www.ndtv.com##.ArGogTrst_wr
+
 
