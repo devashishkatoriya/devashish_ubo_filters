@@ -2704,6 +2704,6 @@ www.ndtv.com##.BrkNews_ss-ul
 
 ! Oct 19, 2025 https://pcoptimizedsettings.com
 @@||pagead2.googlesyndication.com/pagead/$domain=pcoptimizedsettings.com
-
+@@||googleads.g.doubleclick.net/pagead/$domain=pcoptimizedsettings.com
 
 
