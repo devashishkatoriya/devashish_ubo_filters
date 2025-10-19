@@ -2707,3 +2707,13 @@ www.ndtv.com##.BrkNews_ss-ul
 @@||googleads.g.doubleclick.net/pagead/$domain=pcoptimizedsettings.com
 @@||fundingchoicesmessages.google.com^$domain=pcoptimizedsettings.com
 
+! 28 Sept 2025 https://www.aznude.com
+www.aznude.com##.single-video-ad
+
+! 30 Sept 2025 https://www.wionews.com
+www.wionews.com###below-video-thumbnails-ltv
+
+! 19 Oct 2025 https://www.news18.com
+www.news18.com##.artsharwrp
+www.news18.com##.topstkap
+
