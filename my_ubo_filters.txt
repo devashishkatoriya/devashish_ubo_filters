@@ -2702,5 +2702,8 @@ www.ndtv.com##.BrkNews_ss-ul
 @@||silverpush.co^$domain=wionews.com
 @@||silverpush.co^$domain=zeenews.india.com
 
+! Oct 19, 2025 https://pcoptimizedsettings.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pcoptimizedsettings.com
+
 
 
