@@ -1,7 +1,6 @@
 ![Adblock Plus 2.0]
 ! Title: my_ubo_filters
 ! Description: My custom list of filters taken from various sources
-! Last modified: %timestamp%
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/devashishkatoriya/devashish_ubo_filters/tree/main
 ! License: https://github.com/devashishkatoriya/devashish_ubo_filters/blob/main/LICENSE
