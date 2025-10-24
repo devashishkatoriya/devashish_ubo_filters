@@ -2489,17 +2489,17 @@ www.prabhatkhabar.com###iz-osn-exitIntent
 
 ! Block invisible overlay, that prevent saving images
 instagram.com##._aagw:empty
-instagram.com##+js(set-session-storage-item, loggedOutCTAIsShown, 1)
-instagram.com##nav > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class] > div[class^=" _"][style="width: 100%;"]:only-child
-instagram.com##.xoegz02
-instagram.com#?##react-root ~ div[class$=" "][role="presentation"]:has(a[href^="/accounts/"][href*="signup/"]):not(:has(button[type="button"] > div > svg[aria-label][width="18"][height="18"][viewBox*="48"]))
-instagram.com##+js(set-constant, _sharedData.is_whitelisted_crawl_bot, true)
-instagram.com#?#footer[role="contentinfo"]+div[class]:has(> div[class] > a[href="/accounts/emailsignup/"])
-instagram.com#$#body { overflow: visible!important; }
-instagram.com,facebook.com##div[data-cookiebanner="banner"]
-instagram.com##main + div:not([class]) > div[data-visualcompletion="ignore"] > div._abpk
-instagram.com##+js(set-session-storage-item, loggedOutAppSheetIsMinimized, 1)
-instagram.com##main ~ div:not([style]) > div[class] > div[style="width: 100%;"]
+!instagram.com##+js(set-session-storage-item, loggedOutCTAIsShown, 1)
+!instagram.com##nav > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class] > div[class^=" _"][style="width: 100%;"]:only-child
+!instagram.com##.xoegz02
+!instagram.com#?##react-root ~ div[class$=" "][role="presentation"]:has(a[href^="/accounts/"][href*="signup/"]):not(:has(button[type="button"] > div > svg[aria-label][width="18"][height="18"][viewBox*="48"]))
+!instagram.com##+js(set-constant, _sharedData.is_whitelisted_crawl_bot, true)
+!instagram.com#?#footer[role="contentinfo"]+div[class]:has(> div[class] > a[href="/accounts/emailsignup/"])
+!instagram.com#$#body { overflow: visible!important; }
+!instagram.com,facebook.com##div[data-cookiebanner="banner"]
+!instagram.com##main + div:not([class]) > div[data-visualcompletion="ignore"] > div._abpk
+!instagram.com##+js(set-session-storage-item, loggedOutAppSheetIsMinimized, 1)
+!instagram.com##main ~ div:not([style]) > div[class] > div[style="width: 100%;"]
 
 ! May 18, 2025 https://www.wionews.com
 www.wionews.com##[class^="ads_adsBlock__"]
