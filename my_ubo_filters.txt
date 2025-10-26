@@ -2728,3 +2728,6 @@ www.wionews.com###below-video-thumbnails-ltv
 www.news18.com##.artsharwrp
 www.news18.com##.topstkap
 
+! 19 Oct 2025 https://www.ndtv.com
+www.ndtv.com##.bpsBt-ad
+
