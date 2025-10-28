@@ -2731,3 +2731,8 @@ www.news18.com##.topstkap
 ! 19 Oct 2025 https://www.ndtv.com
 www.ndtv.com##.bpsBt-ad
 
+! 28 Oct 2025 https://pcoptimizedsettings.com - Bypass adblock detection
+pcoptimizedsettings.com#%#//scriptlet('prevent-addEventListener', 'load', 'innerHTML')
+pcoptimizedsettings.com#$#body > .adunit { display: block !important; }
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pcoptimizedsettings.com
+
