@@ -2725,3 +2725,12 @@ missav.to##.sidebar-ads
 ! 1 Nov 2025 https://es.pornhub.org
 es.pornhub.*##.watchpageAd
 
+! Nov 9, 2025 https://www.indiatoday.in
+www.indiatoday.in###iz-optin-main-container
+www.indiatoday.in###taboola-mid-article-personalisation
+www.indiatoday.in##.preferred-source-banner
+
+! Nov 9, 2025 https://economictimes.indiatimes.com
+economictimes.indiatimes.com##.sharePbanner
+economictimes.indiatimes.com##.Pbanner
+
