@@ -2713,11 +2713,6 @@ www.ndtv.com##.BrkNews_ss-ul
 @@||silverpush.co^$domain=wionews.com
 @@||silverpush.co^$domain=zeenews.india.com
 
-! Oct 19, 2025 https://pcoptimizedsettings.com
-@@||pagead2.googlesyndication.com/pagead/$domain=pcoptimizedsettings.com
-@@||googleads.g.doubleclick.net/pagead/$domain=pcoptimizedsettings.com
-@@||fundingchoicesmessages.google.com^$domain=pcoptimizedsettings.com
-
 ! 28 Sept 2025 https://www.aznude.com
 www.aznude.com##.single-video-ad
 
@@ -2735,4 +2730,8 @@ www.ndtv.com##.bpsBt-ad
 pcoptimizedsettings.com#%#//scriptlet('prevent-addEventListener', 'load', 'innerHTML')
 pcoptimizedsettings.com#$#body > .adunit { display: block !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pcoptimizedsettings.com
+
+! Oct 21, 2025 https://www.space.com
+www.space.com##.dfp-leaderboard-container
+www.space.com##.widget-no-data.ad-unit
 
