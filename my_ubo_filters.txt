@@ -2735,3 +2735,12 @@ pcoptimizedsettings.com#$#body > .adunit { display: block !important; }
 www.space.com##.dfp-leaderboard-container
 www.space.com##.widget-no-data.ad-unit
 
+! 27 Oct 2025 https://www.toongod.org
+www.toongod.org##.share-buttons-block
+
+! 30 Oct 2025 https://missav.to
+missav.to##.sidebar-ads
+
+! 1 Nov 2025 https://es.pornhub.org
+es.pornhub.*##.watchpageAd
+
