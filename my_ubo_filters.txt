@@ -2752,3 +2752,6 @@ vidsrc.*##+js(prevent-window-open)
 ! 15 Nov 2025 https://www.news18.com
 www.news18.com##.play_games_floating.playgames.onapp1.opnbtnwrap2
 
+! Nov 16, 2025 https://www.filmibeat.com
+www.filmibeat.com##.oi-adblock
+
