@@ -434,9 +434,6 @@ apnews.com###usntA40Toggle
 liveinsure.in###sticky-ad
 liveinsure.in##.adsbyadop
 
-! 2023-11-01 https://katmoviehd.dev
-katmoviehd.dev##.meta-share
-
 ! 2023-11-01 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[id^="readAlso_"]
 timesofindia.indiatimes.com##[id^="readNextColumnVariant_"]
@@ -2755,3 +2752,4 @@ www.news18.com##.play_games_floating.playgames.onapp1.opnbtnwrap2
 ! Nov 16, 2025 https://www.filmibeat.com
 www.filmibeat.com##.oi-adblock
 
+katmoviehd.*##+js(abort-current-script, Math.imul)
