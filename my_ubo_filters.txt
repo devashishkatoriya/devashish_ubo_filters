@@ -2753,3 +2753,8 @@ www.news18.com##.play_games_floating.playgames.onapp1.opnbtnwrap2
 www.filmibeat.com##.oi-adblock
 
 katmoviehd.*##+js(abort-current-script, Math.imul)
+
+! Dec 10, 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###credential_picker_container
+
+
