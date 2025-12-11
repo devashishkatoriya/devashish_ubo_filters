@@ -2722,6 +2722,7 @@ missav.to##.sidebar-ads
 
 ! 1 Nov 2025 https://es.pornhub.org
 es.pornhub.*##.watchpageAd
+pornhub.*##.watchpageAd
 
 ! Nov 9, 2025 https://www.indiatoday.in
 www.indiatoday.in###iz-optin-main-container
