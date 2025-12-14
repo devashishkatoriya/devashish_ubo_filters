@@ -2758,4 +2758,11 @@ katmoviehd.*##+js(abort-current-script, Math.imul)
 ! Dec 10, 2025 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###credential_picker_container
 
+! Dec 14, 2025 zpaste.net - popups
+zpaste.net##^script[data-cfasync]:has-text(/h=decodeURIComponent|popundersPerIP/)
+zpaste.net##+js(abort-current-script, Math, break;case $.)
+zpaste.net##+js(abort-current-script, $, open)
+zpaste.net##+js(addEventListener-defuser, DOMContentLoaded, adlinkfly)
+*$script,3p,denyallow=cloudflare.com|cloudflare.net|fastly.net|fastlylb.net|google.com|googleapis.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net|jwplatform.com|jwpcdn.com|recaptcha.net|arc.io,from=zpaste.net
+||acscdn.com/script/aclib.js$script,redirect-rule=noopjs
 
