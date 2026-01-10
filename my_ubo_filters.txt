@@ -1179,6 +1179,7 @@ www.btvsports.cam###chat
 
 uhdmovies.*##+js(nowoif)
 tech.unblockedgames.world##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
+blog.examzculture.in##+js(nano-sib, /count|verify|isCompleted/, , 0.001)
 pcgamer.com##.exit-intent
 pcgamer.com##.sticky-player-background
 pcgamer.com##.newsletter-form__wrapper
