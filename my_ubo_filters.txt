@@ -2690,8 +2690,8 @@ www.ndtv.com##.BrkNews_ss-ul
 ||fonts.gstatic.com/s/inter/$font,domain=www.ndtv.com
 
 ! Oct 5, 2025 https://www.wionews.com - Unbreak videos not playing
-@@||silverpush.co^$domain=wionews.com
-@@||silverpush.co^$domain=zeenews.india.com
+@@||attssai.silverpush.co^$domain=wionews.com
+@@||attssai.silverpush.co^$domain=zeenews.india.com
 
 ! 28 Sept 2025 https://www.aznude.com
 www.aznude.com##.single-video-ad
