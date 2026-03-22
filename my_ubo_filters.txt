@@ -1375,20 +1375,6 @@ english.jagran.com##.taboolaads
 ! Aug 18, 2024 https://www.thehindu.com - To unbreak videos not loading on the hindu
 !@@||c2.piano.io/xbuilder/experience/execute?aid=DC3REpZYpu$xhr,domain=www.thehindu.com
 
-! Reddit - Block loader of nsfw modal
-||www.redditstatic.com/shreddit/*/xpromo-nsfw-blocking-modal*.js$script,domain=reddit.com
-
-! Reddit - Hide prompt in single post, backdrop overlay
-reddit.com##.prompt
-reddit.com##.bg-scrim
-reddit.com##.overlay
-
-! Reddit - Set revealed removing mode attr
-reddit.com##shreddit-blurred-container[mode]:has([slot="revealed"]):remove-attr(mode)
-
-! Reddit - Remove blur, backdrop...
-reddit.com##.blurred:style(filter: unset !important; background: unset !important; pointer-events: unset !important; display: unset !important;)
-
 ! Aug 20, 2024 https://www.msn.com
 www.msn.com##.adsContainer-DS-EntryPoint1-1
 www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
@@ -2341,18 +2327,6 @@ www.1xanimes.in###ckWrap
 
 ! Mar 16, 2025 https://economictimes.indiatimes.com
 economictimes.indiatimes.com##.hide.full.stickyBand
-
-! Reddit - Set revealed
-www.reddit.com##+js(trusted-set, HTMLElement.prototype.__blurred, { value: "false" })
-
-! Reddit - Prevent remove revealed
-www.reddit.com##+js(trusted-suppress-native-method, Element.prototype.querySelector, '"div[slot="revealed"]"', prevent)
-
-! Reddit - Hide prompt in single post, backdrop overlay, etc...
-www.reddit.com##.prompt, .bg-scrim, .overlay, .viewInApp, #blocking-modal, #nsfw-qr-dialog, body > [style*="blur(4px)"]
-
-! Reddit - Remove scroll/click block
-www.reddit.com##body:style(pointer-events: auto !important; overflow: auto !important;)
 
 ! Mar 18, 2025 https://fitgirl-repacks.site
 fitgirl-repacks.site##.open.jetpack-subscribe-modal
