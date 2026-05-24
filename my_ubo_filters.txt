@@ -2747,3 +2747,19 @@ elamigosgamez.net##h3.my-4:has-text(/^Advertising/)
 elamigosgamez.net##.iframeDiv
 elamigosgamez.net##.content_store
 elamigosgamez.net##+js(prevent-setTimeout, checkAdblockUser)
+
+! Feb 28, 2026 https://xhamster.com
+xhamster.com##.container-f57ba
+
+! Mar 9, 2026 https://www.nickiswift.com
+www.nickiswift.com##.raptive-video-player
+
+! Mar 30, 2026 https://www.news18.com
+www.news18.com##.ask_news18_btn.askbtnbr
+
+! Apr 14, 2026 https://gamedrive.org
+gamedrive.org##.hbu-banner
+
+! May 23, 2026 https://xxxbp.tv
+xxxbp.tv##.ads-mobile.top-ads
+
