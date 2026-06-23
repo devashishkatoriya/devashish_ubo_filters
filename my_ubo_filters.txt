@@ -2767,3 +2767,6 @@ gamedrive.org##.hbu-banner
 ! May 23, 2026 https://xxxbp.tv
 xxxbp.tv##.ads-mobile.top-ads
 
+! Jun 20, 2026 https://cums.net
+cums.net##.promo-card.thumbnail
+
