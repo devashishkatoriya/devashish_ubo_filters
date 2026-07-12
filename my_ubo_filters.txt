@@ -2770,3 +2770,52 @@ xxxbp.tv##.ads-mobile.top-ads
 ! Jun 20, 2026 https://cums.net
 cums.net##.promo-card.thumbnail
 
+! May 26, 2026 https://spankbang.com
+spankbang.com##.relative.mx-auto.mb-2.-mt-2.ad-wrapper
+spankbang.com##.relative.mx-auto.my-4.ad-wrapper
+
+! May 27, 2026 https://www.xxbrits.to
+www.xxbrits.to##div.avd.th
+www.xxbrits.to##.top-bar-xxbrits-static
+www.xxbrits.to##[href="https://a.adtng.com/get/10016303"]
+www.xxbrits.to##.network
+www.xxbrits.to##.aside-spot
+www.xxbrits.to##.adv-box
+
+! May 27, 2026 https://topfaps.com
+||topfaps.com/tantaly4.gif.mp4$media
+
+! May 29, 2026 https://m.hqporner.com
+m.hqporner.com##.banner-ad
+m.hqporner.com##.container-300x100
+
+! Jun 2, 2026 https://leakgallery.com
+leakgallery.com##app-header-ads
+leakgallery.com##.nopop.bored-of-ads-banner
+leakgallery.com##.nopop.affiliate-grid.bottom-media
+leakgallery.com##app-media-ads
+leakgallery.com##.tinder.bottom-media
+leakgallery.com##app-footer-ads
+leakgallery.com##.undressai
+
+! Jun 10, 2026 https://topfaps.com
+||topfaps.com/tantaly4.gif.mp4$media
+
+! Jun 12, 2026 https://www.moneycontrol.com
+www.moneycontrol.com##.cus_touchpoint_position.css-slideshow
+www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
+www.moneycontrol.com##.advSlotsWithoutGrayBox
+www.moneycontrol.com##.mbottom.show-moblie.ads-320-250
+www.moneycontrol.com##.download_apps
+
+! Jun 12, 2026 https://www.loksatta.com
+www.loksatta.com##.adcode300x250.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+www.loksatta.com##div.ad-bg-container
+www.loksatta.com##.header-subscribe-btn
+www.loksatta.com###next-story-button
+www.loksatta.com###taboola-below-article-personalisation
+www.loksatta.com##.moe-push-class
+
+! Jun 15, 2026 https://w4nkr.com
+w4nkr.com##.header-avd
+
