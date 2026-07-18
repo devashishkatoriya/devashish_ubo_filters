@@ -2819,3 +2819,15 @@ www.loksatta.com##.moe-push-class
 ! Jun 15, 2026 https://w4nkr.com
 w4nkr.com##.header-avd
 
+! Jul 18, 2026 https://www.news18.com
+www.news18.com##.imrsv
+www.news18.com##.newsletter.artnws
+www.news18.com##.midgprfd
+www.news18.com##.comment_hook.cmtcount
+www.news18.com##.prdcotnr
+www.news18.com##div.trndvdo
+
+! Jul 18, 2026 https://www.wionews.com
+www.wionews.com##.googleCTAContainer
+www.wionews.com##.socialIcons
+
