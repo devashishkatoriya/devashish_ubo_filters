@@ -44,6 +44,8 @@
 
 ! uBlock filters – Link shorteners - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt
 
+! Remove YouTube shorts - https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
+
 ! Allow captchas to work properly
 !* captcha.com * allow
 !* hcaptcha.com * allow
@@ -2830,4 +2832,9 @@ www.news18.com##div.trndvdo
 ! Jul 18, 2026 https://www.wionews.com
 www.wionews.com##.googleCTAContainer
 www.wionews.com##.socialIcons
+
+! Jul 25, 2026 https://www.firstpost.com
+www.firstpost.com###newsletter-widget
+www.firstpost.com##.disclaimer
+www.firstpost.com###ia-search-popup
 
