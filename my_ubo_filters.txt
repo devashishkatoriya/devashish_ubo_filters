@@ -2838,3 +2838,8 @@ www.firstpost.com###newsletter-widget
 www.firstpost.com##.disclaimer
 www.firstpost.com###ia-search-popup
 
+! Aug 23, 2026 https://www.firstpost.com
+www.firstpost.com##div.my20.add_container.nobrdrbot.adwrp
+www.firstpost.com##.flfp
+www.firstpost.com##.vgad
+
