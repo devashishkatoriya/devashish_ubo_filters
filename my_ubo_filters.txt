@@ -2842,4 +2842,17 @@ www.firstpost.com###ia-search-popup
 www.firstpost.com##div.my20.add_container.nobrdrbot.adwrp
 www.firstpost.com##.flfp
 www.firstpost.com##.vgad
+www.firstpost.com##.adwrp
+www.firstpost.com##.add_container
+
+! Sep 4, 2026 https://www.tweaktown.com
+www.tweaktown.com###faq-section
+
+! Sep 5, 2026 https://www.pcguide.com
+www.pcguide.com##.newsletter-block-wrapper
+www.pcguide.com##.code-block-4.code-block
+www.pcguide.com###ays-poll-container-88
+www.pcguide.com##.globalDisclosure
+www.pcguide.com##.ic_google_news
+www.pcguide.com###newsletter-trigger
 
