@@ -2837,8 +2837,6 @@ www.wionews.com##.socialIcons
 www.firstpost.com###newsletter-widget
 www.firstpost.com##.disclaimer
 www.firstpost.com###ia-search-popup
-
-! Aug 23, 2026 https://www.firstpost.com
 www.firstpost.com##div.my20.add_container.nobrdrbot.adwrp
 www.firstpost.com##.flfp
 www.firstpost.com##.vgad
@@ -2855,4 +2853,18 @@ www.pcguide.com###ays-poll-container-88
 www.pcguide.com##.globalDisclosure
 www.pcguide.com##.ic_google_news
 www.pcguide.com###newsletter-trigger
+
+! Sep 5, 2026 https://ithardware.pl
+ithardware.pl##.mediaexpert-widget-injected
+
+! Sep 22, 2026 https://www.polygon.com
+www.polygon.com##.sidebar-first
+www.polygon.com##.quick-action-sidebar
+www.polygon.com##.article-add-google--sidebar.article-add-google
+www.polygon.com##.small.google.btn-fab
+
+! Sep 27, 2026 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[href^="https://timesofindia.indiatimes.com/technology/aiq/start"]
+
+
 
