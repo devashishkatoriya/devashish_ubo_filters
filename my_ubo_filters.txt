@@ -2866,5 +2866,6 @@ www.polygon.com##.small.google.btn-fab
 ! Sep 27, 2026 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[href^="https://timesofindia.indiatimes.com/technology/aiq/start"]
 
-
+! Oct 7, 2026 https://filecrypt.cc
+filecrypt.cc##.dkab-visible.dkab
 
