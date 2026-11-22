@@ -2869,3 +2869,9 @@ timesofindia.indiatimes.com##[href^="https://timesofindia.indiatimes.com/technol
 ! Oct 7, 2026 https://filecrypt.cc
 filecrypt.cc##.dkab-visible.dkab
 
+! Sep 5, 2026 https://x.com
+x.com##.justify-center.items-center.flex.z-50.inset-0.fixed.pointer-events-auto
+
+! Nov 15, 2026 https://worldfree4u.apartments
+worldfree4u.apartments##.ffad-box
+
